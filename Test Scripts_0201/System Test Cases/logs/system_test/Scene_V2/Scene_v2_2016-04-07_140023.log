@@ -1,0 +1,31 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.6
+			UserName: UX6IPK3RaS1l7lTjJ2lWMb1kHXJb5BNkY1fneGC0
+
+========================================================================================================================
+ IPJ_16524 TC1 
+
+
+2016-04-07	14:00:05
+		/scenes	POST
+		{"name":"1_lamp_scene","lights":["1"], "recycle":true}
+	14:00:05
+		[{"success":{"id":"qsyTqQu47R1kGJg"}}]
+
+
+2016-04-07	14:00:07
+		/scenes/qsyTqQu47R1kGJg/lightstates/1	PUT
+		{"on": true, "bri": 100}
+	14:00:05
+		[{"success":{"/scenes/qsyTqQu47R1kGJg/lightstates/1/on":true}},{"success":{"/scenes/qsyTqQu47R1kGJg/lightstates/1/bri":100}}]
+
+
+2016-04-07	14:00:09
+		/groups/1/action	PUT
+		{"scene":"qsyTqQu47R1kGJg"}
+	14:00:09
+		[{"error":{"type":3,"address":"/groups/1/action","description":"resource, /groups/1/action, not available"}}]
+
+
+Finished Test

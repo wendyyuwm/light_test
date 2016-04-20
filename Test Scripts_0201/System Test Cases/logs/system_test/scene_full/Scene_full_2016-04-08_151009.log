@@ -1,0 +1,2640 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.9
+			UserName: UX6IPK3RaS1l7lTjJ2lWMb1kHXJb5BNkY1fneGC0
+
+========================================================================================================================**********	1 scene(s)	**********
+
+2016-04-08	14:59:09
+		/scenes	POST
+		{"name":"Scene1_145909","lights":["1", "2", "3"], "recycle":true}
+	14:59:09
+		[{"success":{"id":"8-0KmHgmyH7JZFR"}}]
+
+
+2016-04-08	14:59:11
+		/scenes/8-0KmHgmyH7JZFR/lightstates/1	PUT
+		{"on":true, "bri":25}
+	14:59:09
+		[{"success":{"/scenes/8-0KmHgmyH7JZFR/lightstates/1/on":true}},{"success":{"/scenes/8-0KmHgmyH7JZFR/lightstates/1/bri":25}}]
+
+
+2016-04-08	14:59:12
+		/scenes/8-0KmHgmyH7JZFR/lightstates/2	PUT
+		{"on":true, "bri":25}
+	14:59:09
+		[{"success":{"/scenes/8-0KmHgmyH7JZFR/lightstates/2/on":true}},{"success":{"/scenes/8-0KmHgmyH7JZFR/lightstates/2/bri":25}}]
+
+
+2016-04-08	14:59:13
+		/scenes/8-0KmHgmyH7JZFR/lightstates/3	PUT
+		{"on":true, "bri":25}
+	14:59:09
+		[{"success":{"/scenes/8-0KmHgmyH7JZFR/lightstates/3/on":true}},{"success":{"/scenes/8-0KmHgmyH7JZFR/lightstates/3/bri":25}}]
+**********	2 scene(s)	**********
+
+2016-04-08	14:59:15
+		/scenes	POST
+		{"name":"Scene2_145915","lights":["1", "2", "3"], "recycle":true}
+	14:59:15
+		[{"success":{"id":"FAbY17HEipbFECX"}}]
+
+
+2016-04-08	14:59:17
+		/scenes/FAbY17HEipbFECX/lightstates/1	PUT
+		{"on":true, "bri":25}
+	14:59:15
+		[{"success":{"/scenes/FAbY17HEipbFECX/lightstates/1/on":true}},{"success":{"/scenes/FAbY17HEipbFECX/lightstates/1/bri":25}}]
+
+
+2016-04-08	14:59:18
+		/scenes/FAbY17HEipbFECX/lightstates/2	PUT
+		{"on":true, "bri":25}
+	14:59:15
+		[{"success":{"/scenes/FAbY17HEipbFECX/lightstates/2/on":true}},{"success":{"/scenes/FAbY17HEipbFECX/lightstates/2/bri":25}}]
+
+
+2016-04-08	14:59:19
+		/scenes/FAbY17HEipbFECX/lightstates/3	PUT
+		{"on":true, "bri":25}
+	14:59:15
+		[{"success":{"/scenes/FAbY17HEipbFECX/lightstates/3/on":true}},{"success":{"/scenes/FAbY17HEipbFECX/lightstates/3/bri":25}}]
+**********	3 scene(s)	**********
+
+2016-04-08	14:59:21
+		/scenes	POST
+		{"name":"Scene3_145921","lights":["1", "2", "3"], "recycle":true}
+	14:59:21
+		[{"success":{"id":"8V7I8x1egskGWqq"}}]
+
+
+2016-04-08	14:59:23
+		/scenes/8V7I8x1egskGWqq/lightstates/1	PUT
+		{"on":true, "bri":25}
+	14:59:21
+		[{"success":{"/scenes/8V7I8x1egskGWqq/lightstates/1/on":true}},{"success":{"/scenes/8V7I8x1egskGWqq/lightstates/1/bri":25}}]
+
+
+2016-04-08	14:59:24
+		/scenes/8V7I8x1egskGWqq/lightstates/2	PUT
+		{"on":true, "bri":25}
+	14:59:21
+		[{"success":{"/scenes/8V7I8x1egskGWqq/lightstates/2/on":true}},{"success":{"/scenes/8V7I8x1egskGWqq/lightstates/2/bri":25}}]
+
+
+2016-04-08	14:59:25
+		/scenes/8V7I8x1egskGWqq/lightstates/3	PUT
+		{"on":true, "bri":25}
+	14:59:21
+		[{"success":{"/scenes/8V7I8x1egskGWqq/lightstates/3/on":true}},{"success":{"/scenes/8V7I8x1egskGWqq/lightstates/3/bri":25}}]
+**********	4 scene(s)	**********
+
+2016-04-08	14:59:27
+		/scenes	POST
+		{"name":"Scene4_145927","lights":["1", "2", "3"], "recycle":true}
+	14:59:27
+		[{"success":{"id":"pwIXRENONp-Muly"}}]
+
+
+2016-04-08	14:59:29
+		/scenes/pwIXRENONp-Muly/lightstates/1	PUT
+		{"on":true, "bri":25}
+	14:59:27
+		[{"success":{"/scenes/pwIXRENONp-Muly/lightstates/1/on":true}},{"success":{"/scenes/pwIXRENONp-Muly/lightstates/1/bri":25}}]
+
+
+2016-04-08	14:59:30
+		/scenes/pwIXRENONp-Muly/lightstates/2	PUT
+		{"on":true, "bri":25}
+	14:59:27
+		[{"success":{"/scenes/pwIXRENONp-Muly/lightstates/2/on":true}},{"success":{"/scenes/pwIXRENONp-Muly/lightstates/2/bri":25}}]
+
+
+2016-04-08	14:59:31
+		/scenes/pwIXRENONp-Muly/lightstates/3	PUT
+		{"on":true, "bri":25}
+	14:59:27
+		[{"success":{"/scenes/pwIXRENONp-Muly/lightstates/3/on":true}},{"success":{"/scenes/pwIXRENONp-Muly/lightstates/3/bri":25}}]
+**********	5 scene(s)	**********
+
+2016-04-08	14:59:33
+		/scenes	POST
+		{"name":"Scene5_145933","lights":["1", "2", "3"], "recycle":true}
+	14:59:33
+		[{"success":{"id":"WxhJwi53mwKA3NS"}}]
+
+
+2016-04-08	14:59:35
+		/scenes/WxhJwi53mwKA3NS/lightstates/1	PUT
+		{"on":true, "bri":25}
+	14:59:33
+		[{"success":{"/scenes/WxhJwi53mwKA3NS/lightstates/1/on":true}},{"success":{"/scenes/WxhJwi53mwKA3NS/lightstates/1/bri":25}}]
+
+
+2016-04-08	14:59:36
+		/scenes/WxhJwi53mwKA3NS/lightstates/2	PUT
+		{"on":true, "bri":25}
+	14:59:33
+		[{"success":{"/scenes/WxhJwi53mwKA3NS/lightstates/2/on":true}},{"success":{"/scenes/WxhJwi53mwKA3NS/lightstates/2/bri":25}}]
+
+
+2016-04-08	14:59:37
+		/scenes/WxhJwi53mwKA3NS/lightstates/3	PUT
+		{"on":true, "bri":25}
+	14:59:33
+		[{"success":{"/scenes/WxhJwi53mwKA3NS/lightstates/3/on":true}},{"success":{"/scenes/WxhJwi53mwKA3NS/lightstates/3/bri":25}}]
+**********	6 scene(s)	**********
+
+2016-04-08	14:59:39
+		/scenes	POST
+		{"name":"Scene6_145939","lights":["1", "2", "3"], "recycle":true}
+	14:59:39
+		[{"success":{"id":"rmnTUbizGqo7Wiz"}}]
+
+
+2016-04-08	14:59:41
+		/scenes/rmnTUbizGqo7Wiz/lightstates/1	PUT
+		{"on":true, "bri":25}
+	14:59:39
+		[{"success":{"/scenes/rmnTUbizGqo7Wiz/lightstates/1/on":true}},{"success":{"/scenes/rmnTUbizGqo7Wiz/lightstates/1/bri":25}}]
+
+
+2016-04-08	14:59:42
+		/scenes/rmnTUbizGqo7Wiz/lightstates/2	PUT
+		{"on":true, "bri":25}
+	14:59:39
+		[{"success":{"/scenes/rmnTUbizGqo7Wiz/lightstates/2/on":true}},{"success":{"/scenes/rmnTUbizGqo7Wiz/lightstates/2/bri":25}}]
+
+
+2016-04-08	14:59:44
+		/scenes/rmnTUbizGqo7Wiz/lightstates/3	PUT
+		{"on":true, "bri":25}
+	14:59:39
+		[{"success":{"/scenes/rmnTUbizGqo7Wiz/lightstates/3/on":true}},{"success":{"/scenes/rmnTUbizGqo7Wiz/lightstates/3/bri":25}}]
+**********	7 scene(s)	**********
+
+2016-04-08	14:59:46
+		/scenes	POST
+		{"name":"Scene7_145946","lights":["1", "2", "3"], "recycle":true}
+	14:59:46
+		[{"success":{"id":"u7I8o4WoyjDz2WD"}}]
+
+
+2016-04-08	14:59:48
+		/scenes/u7I8o4WoyjDz2WD/lightstates/1	PUT
+		{"on":true, "bri":25}
+	14:59:46
+		[{"success":{"/scenes/u7I8o4WoyjDz2WD/lightstates/1/on":true}},{"success":{"/scenes/u7I8o4WoyjDz2WD/lightstates/1/bri":25}}]
+
+
+2016-04-08	14:59:49
+		/scenes/u7I8o4WoyjDz2WD/lightstates/2	PUT
+		{"on":true, "bri":25}
+	14:59:46
+		[{"success":{"/scenes/u7I8o4WoyjDz2WD/lightstates/2/on":true}},{"success":{"/scenes/u7I8o4WoyjDz2WD/lightstates/2/bri":25}}]
+
+
+2016-04-08	14:59:50
+		/scenes/u7I8o4WoyjDz2WD/lightstates/3	PUT
+		{"on":true, "bri":25}
+	14:59:46
+		[{"success":{"/scenes/u7I8o4WoyjDz2WD/lightstates/3/on":true}},{"success":{"/scenes/u7I8o4WoyjDz2WD/lightstates/3/bri":25}}]
+**********	8 scene(s)	**********
+
+2016-04-08	14:59:52
+		/scenes	POST
+		{"name":"Scene8_145952","lights":["1", "2", "3"], "recycle":true}
+	14:59:52
+		[{"success":{"id":"2CCO7R7qCwry7mT"}}]
+
+
+2016-04-08	14:59:54
+		/scenes/2CCO7R7qCwry7mT/lightstates/1	PUT
+		{"on":true, "bri":25}
+	14:59:52
+		[{"success":{"/scenes/2CCO7R7qCwry7mT/lightstates/1/on":true}},{"success":{"/scenes/2CCO7R7qCwry7mT/lightstates/1/bri":25}}]
+
+
+2016-04-08	14:59:55
+		/scenes/2CCO7R7qCwry7mT/lightstates/2	PUT
+		{"on":true, "bri":25}
+	14:59:52
+		[{"success":{"/scenes/2CCO7R7qCwry7mT/lightstates/2/on":true}},{"success":{"/scenes/2CCO7R7qCwry7mT/lightstates/2/bri":25}}]
+
+
+2016-04-08	14:59:56
+		/scenes/2CCO7R7qCwry7mT/lightstates/3	PUT
+		{"on":true, "bri":25}
+	14:59:52
+		[{"success":{"/scenes/2CCO7R7qCwry7mT/lightstates/3/on":true}},{"success":{"/scenes/2CCO7R7qCwry7mT/lightstates/3/bri":25}}]
+**********	9 scene(s)	**********
+
+2016-04-08	14:59:58
+		/scenes	POST
+		{"name":"Scene9_145958","lights":["1", "2", "3"], "recycle":true}
+	14:59:58
+		[{"success":{"id":"gXRIB9vp0MV7SJ6"}}]
+
+
+2016-04-08	15:00:00
+		/scenes/gXRIB9vp0MV7SJ6/lightstates/1	PUT
+		{"on":true, "bri":25}
+	14:59:58
+		[{"success":{"/scenes/gXRIB9vp0MV7SJ6/lightstates/1/on":true}},{"success":{"/scenes/gXRIB9vp0MV7SJ6/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:00:01
+		/scenes/gXRIB9vp0MV7SJ6/lightstates/2	PUT
+		{"on":true, "bri":25}
+	14:59:58
+		[{"success":{"/scenes/gXRIB9vp0MV7SJ6/lightstates/2/on":true}},{"success":{"/scenes/gXRIB9vp0MV7SJ6/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:00:02
+		/scenes/gXRIB9vp0MV7SJ6/lightstates/3	PUT
+		{"on":true, "bri":25}
+	14:59:58
+		[{"success":{"/scenes/gXRIB9vp0MV7SJ6/lightstates/3/on":true}},{"success":{"/scenes/gXRIB9vp0MV7SJ6/lightstates/3/bri":25}}]
+**********	10 scene(s)	**********
+
+2016-04-08	15:00:04
+		/scenes	POST
+		{"name":"Scene10_150004","lights":["1", "2", "3"], "recycle":true}
+	15:00:04
+		[{"success":{"id":"sACKikCUP818BCD"}}]
+
+
+2016-04-08	15:00:06
+		/scenes/sACKikCUP818BCD/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:00:04
+		[{"success":{"/scenes/sACKikCUP818BCD/lightstates/1/on":true}},{"success":{"/scenes/sACKikCUP818BCD/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:00:07
+		/scenes/sACKikCUP818BCD/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:00:04
+		[{"success":{"/scenes/sACKikCUP818BCD/lightstates/2/on":true}},{"success":{"/scenes/sACKikCUP818BCD/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:00:08
+		/scenes/sACKikCUP818BCD/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:00:04
+		[{"success":{"/scenes/sACKikCUP818BCD/lightstates/3/on":true}},{"success":{"/scenes/sACKikCUP818BCD/lightstates/3/bri":25}}]
+**********	11 scene(s)	**********
+
+2016-04-08	15:00:10
+		/scenes	POST
+		{"name":"Scene11_150010","lights":["1", "2", "3"], "recycle":true}
+	15:00:10
+		[{"success":{"id":"i6YXCey9IVRJEt5"}}]
+
+
+2016-04-08	15:00:12
+		/scenes/i6YXCey9IVRJEt5/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:00:10
+		[{"success":{"/scenes/i6YXCey9IVRJEt5/lightstates/1/on":true}},{"success":{"/scenes/i6YXCey9IVRJEt5/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:00:13
+		/scenes/i6YXCey9IVRJEt5/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:00:10
+		[{"success":{"/scenes/i6YXCey9IVRJEt5/lightstates/2/on":true}},{"success":{"/scenes/i6YXCey9IVRJEt5/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:00:14
+		/scenes/i6YXCey9IVRJEt5/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:00:10
+		[{"success":{"/scenes/i6YXCey9IVRJEt5/lightstates/3/on":true}},{"success":{"/scenes/i6YXCey9IVRJEt5/lightstates/3/bri":25}}]
+**********	12 scene(s)	**********
+
+2016-04-08	15:00:16
+		/scenes	POST
+		{"name":"Scene12_150016","lights":["1", "2", "3"], "recycle":true}
+	15:00:16
+		[{"success":{"id":"gLL1uZs3zec3Io4"}}]
+
+
+2016-04-08	15:00:18
+		/scenes/gLL1uZs3zec3Io4/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:00:16
+		[{"success":{"/scenes/gLL1uZs3zec3Io4/lightstates/1/on":true}},{"success":{"/scenes/gLL1uZs3zec3Io4/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:00:19
+		/scenes/gLL1uZs3zec3Io4/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:00:16
+		[{"success":{"/scenes/gLL1uZs3zec3Io4/lightstates/2/on":true}},{"success":{"/scenes/gLL1uZs3zec3Io4/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:00:21
+		/scenes/gLL1uZs3zec3Io4/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:00:16
+		[{"success":{"/scenes/gLL1uZs3zec3Io4/lightstates/3/on":true}},{"success":{"/scenes/gLL1uZs3zec3Io4/lightstates/3/bri":25}}]
+**********	13 scene(s)	**********
+
+2016-04-08	15:00:23
+		/scenes	POST
+		{"name":"Scene13_150023","lights":["1", "2", "3"], "recycle":true}
+	15:00:23
+		[{"success":{"id":"R0YZ3xiHFGxd8qP"}}]
+
+
+2016-04-08	15:00:25
+		/scenes/R0YZ3xiHFGxd8qP/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:00:23
+		[{"success":{"/scenes/R0YZ3xiHFGxd8qP/lightstates/1/on":true}},{"success":{"/scenes/R0YZ3xiHFGxd8qP/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:00:26
+		/scenes/R0YZ3xiHFGxd8qP/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:00:23
+		[{"success":{"/scenes/R0YZ3xiHFGxd8qP/lightstates/2/on":true}},{"success":{"/scenes/R0YZ3xiHFGxd8qP/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:00:27
+		/scenes/R0YZ3xiHFGxd8qP/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:00:23
+		[{"success":{"/scenes/R0YZ3xiHFGxd8qP/lightstates/3/on":true}},{"success":{"/scenes/R0YZ3xiHFGxd8qP/lightstates/3/bri":25}}]
+**********	14 scene(s)	**********
+
+2016-04-08	15:00:29
+		/scenes	POST
+		{"name":"Scene14_150029","lights":["1", "2", "3"], "recycle":true}
+	15:00:29
+		[{"success":{"id":"Vjzi5k5LtyJXae6"}}]
+
+
+2016-04-08	15:00:31
+		/scenes/Vjzi5k5LtyJXae6/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:00:29
+		[{"success":{"/scenes/Vjzi5k5LtyJXae6/lightstates/1/on":true}},{"success":{"/scenes/Vjzi5k5LtyJXae6/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:00:32
+		/scenes/Vjzi5k5LtyJXae6/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:00:29
+		[{"success":{"/scenes/Vjzi5k5LtyJXae6/lightstates/2/on":true}},{"success":{"/scenes/Vjzi5k5LtyJXae6/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:00:33
+		/scenes/Vjzi5k5LtyJXae6/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:00:29
+		[{"success":{"/scenes/Vjzi5k5LtyJXae6/lightstates/3/on":true}},{"success":{"/scenes/Vjzi5k5LtyJXae6/lightstates/3/bri":25}}]
+**********	15 scene(s)	**********
+
+2016-04-08	15:00:35
+		/scenes	POST
+		{"name":"Scene15_150035","lights":["1", "2", "3"], "recycle":true}
+	15:00:35
+		[{"success":{"id":"k-ZvmPKfAd6wPU6"}}]
+
+
+2016-04-08	15:00:37
+		/scenes/k-ZvmPKfAd6wPU6/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:00:35
+		[{"success":{"/scenes/k-ZvmPKfAd6wPU6/lightstates/1/on":true}},{"success":{"/scenes/k-ZvmPKfAd6wPU6/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:00:38
+		/scenes/k-ZvmPKfAd6wPU6/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:00:35
+		[{"success":{"/scenes/k-ZvmPKfAd6wPU6/lightstates/2/on":true}},{"success":{"/scenes/k-ZvmPKfAd6wPU6/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:00:39
+		/scenes/k-ZvmPKfAd6wPU6/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:00:35
+		[{"success":{"/scenes/k-ZvmPKfAd6wPU6/lightstates/3/on":true}},{"success":{"/scenes/k-ZvmPKfAd6wPU6/lightstates/3/bri":25}}]
+**********	16 scene(s)	**********
+
+2016-04-08	15:00:41
+		/scenes	POST
+		{"name":"Scene16_150041","lights":["1", "2", "3"], "recycle":true}
+	15:00:41
+		[{"success":{"id":"D-mNZlrr8kZoyiH"}}]
+
+
+2016-04-08	15:00:43
+		/scenes/D-mNZlrr8kZoyiH/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:00:41
+		[{"success":{"/scenes/D-mNZlrr8kZoyiH/lightstates/1/on":true}},{"success":{"/scenes/D-mNZlrr8kZoyiH/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:00:44
+		/scenes/D-mNZlrr8kZoyiH/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:00:41
+		[{"success":{"/scenes/D-mNZlrr8kZoyiH/lightstates/2/on":true}},{"success":{"/scenes/D-mNZlrr8kZoyiH/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:00:45
+		/scenes/D-mNZlrr8kZoyiH/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:00:41
+		[{"success":{"/scenes/D-mNZlrr8kZoyiH/lightstates/3/on":true}},{"success":{"/scenes/D-mNZlrr8kZoyiH/lightstates/3/bri":25}}]
+**********	17 scene(s)	**********
+
+2016-04-08	15:00:47
+		/scenes	POST
+		{"name":"Scene17_150047","lights":["1", "2", "3"], "recycle":true}
+	15:00:47
+		[{"success":{"id":"H7MHtvgfHZGN1ls"}}]
+
+
+2016-04-08	15:00:49
+		/scenes/H7MHtvgfHZGN1ls/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:00:47
+		[{"success":{"/scenes/H7MHtvgfHZGN1ls/lightstates/1/on":true}},{"success":{"/scenes/H7MHtvgfHZGN1ls/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:00:50
+		/scenes/H7MHtvgfHZGN1ls/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:00:47
+		[{"success":{"/scenes/H7MHtvgfHZGN1ls/lightstates/2/on":true}},{"success":{"/scenes/H7MHtvgfHZGN1ls/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:00:51
+		/scenes/H7MHtvgfHZGN1ls/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:00:47
+		[{"success":{"/scenes/H7MHtvgfHZGN1ls/lightstates/3/on":true}},{"success":{"/scenes/H7MHtvgfHZGN1ls/lightstates/3/bri":25}}]
+**********	18 scene(s)	**********
+
+2016-04-08	15:00:53
+		/scenes	POST
+		{"name":"Scene18_150053","lights":["1", "2", "3"], "recycle":true}
+	15:00:53
+		[{"success":{"id":"v1MbuVCyxoupthQ"}}]
+
+
+2016-04-08	15:00:55
+		/scenes/v1MbuVCyxoupthQ/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:00:53
+		[{"success":{"/scenes/v1MbuVCyxoupthQ/lightstates/1/on":true}},{"success":{"/scenes/v1MbuVCyxoupthQ/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:00:56
+		/scenes/v1MbuVCyxoupthQ/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:00:53
+		[{"success":{"/scenes/v1MbuVCyxoupthQ/lightstates/2/on":true}},{"success":{"/scenes/v1MbuVCyxoupthQ/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:00:57
+		/scenes/v1MbuVCyxoupthQ/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:00:53
+		[{"success":{"/scenes/v1MbuVCyxoupthQ/lightstates/3/on":true}},{"success":{"/scenes/v1MbuVCyxoupthQ/lightstates/3/bri":25}}]
+**********	19 scene(s)	**********
+
+2016-04-08	15:00:59
+		/scenes	POST
+		{"name":"Scene19_150059","lights":["1", "2", "3"], "recycle":true}
+	15:00:59
+		[{"success":{"id":"UtTaOZ-a8VtxudQ"}}]
+
+
+2016-04-08	15:01:01
+		/scenes/UtTaOZ-a8VtxudQ/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:00:59
+		[{"success":{"/scenes/UtTaOZ-a8VtxudQ/lightstates/1/on":true}},{"success":{"/scenes/UtTaOZ-a8VtxudQ/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:01:03
+		/scenes/UtTaOZ-a8VtxudQ/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:00:59
+		[{"success":{"/scenes/UtTaOZ-a8VtxudQ/lightstates/2/on":true}},{"success":{"/scenes/UtTaOZ-a8VtxudQ/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:01:04
+		/scenes/UtTaOZ-a8VtxudQ/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:00:59
+		[{"success":{"/scenes/UtTaOZ-a8VtxudQ/lightstates/3/on":true}},{"success":{"/scenes/UtTaOZ-a8VtxudQ/lightstates/3/bri":25}}]
+**********	20 scene(s)	**********
+
+2016-04-08	15:01:06
+		/scenes	POST
+		{"name":"Scene20_150106","lights":["1", "2", "3"], "recycle":true}
+	15:01:06
+		[{"success":{"id":"e5N3D8BReysNEXF"}}]
+
+
+2016-04-08	15:01:08
+		/scenes/e5N3D8BReysNEXF/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:01:06
+		[{"success":{"/scenes/e5N3D8BReysNEXF/lightstates/1/on":true}},{"success":{"/scenes/e5N3D8BReysNEXF/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:01:09
+		/scenes/e5N3D8BReysNEXF/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:01:06
+		[{"success":{"/scenes/e5N3D8BReysNEXF/lightstates/2/on":true}},{"success":{"/scenes/e5N3D8BReysNEXF/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:01:10
+		/scenes/e5N3D8BReysNEXF/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:01:06
+		[{"success":{"/scenes/e5N3D8BReysNEXF/lightstates/3/on":true}},{"success":{"/scenes/e5N3D8BReysNEXF/lightstates/3/bri":25}}]
+**********	21 scene(s)	**********
+
+2016-04-08	15:01:12
+		/scenes	POST
+		{"name":"Scene21_150112","lights":["1", "2", "3"], "recycle":true}
+	15:01:12
+		[{"success":{"id":"NwQBe10tHBJ8uiw"}}]
+
+
+2016-04-08	15:01:14
+		/scenes/NwQBe10tHBJ8uiw/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:01:12
+		[{"success":{"/scenes/NwQBe10tHBJ8uiw/lightstates/1/on":true}},{"success":{"/scenes/NwQBe10tHBJ8uiw/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:01:15
+		/scenes/NwQBe10tHBJ8uiw/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:01:12
+		[{"success":{"/scenes/NwQBe10tHBJ8uiw/lightstates/2/on":true}},{"success":{"/scenes/NwQBe10tHBJ8uiw/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:01:16
+		/scenes/NwQBe10tHBJ8uiw/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:01:12
+		[{"success":{"/scenes/NwQBe10tHBJ8uiw/lightstates/3/on":true}},{"success":{"/scenes/NwQBe10tHBJ8uiw/lightstates/3/bri":25}}]
+**********	22 scene(s)	**********
+
+2016-04-08	15:01:18
+		/scenes	POST
+		{"name":"Scene22_150118","lights":["1", "2", "3"], "recycle":true}
+	15:01:18
+		[{"success":{"id":"km91YeDxM6VlywU"}}]
+
+
+2016-04-08	15:01:20
+		/scenes/km91YeDxM6VlywU/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:01:18
+		[{"success":{"/scenes/km91YeDxM6VlywU/lightstates/1/on":true}},{"success":{"/scenes/km91YeDxM6VlywU/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:01:21
+		/scenes/km91YeDxM6VlywU/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:01:18
+		[{"success":{"/scenes/km91YeDxM6VlywU/lightstates/2/on":true}},{"success":{"/scenes/km91YeDxM6VlywU/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:01:22
+		/scenes/km91YeDxM6VlywU/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:01:18
+		[{"success":{"/scenes/km91YeDxM6VlywU/lightstates/3/on":true}},{"success":{"/scenes/km91YeDxM6VlywU/lightstates/3/bri":25}}]
+**********	23 scene(s)	**********
+
+2016-04-08	15:01:24
+		/scenes	POST
+		{"name":"Scene23_150124","lights":["1", "2", "3"], "recycle":true}
+	15:01:24
+		[{"success":{"id":"YjiORIXMRD-h-5v"}}]
+
+
+2016-04-08	15:01:26
+		/scenes/YjiORIXMRD-h-5v/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:01:24
+		[{"success":{"/scenes/YjiORIXMRD-h-5v/lightstates/1/on":true}},{"success":{"/scenes/YjiORIXMRD-h-5v/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:01:27
+		/scenes/YjiORIXMRD-h-5v/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:01:24
+		[{"success":{"/scenes/YjiORIXMRD-h-5v/lightstates/2/on":true}},{"success":{"/scenes/YjiORIXMRD-h-5v/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:01:28
+		/scenes/YjiORIXMRD-h-5v/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:01:24
+		[{"success":{"/scenes/YjiORIXMRD-h-5v/lightstates/3/on":true}},{"success":{"/scenes/YjiORIXMRD-h-5v/lightstates/3/bri":25}}]
+**********	24 scene(s)	**********
+
+2016-04-08	15:01:30
+		/scenes	POST
+		{"name":"Scene24_150130","lights":["1", "2", "3"], "recycle":true}
+	15:01:30
+		[{"success":{"id":"X9AvlG70gDEM8df"}}]
+
+
+2016-04-08	15:01:32
+		/scenes/X9AvlG70gDEM8df/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:01:30
+		[{"success":{"/scenes/X9AvlG70gDEM8df/lightstates/1/on":true}},{"success":{"/scenes/X9AvlG70gDEM8df/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:01:33
+		/scenes/X9AvlG70gDEM8df/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:01:30
+		[{"success":{"/scenes/X9AvlG70gDEM8df/lightstates/2/on":true}},{"success":{"/scenes/X9AvlG70gDEM8df/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:01:34
+		/scenes/X9AvlG70gDEM8df/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:01:30
+		[{"success":{"/scenes/X9AvlG70gDEM8df/lightstates/3/on":true}},{"success":{"/scenes/X9AvlG70gDEM8df/lightstates/3/bri":25}}]
+**********	25 scene(s)	**********
+
+2016-04-08	15:01:36
+		/scenes	POST
+		{"name":"Scene25_150136","lights":["1", "2", "3"], "recycle":true}
+	15:01:36
+		[{"success":{"id":"ce63mpEmEb0xOzW"}}]
+
+
+2016-04-08	15:01:38
+		/scenes/ce63mpEmEb0xOzW/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:01:36
+		[{"success":{"/scenes/ce63mpEmEb0xOzW/lightstates/1/on":true}},{"success":{"/scenes/ce63mpEmEb0xOzW/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:01:39
+		/scenes/ce63mpEmEb0xOzW/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:01:36
+		[{"success":{"/scenes/ce63mpEmEb0xOzW/lightstates/2/on":true}},{"success":{"/scenes/ce63mpEmEb0xOzW/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:01:41
+		/scenes/ce63mpEmEb0xOzW/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:01:36
+		[{"success":{"/scenes/ce63mpEmEb0xOzW/lightstates/3/on":true}},{"success":{"/scenes/ce63mpEmEb0xOzW/lightstates/3/bri":25}}]
+**********	26 scene(s)	**********
+
+2016-04-08	15:01:43
+		/scenes	POST
+		{"name":"Scene26_150143","lights":["1", "2", "3"], "recycle":true}
+	15:01:43
+		[{"success":{"id":"EqfDdNbLo7nRJJu"}}]
+
+
+2016-04-08	15:01:45
+		/scenes/EqfDdNbLo7nRJJu/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:01:43
+		[{"success":{"/scenes/EqfDdNbLo7nRJJu/lightstates/1/on":true}},{"success":{"/scenes/EqfDdNbLo7nRJJu/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:01:46
+		/scenes/EqfDdNbLo7nRJJu/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:01:43
+		[{"success":{"/scenes/EqfDdNbLo7nRJJu/lightstates/2/on":true}},{"success":{"/scenes/EqfDdNbLo7nRJJu/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:01:47
+		/scenes/EqfDdNbLo7nRJJu/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:01:43
+		[{"success":{"/scenes/EqfDdNbLo7nRJJu/lightstates/3/on":true}},{"success":{"/scenes/EqfDdNbLo7nRJJu/lightstates/3/bri":25}}]
+**********	27 scene(s)	**********
+
+2016-04-08	15:01:49
+		/scenes	POST
+		{"name":"Scene27_150149","lights":["1", "2", "3"], "recycle":true}
+	15:01:49
+		[{"success":{"id":"QybPqxB-bY9cFId"}}]
+
+
+2016-04-08	15:01:51
+		/scenes/QybPqxB-bY9cFId/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:01:49
+		[{"success":{"/scenes/QybPqxB-bY9cFId/lightstates/1/on":true}},{"success":{"/scenes/QybPqxB-bY9cFId/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:01:52
+		/scenes/QybPqxB-bY9cFId/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:01:49
+		[{"success":{"/scenes/QybPqxB-bY9cFId/lightstates/2/on":true}},{"success":{"/scenes/QybPqxB-bY9cFId/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:01:53
+		/scenes/QybPqxB-bY9cFId/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:01:49
+		[{"success":{"/scenes/QybPqxB-bY9cFId/lightstates/3/on":true}},{"success":{"/scenes/QybPqxB-bY9cFId/lightstates/3/bri":25}}]
+**********	28 scene(s)	**********
+
+2016-04-08	15:01:55
+		/scenes	POST
+		{"name":"Scene28_150155","lights":["1", "2", "3"], "recycle":true}
+	15:01:55
+		[{"success":{"id":"QmLdyBSIN5vUEvB"}}]
+
+
+2016-04-08	15:01:57
+		/scenes/QmLdyBSIN5vUEvB/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:01:55
+		[{"success":{"/scenes/QmLdyBSIN5vUEvB/lightstates/1/on":true}},{"success":{"/scenes/QmLdyBSIN5vUEvB/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:01:58
+		/scenes/QmLdyBSIN5vUEvB/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:01:55
+		[{"success":{"/scenes/QmLdyBSIN5vUEvB/lightstates/2/on":true}},{"success":{"/scenes/QmLdyBSIN5vUEvB/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:01:59
+		/scenes/QmLdyBSIN5vUEvB/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:01:55
+		[{"success":{"/scenes/QmLdyBSIN5vUEvB/lightstates/3/on":true}},{"success":{"/scenes/QmLdyBSIN5vUEvB/lightstates/3/bri":25}}]
+**********	29 scene(s)	**********
+
+2016-04-08	15:02:01
+		/scenes	POST
+		{"name":"Scene29_150201","lights":["1", "2", "3"], "recycle":true}
+	15:02:01
+		[{"success":{"id":"lUKCZKhJ9mmwFqA"}}]
+
+
+2016-04-08	15:02:03
+		/scenes/lUKCZKhJ9mmwFqA/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:02:01
+		[{"success":{"/scenes/lUKCZKhJ9mmwFqA/lightstates/1/on":true}},{"success":{"/scenes/lUKCZKhJ9mmwFqA/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:02:04
+		/scenes/lUKCZKhJ9mmwFqA/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:02:01
+		[{"success":{"/scenes/lUKCZKhJ9mmwFqA/lightstates/2/on":true}},{"success":{"/scenes/lUKCZKhJ9mmwFqA/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:02:05
+		/scenes/lUKCZKhJ9mmwFqA/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:02:01
+		[{"success":{"/scenes/lUKCZKhJ9mmwFqA/lightstates/3/on":true}},{"success":{"/scenes/lUKCZKhJ9mmwFqA/lightstates/3/bri":25}}]
+**********	30 scene(s)	**********
+
+2016-04-08	15:02:07
+		/scenes	POST
+		{"name":"Scene30_150207","lights":["1", "2", "3"], "recycle":true}
+	15:02:07
+		[{"success":{"id":"9E2EDQMWsd3JWPw"}}]
+
+
+2016-04-08	15:02:09
+		/scenes/9E2EDQMWsd3JWPw/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:02:07
+		[{"success":{"/scenes/9E2EDQMWsd3JWPw/lightstates/1/on":true}},{"success":{"/scenes/9E2EDQMWsd3JWPw/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:02:10
+		/scenes/9E2EDQMWsd3JWPw/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:02:07
+		[{"success":{"/scenes/9E2EDQMWsd3JWPw/lightstates/2/on":true}},{"success":{"/scenes/9E2EDQMWsd3JWPw/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:02:11
+		/scenes/9E2EDQMWsd3JWPw/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:02:07
+		[{"success":{"/scenes/9E2EDQMWsd3JWPw/lightstates/3/on":true}},{"success":{"/scenes/9E2EDQMWsd3JWPw/lightstates/3/bri":25}}]
+**********	31 scene(s)	**********
+
+2016-04-08	15:02:13
+		/scenes	POST
+		{"name":"Scene31_150213","lights":["1", "2", "3"], "recycle":true}
+	15:02:13
+		[{"success":{"id":"CmnmoOanWyYUQT6"}}]
+
+
+2016-04-08	15:02:15
+		/scenes/CmnmoOanWyYUQT6/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:02:13
+		[{"success":{"/scenes/CmnmoOanWyYUQT6/lightstates/1/on":true}},{"success":{"/scenes/CmnmoOanWyYUQT6/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:02:16
+		/scenes/CmnmoOanWyYUQT6/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:02:13
+		[{"success":{"/scenes/CmnmoOanWyYUQT6/lightstates/2/on":true}},{"success":{"/scenes/CmnmoOanWyYUQT6/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:02:17
+		/scenes/CmnmoOanWyYUQT6/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:02:13
+		[{"success":{"/scenes/CmnmoOanWyYUQT6/lightstates/3/on":true}},{"success":{"/scenes/CmnmoOanWyYUQT6/lightstates/3/bri":25}}]
+**********	32 scene(s)	**********
+
+2016-04-08	15:02:19
+		/scenes	POST
+		{"name":"Scene32_150219","lights":["1", "2", "3"], "recycle":true}
+	15:02:19
+		[{"success":{"id":"HZ33hEXJkcGaCPo"}}]
+
+
+2016-04-08	15:02:21
+		/scenes/HZ33hEXJkcGaCPo/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:02:19
+		[{"success":{"/scenes/HZ33hEXJkcGaCPo/lightstates/1/on":true}},{"success":{"/scenes/HZ33hEXJkcGaCPo/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:02:22
+		/scenes/HZ33hEXJkcGaCPo/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:02:19
+		[{"success":{"/scenes/HZ33hEXJkcGaCPo/lightstates/2/on":true}},{"success":{"/scenes/HZ33hEXJkcGaCPo/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:02:23
+		/scenes/HZ33hEXJkcGaCPo/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:02:19
+		[{"success":{"/scenes/HZ33hEXJkcGaCPo/lightstates/3/on":true}},{"success":{"/scenes/HZ33hEXJkcGaCPo/lightstates/3/bri":25}}]
+**********	33 scene(s)	**********
+
+2016-04-08	15:02:25
+		/scenes	POST
+		{"name":"Scene33_150225","lights":["1", "2", "3"], "recycle":true}
+	15:02:26
+		[{"success":{"id":"mDsSLThhiyYHsbT"}}]
+
+
+2016-04-08	15:02:28
+		/scenes/mDsSLThhiyYHsbT/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:02:25
+		[{"success":{"/scenes/mDsSLThhiyYHsbT/lightstates/1/on":true}},{"success":{"/scenes/mDsSLThhiyYHsbT/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:02:29
+		/scenes/mDsSLThhiyYHsbT/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:02:25
+		[{"success":{"/scenes/mDsSLThhiyYHsbT/lightstates/2/on":true}},{"success":{"/scenes/mDsSLThhiyYHsbT/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:02:30
+		/scenes/mDsSLThhiyYHsbT/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:02:25
+		[{"success":{"/scenes/mDsSLThhiyYHsbT/lightstates/3/on":true}},{"success":{"/scenes/mDsSLThhiyYHsbT/lightstates/3/bri":25}}]
+**********	34 scene(s)	**********
+
+2016-04-08	15:02:32
+		/scenes	POST
+		{"name":"Scene34_150232","lights":["1", "2", "3"], "recycle":true}
+	15:02:32
+		[{"success":{"id":"up6L7NNeot5iJlj"}}]
+
+
+2016-04-08	15:02:34
+		/scenes/up6L7NNeot5iJlj/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:02:32
+		[{"success":{"/scenes/up6L7NNeot5iJlj/lightstates/1/on":true}},{"success":{"/scenes/up6L7NNeot5iJlj/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:02:35
+		/scenes/up6L7NNeot5iJlj/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:02:32
+		[{"success":{"/scenes/up6L7NNeot5iJlj/lightstates/2/on":true}},{"success":{"/scenes/up6L7NNeot5iJlj/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:02:36
+		/scenes/up6L7NNeot5iJlj/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:02:32
+		[{"success":{"/scenes/up6L7NNeot5iJlj/lightstates/3/on":true}},{"success":{"/scenes/up6L7NNeot5iJlj/lightstates/3/bri":25}}]
+**********	35 scene(s)	**********
+
+2016-04-08	15:02:38
+		/scenes	POST
+		{"name":"Scene35_150238","lights":["1", "2", "3"], "recycle":true}
+	15:02:38
+		[{"success":{"id":"Uv3ksu-rwTRafgd"}}]
+
+
+2016-04-08	15:02:40
+		/scenes/Uv3ksu-rwTRafgd/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:02:38
+		[{"success":{"/scenes/Uv3ksu-rwTRafgd/lightstates/1/on":true}},{"success":{"/scenes/Uv3ksu-rwTRafgd/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:02:41
+		/scenes/Uv3ksu-rwTRafgd/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:02:38
+		[{"success":{"/scenes/Uv3ksu-rwTRafgd/lightstates/2/on":true}},{"success":{"/scenes/Uv3ksu-rwTRafgd/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:02:42
+		/scenes/Uv3ksu-rwTRafgd/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:02:38
+		[{"success":{"/scenes/Uv3ksu-rwTRafgd/lightstates/3/on":true}},{"success":{"/scenes/Uv3ksu-rwTRafgd/lightstates/3/bri":25}}]
+**********	36 scene(s)	**********
+
+2016-04-08	15:02:44
+		/scenes	POST
+		{"name":"Scene36_150244","lights":["1", "2", "3"], "recycle":true}
+	15:02:44
+		[{"success":{"id":"q-ZBa6JTGqN-jl8"}}]
+
+
+2016-04-08	15:02:46
+		/scenes/q-ZBa6JTGqN-jl8/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:02:44
+		[{"success":{"/scenes/q-ZBa6JTGqN-jl8/lightstates/1/on":true}},{"success":{"/scenes/q-ZBa6JTGqN-jl8/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:02:47
+		/scenes/q-ZBa6JTGqN-jl8/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:02:44
+		[{"success":{"/scenes/q-ZBa6JTGqN-jl8/lightstates/2/on":true}},{"success":{"/scenes/q-ZBa6JTGqN-jl8/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:02:48
+		/scenes/q-ZBa6JTGqN-jl8/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:02:44
+		[{"success":{"/scenes/q-ZBa6JTGqN-jl8/lightstates/3/on":true}},{"success":{"/scenes/q-ZBa6JTGqN-jl8/lightstates/3/bri":25}}]
+**********	37 scene(s)	**********
+
+2016-04-08	15:02:50
+		/scenes	POST
+		{"name":"Scene37_150250","lights":["1", "2", "3"], "recycle":true}
+	15:02:50
+		[{"success":{"id":"kr39aJQEK8AmbVn"}}]
+
+
+2016-04-08	15:02:52
+		/scenes/kr39aJQEK8AmbVn/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:02:50
+		[{"success":{"/scenes/kr39aJQEK8AmbVn/lightstates/1/on":true}},{"success":{"/scenes/kr39aJQEK8AmbVn/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:02:53
+		/scenes/kr39aJQEK8AmbVn/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:02:50
+		[{"success":{"/scenes/kr39aJQEK8AmbVn/lightstates/2/on":true}},{"success":{"/scenes/kr39aJQEK8AmbVn/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:02:54
+		/scenes/kr39aJQEK8AmbVn/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:02:50
+		[{"success":{"/scenes/kr39aJQEK8AmbVn/lightstates/3/on":true}},{"success":{"/scenes/kr39aJQEK8AmbVn/lightstates/3/bri":25}}]
+**********	38 scene(s)	**********
+
+2016-04-08	15:02:56
+		/scenes	POST
+		{"name":"Scene38_150256","lights":["1", "2", "3"], "recycle":true}
+	15:02:56
+		[{"success":{"id":"im6TmOrbOTdVSLf"}}]
+
+
+2016-04-08	15:02:58
+		/scenes/im6TmOrbOTdVSLf/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:02:56
+		[{"success":{"/scenes/im6TmOrbOTdVSLf/lightstates/1/on":true}},{"success":{"/scenes/im6TmOrbOTdVSLf/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:02:59
+		/scenes/im6TmOrbOTdVSLf/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:02:56
+		[{"success":{"/scenes/im6TmOrbOTdVSLf/lightstates/2/on":true}},{"success":{"/scenes/im6TmOrbOTdVSLf/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:03:00
+		/scenes/im6TmOrbOTdVSLf/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:02:56
+		[{"success":{"/scenes/im6TmOrbOTdVSLf/lightstates/3/on":true}},{"success":{"/scenes/im6TmOrbOTdVSLf/lightstates/3/bri":25}}]
+**********	39 scene(s)	**********
+
+2016-04-08	15:03:02
+		/scenes	POST
+		{"name":"Scene39_150302","lights":["1", "2", "3"], "recycle":true}
+	15:03:02
+		[{"success":{"id":"sjUIX7BSPc8rTz8"}}]
+
+
+2016-04-08	15:03:04
+		/scenes/sjUIX7BSPc8rTz8/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:03:02
+		[{"success":{"/scenes/sjUIX7BSPc8rTz8/lightstates/1/on":true}},{"success":{"/scenes/sjUIX7BSPc8rTz8/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:03:05
+		/scenes/sjUIX7BSPc8rTz8/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:03:02
+		[{"success":{"/scenes/sjUIX7BSPc8rTz8/lightstates/2/on":true}},{"success":{"/scenes/sjUIX7BSPc8rTz8/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:03:06
+		/scenes/sjUIX7BSPc8rTz8/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:03:02
+		[{"success":{"/scenes/sjUIX7BSPc8rTz8/lightstates/3/on":true}},{"success":{"/scenes/sjUIX7BSPc8rTz8/lightstates/3/bri":25}}]
+**********	40 scene(s)	**********
+
+2016-04-08	15:03:08
+		/scenes	POST
+		{"name":"Scene40_150308","lights":["1", "2", "3"], "recycle":true}
+	15:03:08
+		[{"success":{"id":"juCquvTWfVFaO1J"}}]
+
+
+2016-04-08	15:03:10
+		/scenes/juCquvTWfVFaO1J/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:03:08
+		[{"success":{"/scenes/juCquvTWfVFaO1J/lightstates/1/on":true}},{"success":{"/scenes/juCquvTWfVFaO1J/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:03:11
+		/scenes/juCquvTWfVFaO1J/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:03:08
+		[{"success":{"/scenes/juCquvTWfVFaO1J/lightstates/2/on":true}},{"success":{"/scenes/juCquvTWfVFaO1J/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:03:13
+		/scenes/juCquvTWfVFaO1J/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:03:08
+		[{"success":{"/scenes/juCquvTWfVFaO1J/lightstates/3/on":true}},{"success":{"/scenes/juCquvTWfVFaO1J/lightstates/3/bri":25}}]
+**********	41 scene(s)	**********
+
+2016-04-08	15:03:15
+		/scenes	POST
+		{"name":"Scene41_150315","lights":["1", "2", "3"], "recycle":true}
+	15:03:15
+		[{"success":{"id":"dWGCQJydaZpKq2O"}}]
+
+
+2016-04-08	15:03:17
+		/scenes/dWGCQJydaZpKq2O/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:03:15
+		[{"success":{"/scenes/dWGCQJydaZpKq2O/lightstates/1/on":true}},{"success":{"/scenes/dWGCQJydaZpKq2O/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:03:18
+		/scenes/dWGCQJydaZpKq2O/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:03:15
+		[{"success":{"/scenes/dWGCQJydaZpKq2O/lightstates/2/on":true}},{"success":{"/scenes/dWGCQJydaZpKq2O/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:03:19
+		/scenes/dWGCQJydaZpKq2O/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:03:15
+		[{"success":{"/scenes/dWGCQJydaZpKq2O/lightstates/3/on":true}},{"success":{"/scenes/dWGCQJydaZpKq2O/lightstates/3/bri":25}}]
+**********	42 scene(s)	**********
+
+2016-04-08	15:03:21
+		/scenes	POST
+		{"name":"Scene42_150321","lights":["1", "2", "3"], "recycle":true}
+	15:03:21
+		[{"success":{"id":"JntSHZNp4-2LEvN"}}]
+
+
+2016-04-08	15:03:23
+		/scenes/JntSHZNp4-2LEvN/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:03:21
+		[{"success":{"/scenes/JntSHZNp4-2LEvN/lightstates/1/on":true}},{"success":{"/scenes/JntSHZNp4-2LEvN/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:03:24
+		/scenes/JntSHZNp4-2LEvN/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:03:21
+		[{"success":{"/scenes/JntSHZNp4-2LEvN/lightstates/2/on":true}},{"success":{"/scenes/JntSHZNp4-2LEvN/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:03:25
+		/scenes/JntSHZNp4-2LEvN/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:03:21
+		[{"success":{"/scenes/JntSHZNp4-2LEvN/lightstates/3/on":true}},{"success":{"/scenes/JntSHZNp4-2LEvN/lightstates/3/bri":25}}]
+**********	43 scene(s)	**********
+
+2016-04-08	15:03:28
+		/scenes	POST
+		{"name":"Scene43_150328","lights":["1", "2", "3"], "recycle":true}
+	15:03:28
+		[{"success":{"id":"ww2lk93UUVpR1UU"}}]
+
+
+2016-04-08	15:03:30
+		/scenes/ww2lk93UUVpR1UU/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:03:28
+		[{"success":{"/scenes/ww2lk93UUVpR1UU/lightstates/1/on":true}},{"success":{"/scenes/ww2lk93UUVpR1UU/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:03:31
+		/scenes/ww2lk93UUVpR1UU/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:03:28
+		[{"success":{"/scenes/ww2lk93UUVpR1UU/lightstates/2/on":true}},{"success":{"/scenes/ww2lk93UUVpR1UU/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:03:32
+		/scenes/ww2lk93UUVpR1UU/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:03:28
+		[{"success":{"/scenes/ww2lk93UUVpR1UU/lightstates/3/on":true}},{"success":{"/scenes/ww2lk93UUVpR1UU/lightstates/3/bri":25}}]
+**********	44 scene(s)	**********
+
+2016-04-08	15:03:34
+		/scenes	POST
+		{"name":"Scene44_150334","lights":["1", "2", "3"], "recycle":true}
+	15:03:34
+		[{"success":{"id":"A9qTekhQPEehA1u"}}]
+
+
+2016-04-08	15:03:36
+		/scenes/A9qTekhQPEehA1u/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:03:34
+		[{"success":{"/scenes/A9qTekhQPEehA1u/lightstates/1/on":true}},{"success":{"/scenes/A9qTekhQPEehA1u/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:03:37
+		/scenes/A9qTekhQPEehA1u/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:03:34
+		[{"success":{"/scenes/A9qTekhQPEehA1u/lightstates/2/on":true}},{"success":{"/scenes/A9qTekhQPEehA1u/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:03:38
+		/scenes/A9qTekhQPEehA1u/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:03:34
+		[{"success":{"/scenes/A9qTekhQPEehA1u/lightstates/3/on":true}},{"success":{"/scenes/A9qTekhQPEehA1u/lightstates/3/bri":25}}]
+**********	45 scene(s)	**********
+
+2016-04-08	15:03:40
+		/scenes	POST
+		{"name":"Scene45_150340","lights":["1", "2", "3"], "recycle":true}
+	15:03:40
+		[{"success":{"id":"i8qFupjFbx-ZCdN"}}]
+
+
+2016-04-08	15:03:42
+		/scenes/i8qFupjFbx-ZCdN/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:03:40
+		[{"success":{"/scenes/i8qFupjFbx-ZCdN/lightstates/1/on":true}},{"success":{"/scenes/i8qFupjFbx-ZCdN/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:03:43
+		/scenes/i8qFupjFbx-ZCdN/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:03:40
+		[{"success":{"/scenes/i8qFupjFbx-ZCdN/lightstates/2/on":true}},{"success":{"/scenes/i8qFupjFbx-ZCdN/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:03:44
+		/scenes/i8qFupjFbx-ZCdN/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:03:40
+		[{"success":{"/scenes/i8qFupjFbx-ZCdN/lightstates/3/on":true}},{"success":{"/scenes/i8qFupjFbx-ZCdN/lightstates/3/bri":25}}]
+**********	46 scene(s)	**********
+
+2016-04-08	15:03:46
+		/scenes	POST
+		{"name":"Scene46_150346","lights":["1", "2", "3"], "recycle":true}
+	15:03:46
+		[{"success":{"id":"eOIxEnTjWoV9gKZ"}}]
+
+
+2016-04-08	15:03:48
+		/scenes/eOIxEnTjWoV9gKZ/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:03:46
+		[{"success":{"/scenes/eOIxEnTjWoV9gKZ/lightstates/1/on":true}},{"success":{"/scenes/eOIxEnTjWoV9gKZ/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:03:49
+		/scenes/eOIxEnTjWoV9gKZ/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:03:46
+		[{"success":{"/scenes/eOIxEnTjWoV9gKZ/lightstates/2/on":true}},{"success":{"/scenes/eOIxEnTjWoV9gKZ/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:03:50
+		/scenes/eOIxEnTjWoV9gKZ/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:03:46
+		[{"success":{"/scenes/eOIxEnTjWoV9gKZ/lightstates/3/on":true}},{"success":{"/scenes/eOIxEnTjWoV9gKZ/lightstates/3/bri":25}}]
+**********	47 scene(s)	**********
+
+2016-04-08	15:03:52
+		/scenes	POST
+		{"name":"Scene47_150352","lights":["1", "2", "3"], "recycle":true}
+	15:03:52
+		[{"success":{"id":"o2M2E1Q8VSqAwPJ"}}]
+
+
+2016-04-08	15:03:54
+		/scenes/o2M2E1Q8VSqAwPJ/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:03:52
+		[{"success":{"/scenes/o2M2E1Q8VSqAwPJ/lightstates/1/on":true}},{"success":{"/scenes/o2M2E1Q8VSqAwPJ/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:03:55
+		/scenes/o2M2E1Q8VSqAwPJ/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:03:52
+		[{"success":{"/scenes/o2M2E1Q8VSqAwPJ/lightstates/2/on":true}},{"success":{"/scenes/o2M2E1Q8VSqAwPJ/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:03:56
+		/scenes/o2M2E1Q8VSqAwPJ/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:03:52
+		[{"success":{"/scenes/o2M2E1Q8VSqAwPJ/lightstates/3/on":true}},{"success":{"/scenes/o2M2E1Q8VSqAwPJ/lightstates/3/bri":25}}]
+**********	48 scene(s)	**********
+
+2016-04-08	15:03:58
+		/scenes	POST
+		{"name":"Scene48_150358","lights":["1", "2", "3"], "recycle":true}
+	15:03:58
+		[{"success":{"id":"UnxeThoMcHiCs03"}}]
+
+
+2016-04-08	15:04:00
+		/scenes/UnxeThoMcHiCs03/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:03:58
+		[{"success":{"/scenes/UnxeThoMcHiCs03/lightstates/1/on":true}},{"success":{"/scenes/UnxeThoMcHiCs03/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:04:01
+		/scenes/UnxeThoMcHiCs03/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:03:58
+		[{"success":{"/scenes/UnxeThoMcHiCs03/lightstates/2/on":true}},{"success":{"/scenes/UnxeThoMcHiCs03/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:04:02
+		/scenes/UnxeThoMcHiCs03/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:03:58
+		[{"success":{"/scenes/UnxeThoMcHiCs03/lightstates/3/on":true}},{"success":{"/scenes/UnxeThoMcHiCs03/lightstates/3/bri":25}}]
+**********	49 scene(s)	**********
+
+2016-04-08	15:04:04
+		/scenes	POST
+		{"name":"Scene49_150404","lights":["1", "2", "3"], "recycle":true}
+	15:04:04
+		[{"success":{"id":"CoxS1x6qbmnaboh"}}]
+
+
+2016-04-08	15:04:06
+		/scenes/CoxS1x6qbmnaboh/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:04:04
+		[{"success":{"/scenes/CoxS1x6qbmnaboh/lightstates/1/on":true}},{"success":{"/scenes/CoxS1x6qbmnaboh/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:04:07
+		/scenes/CoxS1x6qbmnaboh/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:04:04
+		[{"success":{"/scenes/CoxS1x6qbmnaboh/lightstates/2/on":true}},{"success":{"/scenes/CoxS1x6qbmnaboh/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:04:08
+		/scenes/CoxS1x6qbmnaboh/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:04:04
+		[{"success":{"/scenes/CoxS1x6qbmnaboh/lightstates/3/on":true}},{"success":{"/scenes/CoxS1x6qbmnaboh/lightstates/3/bri":25}}]
+**********	50 scene(s)	**********
+
+2016-04-08	15:04:10
+		/scenes	POST
+		{"name":"Scene50_150410","lights":["1", "2", "3"], "recycle":true}
+	15:04:11
+		[{"success":{"id":"XbUAV4k0w5QfZiC"}}]
+
+
+2016-04-08	15:04:13
+		/scenes/XbUAV4k0w5QfZiC/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:04:10
+		[{"success":{"/scenes/XbUAV4k0w5QfZiC/lightstates/1/on":true}},{"success":{"/scenes/XbUAV4k0w5QfZiC/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:04:14
+		/scenes/XbUAV4k0w5QfZiC/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:04:10
+		[{"success":{"/scenes/XbUAV4k0w5QfZiC/lightstates/2/on":true}},{"success":{"/scenes/XbUAV4k0w5QfZiC/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:04:15
+		/scenes/XbUAV4k0w5QfZiC/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:04:10
+		[{"success":{"/scenes/XbUAV4k0w5QfZiC/lightstates/3/on":true}},{"success":{"/scenes/XbUAV4k0w5QfZiC/lightstates/3/bri":25}}]
+**********	51 scene(s)	**********
+
+2016-04-08	15:04:17
+		/scenes	POST
+		{"name":"Scene51_150417","lights":["1", "2", "3"], "recycle":true}
+	15:04:17
+		[{"success":{"id":"RlPr7i0jkVVglMd"}}]
+
+
+2016-04-08	15:04:19
+		/scenes/RlPr7i0jkVVglMd/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:04:17
+		[{"success":{"/scenes/RlPr7i0jkVVglMd/lightstates/1/on":true}},{"success":{"/scenes/RlPr7i0jkVVglMd/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:04:20
+		/scenes/RlPr7i0jkVVglMd/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:04:17
+		[{"success":{"/scenes/RlPr7i0jkVVglMd/lightstates/2/on":true}},{"success":{"/scenes/RlPr7i0jkVVglMd/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:04:21
+		/scenes/RlPr7i0jkVVglMd/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:04:17
+		[{"success":{"/scenes/RlPr7i0jkVVglMd/lightstates/3/on":true}},{"success":{"/scenes/RlPr7i0jkVVglMd/lightstates/3/bri":25}}]
+**********	52 scene(s)	**********
+
+2016-04-08	15:04:23
+		/scenes	POST
+		{"name":"Scene52_150423","lights":["1", "2", "3"], "recycle":true}
+	15:04:23
+		[{"success":{"id":"PdDcPfdurzAucgB"}}]
+
+
+2016-04-08	15:04:25
+		/scenes/PdDcPfdurzAucgB/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:04:23
+		[{"success":{"/scenes/PdDcPfdurzAucgB/lightstates/1/on":true}},{"success":{"/scenes/PdDcPfdurzAucgB/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:04:26
+		/scenes/PdDcPfdurzAucgB/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:04:23
+		[{"success":{"/scenes/PdDcPfdurzAucgB/lightstates/2/on":true}},{"success":{"/scenes/PdDcPfdurzAucgB/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:04:27
+		/scenes/PdDcPfdurzAucgB/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:04:23
+		[{"success":{"/scenes/PdDcPfdurzAucgB/lightstates/3/on":true}},{"success":{"/scenes/PdDcPfdurzAucgB/lightstates/3/bri":25}}]
+**********	53 scene(s)	**********
+
+2016-04-08	15:04:29
+		/scenes	POST
+		{"name":"Scene53_150429","lights":["1", "2", "3"], "recycle":true}
+	15:04:29
+		[{"success":{"id":"n1hfmPnju6-gaj6"}}]
+
+
+2016-04-08	15:04:31
+		/scenes/n1hfmPnju6-gaj6/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:04:29
+		[{"success":{"/scenes/n1hfmPnju6-gaj6/lightstates/1/on":true}},{"success":{"/scenes/n1hfmPnju6-gaj6/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:04:32
+		/scenes/n1hfmPnju6-gaj6/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:04:29
+		[{"success":{"/scenes/n1hfmPnju6-gaj6/lightstates/2/on":true}},{"success":{"/scenes/n1hfmPnju6-gaj6/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:04:33
+		/scenes/n1hfmPnju6-gaj6/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:04:29
+		[{"success":{"/scenes/n1hfmPnju6-gaj6/lightstates/3/on":true}},{"success":{"/scenes/n1hfmPnju6-gaj6/lightstates/3/bri":25}}]
+**********	54 scene(s)	**********
+
+2016-04-08	15:04:35
+		/scenes	POST
+		{"name":"Scene54_150435","lights":["1", "2", "3"], "recycle":true}
+	15:04:35
+		[{"success":{"id":"vx2dT10iC4DKEbe"}}]
+
+
+2016-04-08	15:04:37
+		/scenes/vx2dT10iC4DKEbe/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:04:35
+		[{"success":{"/scenes/vx2dT10iC4DKEbe/lightstates/1/on":true}},{"success":{"/scenes/vx2dT10iC4DKEbe/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:04:38
+		/scenes/vx2dT10iC4DKEbe/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:04:35
+		[{"success":{"/scenes/vx2dT10iC4DKEbe/lightstates/2/on":true}},{"success":{"/scenes/vx2dT10iC4DKEbe/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:04:39
+		/scenes/vx2dT10iC4DKEbe/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:04:35
+		[{"success":{"/scenes/vx2dT10iC4DKEbe/lightstates/3/on":true}},{"success":{"/scenes/vx2dT10iC4DKEbe/lightstates/3/bri":25}}]
+**********	55 scene(s)	**********
+
+2016-04-08	15:04:41
+		/scenes	POST
+		{"name":"Scene55_150441","lights":["1", "2", "3"], "recycle":true}
+	15:04:41
+		[{"success":{"id":"GAA6uOWgcF57yEM"}}]
+
+
+2016-04-08	15:04:43
+		/scenes/GAA6uOWgcF57yEM/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:04:41
+		[{"success":{"/scenes/GAA6uOWgcF57yEM/lightstates/1/on":true}},{"success":{"/scenes/GAA6uOWgcF57yEM/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:04:44
+		/scenes/GAA6uOWgcF57yEM/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:04:41
+		[{"success":{"/scenes/GAA6uOWgcF57yEM/lightstates/2/on":true}},{"success":{"/scenes/GAA6uOWgcF57yEM/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:04:45
+		/scenes/GAA6uOWgcF57yEM/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:04:41
+		[{"success":{"/scenes/GAA6uOWgcF57yEM/lightstates/3/on":true}},{"success":{"/scenes/GAA6uOWgcF57yEM/lightstates/3/bri":25}}]
+**********	56 scene(s)	**********
+
+2016-04-08	15:04:48
+		/scenes	POST
+		{"name":"Scene56_150448","lights":["1", "2", "3"], "recycle":true}
+	15:04:48
+		[{"success":{"id":"2akGrcZHqPQGjte"}}]
+
+
+2016-04-08	15:04:50
+		/scenes/2akGrcZHqPQGjte/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:04:48
+		[{"success":{"/scenes/2akGrcZHqPQGjte/lightstates/1/on":true}},{"success":{"/scenes/2akGrcZHqPQGjte/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:04:51
+		/scenes/2akGrcZHqPQGjte/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:04:48
+		[{"success":{"/scenes/2akGrcZHqPQGjte/lightstates/2/on":true}},{"success":{"/scenes/2akGrcZHqPQGjte/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:04:52
+		/scenes/2akGrcZHqPQGjte/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:04:48
+		[{"success":{"/scenes/2akGrcZHqPQGjte/lightstates/3/on":true}},{"success":{"/scenes/2akGrcZHqPQGjte/lightstates/3/bri":25}}]
+**********	57 scene(s)	**********
+
+2016-04-08	15:04:54
+		/scenes	POST
+		{"name":"Scene57_150454","lights":["1", "2", "3"], "recycle":true}
+	15:04:54
+		[{"success":{"id":"7R6-pXU-Dbgu2ie"}}]
+
+
+2016-04-08	15:04:56
+		/scenes/7R6-pXU-Dbgu2ie/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:04:54
+		[{"success":{"/scenes/7R6-pXU-Dbgu2ie/lightstates/1/on":true}},{"success":{"/scenes/7R6-pXU-Dbgu2ie/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:04:57
+		/scenes/7R6-pXU-Dbgu2ie/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:04:54
+		[{"success":{"/scenes/7R6-pXU-Dbgu2ie/lightstates/2/on":true}},{"success":{"/scenes/7R6-pXU-Dbgu2ie/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:04:58
+		/scenes/7R6-pXU-Dbgu2ie/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:04:54
+		[{"success":{"/scenes/7R6-pXU-Dbgu2ie/lightstates/3/on":true}},{"success":{"/scenes/7R6-pXU-Dbgu2ie/lightstates/3/bri":25}}]
+**********	58 scene(s)	**********
+
+2016-04-08	15:05:00
+		/scenes	POST
+		{"name":"Scene58_150500","lights":["1", "2", "3"], "recycle":true}
+	15:05:00
+		[{"success":{"id":"9GuteV9O-9vTAgt"}}]
+
+
+2016-04-08	15:05:02
+		/scenes/9GuteV9O-9vTAgt/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:05:00
+		[{"success":{"/scenes/9GuteV9O-9vTAgt/lightstates/1/on":true}},{"success":{"/scenes/9GuteV9O-9vTAgt/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:05:03
+		/scenes/9GuteV9O-9vTAgt/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:05:00
+		[{"success":{"/scenes/9GuteV9O-9vTAgt/lightstates/2/on":true}},{"success":{"/scenes/9GuteV9O-9vTAgt/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:05:04
+		/scenes/9GuteV9O-9vTAgt/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:05:00
+		[{"success":{"/scenes/9GuteV9O-9vTAgt/lightstates/3/on":true}},{"success":{"/scenes/9GuteV9O-9vTAgt/lightstates/3/bri":25}}]
+**********	59 scene(s)	**********
+
+2016-04-08	15:05:06
+		/scenes	POST
+		{"name":"Scene59_150506","lights":["1", "2", "3"], "recycle":true}
+	15:05:06
+		[{"success":{"id":"mKz03PomCUhsUO4"}}]
+
+
+2016-04-08	15:05:08
+		/scenes/mKz03PomCUhsUO4/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:05:06
+		[{"success":{"/scenes/mKz03PomCUhsUO4/lightstates/1/on":true}},{"success":{"/scenes/mKz03PomCUhsUO4/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:05:09
+		/scenes/mKz03PomCUhsUO4/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:05:06
+		[{"success":{"/scenes/mKz03PomCUhsUO4/lightstates/2/on":true}},{"success":{"/scenes/mKz03PomCUhsUO4/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:05:10
+		/scenes/mKz03PomCUhsUO4/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:05:06
+		[{"success":{"/scenes/mKz03PomCUhsUO4/lightstates/3/on":true}},{"success":{"/scenes/mKz03PomCUhsUO4/lightstates/3/bri":25}}]
+**********	60 scene(s)	**********
+
+2016-04-08	15:05:12
+		/scenes	POST
+		{"name":"Scene60_150512","lights":["1", "2", "3"], "recycle":true}
+	15:05:12
+		[{"success":{"id":"UqYDXKk-at3PoU6"}}]
+
+
+2016-04-08	15:05:14
+		/scenes/UqYDXKk-at3PoU6/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:05:12
+		[{"success":{"/scenes/UqYDXKk-at3PoU6/lightstates/1/on":true}},{"success":{"/scenes/UqYDXKk-at3PoU6/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:05:15
+		/scenes/UqYDXKk-at3PoU6/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:05:12
+		[{"success":{"/scenes/UqYDXKk-at3PoU6/lightstates/2/on":true}},{"success":{"/scenes/UqYDXKk-at3PoU6/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:05:16
+		/scenes/UqYDXKk-at3PoU6/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:05:12
+		[{"success":{"/scenes/UqYDXKk-at3PoU6/lightstates/3/on":true}},{"success":{"/scenes/UqYDXKk-at3PoU6/lightstates/3/bri":25}}]
+**********	61 scene(s)	**********
+
+2016-04-08	15:05:18
+		/scenes	POST
+		{"name":"Scene61_150518","lights":["1", "2", "3"], "recycle":true}
+	15:05:18
+		[{"success":{"id":"nYWix3eiCZRYw0P"}}]
+
+
+2016-04-08	15:05:20
+		/scenes/nYWix3eiCZRYw0P/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:05:18
+		[{"success":{"/scenes/nYWix3eiCZRYw0P/lightstates/1/on":true}},{"success":{"/scenes/nYWix3eiCZRYw0P/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:05:21
+		/scenes/nYWix3eiCZRYw0P/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:05:18
+		[{"success":{"/scenes/nYWix3eiCZRYw0P/lightstates/2/on":true}},{"success":{"/scenes/nYWix3eiCZRYw0P/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:05:22
+		/scenes/nYWix3eiCZRYw0P/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:05:18
+		[{"success":{"/scenes/nYWix3eiCZRYw0P/lightstates/3/on":true}},{"success":{"/scenes/nYWix3eiCZRYw0P/lightstates/3/bri":25}}]
+**********	62 scene(s)	**********
+
+2016-04-08	15:05:24
+		/scenes	POST
+		{"name":"Scene62_150524","lights":["1", "2", "3"], "recycle":true}
+	15:05:24
+		[{"success":{"id":"DOp0-UUJnMmnFN9"}}]
+
+
+2016-04-08	15:05:26
+		/scenes/DOp0-UUJnMmnFN9/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:05:24
+		[{"success":{"/scenes/DOp0-UUJnMmnFN9/lightstates/1/on":true}},{"success":{"/scenes/DOp0-UUJnMmnFN9/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:05:28
+		/scenes/DOp0-UUJnMmnFN9/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:05:24
+		[{"success":{"/scenes/DOp0-UUJnMmnFN9/lightstates/2/on":true}},{"success":{"/scenes/DOp0-UUJnMmnFN9/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:05:29
+		/scenes/DOp0-UUJnMmnFN9/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:05:24
+		[{"success":{"/scenes/DOp0-UUJnMmnFN9/lightstates/3/on":true}},{"success":{"/scenes/DOp0-UUJnMmnFN9/lightstates/3/bri":25}}]
+**********	63 scene(s)	**********
+
+2016-04-08	15:05:31
+		/scenes	POST
+		{"name":"Scene63_150531","lights":["1", "2", "3"], "recycle":true}
+	15:05:31
+		[{"success":{"id":"h5RVt-PPdvDqf5y"}}]
+
+
+2016-04-08	15:05:33
+		/scenes/h5RVt-PPdvDqf5y/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:05:31
+		[{"success":{"/scenes/h5RVt-PPdvDqf5y/lightstates/1/on":true}},{"success":{"/scenes/h5RVt-PPdvDqf5y/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:05:34
+		/scenes/h5RVt-PPdvDqf5y/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:05:31
+		[{"success":{"/scenes/h5RVt-PPdvDqf5y/lightstates/2/on":true}},{"success":{"/scenes/h5RVt-PPdvDqf5y/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:05:35
+		/scenes/h5RVt-PPdvDqf5y/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:05:31
+		[{"success":{"/scenes/h5RVt-PPdvDqf5y/lightstates/3/on":true}},{"success":{"/scenes/h5RVt-PPdvDqf5y/lightstates/3/bri":25}}]
+**********	64 scene(s)	**********
+
+2016-04-08	15:05:37
+		/scenes	POST
+		{"name":"Scene64_150537","lights":["1", "2", "3"], "recycle":true}
+	15:05:37
+		[{"success":{"id":"uEOOa25HfqQELcF"}}]
+
+
+2016-04-08	15:05:39
+		/scenes/uEOOa25HfqQELcF/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:05:37
+		[{"success":{"/scenes/uEOOa25HfqQELcF/lightstates/1/on":true}},{"success":{"/scenes/uEOOa25HfqQELcF/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:05:40
+		/scenes/uEOOa25HfqQELcF/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:05:37
+		[{"success":{"/scenes/uEOOa25HfqQELcF/lightstates/2/on":true}},{"success":{"/scenes/uEOOa25HfqQELcF/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:05:41
+		/scenes/uEOOa25HfqQELcF/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:05:37
+		[{"success":{"/scenes/uEOOa25HfqQELcF/lightstates/3/on":true}},{"success":{"/scenes/uEOOa25HfqQELcF/lightstates/3/bri":25}}]
+**********	65 scene(s)	**********
+
+2016-04-08	15:05:43
+		/scenes	POST
+		{"name":"Scene65_150543","lights":["1", "2", "3"], "recycle":true}
+	15:05:43
+		[{"success":{"id":"YxbLuCfG9geqTia"}}]
+
+
+2016-04-08	15:05:45
+		/scenes/YxbLuCfG9geqTia/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:05:43
+		[{"success":{"/scenes/YxbLuCfG9geqTia/lightstates/1/on":true}},{"success":{"/scenes/YxbLuCfG9geqTia/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:05:46
+		/scenes/YxbLuCfG9geqTia/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:05:43
+		[{"success":{"/scenes/YxbLuCfG9geqTia/lightstates/2/on":true}},{"success":{"/scenes/YxbLuCfG9geqTia/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:05:47
+		/scenes/YxbLuCfG9geqTia/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:05:43
+		[{"success":{"/scenes/YxbLuCfG9geqTia/lightstates/3/on":true}},{"success":{"/scenes/YxbLuCfG9geqTia/lightstates/3/bri":25}}]
+**********	66 scene(s)	**********
+
+2016-04-08	15:05:49
+		/scenes	POST
+		{"name":"Scene66_150549","lights":["1", "2", "3"], "recycle":true}
+	15:05:49
+		[{"success":{"id":"Y9yxHPQ0litWk8m"}}]
+
+
+2016-04-08	15:05:51
+		/scenes/Y9yxHPQ0litWk8m/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:05:49
+		[{"success":{"/scenes/Y9yxHPQ0litWk8m/lightstates/1/on":true}},{"success":{"/scenes/Y9yxHPQ0litWk8m/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:05:52
+		/scenes/Y9yxHPQ0litWk8m/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:05:49
+		[{"success":{"/scenes/Y9yxHPQ0litWk8m/lightstates/2/on":true}},{"success":{"/scenes/Y9yxHPQ0litWk8m/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:05:53
+		/scenes/Y9yxHPQ0litWk8m/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:05:49
+		[{"success":{"/scenes/Y9yxHPQ0litWk8m/lightstates/3/on":true}},{"success":{"/scenes/Y9yxHPQ0litWk8m/lightstates/3/bri":25}}]
+**********	67 scene(s)	**********
+
+2016-04-08	15:05:55
+		/scenes	POST
+		{"name":"Scene67_150555","lights":["1", "2", "3"], "recycle":true}
+	15:05:55
+		[{"success":{"id":"p7IUM2x5ve3F4qO"}}]
+
+
+2016-04-08	15:05:57
+		/scenes/p7IUM2x5ve3F4qO/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:05:55
+		[{"success":{"/scenes/p7IUM2x5ve3F4qO/lightstates/1/on":true}},{"success":{"/scenes/p7IUM2x5ve3F4qO/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:05:58
+		/scenes/p7IUM2x5ve3F4qO/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:05:55
+		[{"success":{"/scenes/p7IUM2x5ve3F4qO/lightstates/2/on":true}},{"success":{"/scenes/p7IUM2x5ve3F4qO/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:05:59
+		/scenes/p7IUM2x5ve3F4qO/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:05:55
+		[{"success":{"/scenes/p7IUM2x5ve3F4qO/lightstates/3/on":true}},{"success":{"/scenes/p7IUM2x5ve3F4qO/lightstates/3/bri":25}}]
+**********	68 scene(s)	**********
+
+2016-04-08	15:06:01
+		/scenes	POST
+		{"name":"Scene68_150601","lights":["1", "2", "3"], "recycle":true}
+	15:06:01
+		[{"success":{"id":"QwRsZRa3RqjvyXr"}}]
+
+
+2016-04-08	15:06:03
+		/scenes/QwRsZRa3RqjvyXr/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:06:01
+		[{"success":{"/scenes/QwRsZRa3RqjvyXr/lightstates/1/on":true}},{"success":{"/scenes/QwRsZRa3RqjvyXr/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:06:04
+		/scenes/QwRsZRa3RqjvyXr/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:06:01
+		[{"success":{"/scenes/QwRsZRa3RqjvyXr/lightstates/2/on":true}},{"success":{"/scenes/QwRsZRa3RqjvyXr/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:06:05
+		/scenes/QwRsZRa3RqjvyXr/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:06:01
+		[{"success":{"/scenes/QwRsZRa3RqjvyXr/lightstates/3/on":true}},{"success":{"/scenes/QwRsZRa3RqjvyXr/lightstates/3/bri":25}}]
+**********	69 scene(s)	**********
+
+2016-04-08	15:06:08
+		/scenes	POST
+		{"name":"Scene69_150608","lights":["1", "2", "3"], "recycle":true}
+	15:06:08
+		[{"success":{"id":"FuFDuyHLbxE3t9m"}}]
+
+
+2016-04-08	15:06:10
+		/scenes/FuFDuyHLbxE3t9m/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:06:08
+		[{"success":{"/scenes/FuFDuyHLbxE3t9m/lightstates/1/on":true}},{"success":{"/scenes/FuFDuyHLbxE3t9m/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:06:11
+		/scenes/FuFDuyHLbxE3t9m/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:06:08
+		[{"success":{"/scenes/FuFDuyHLbxE3t9m/lightstates/2/on":true}},{"success":{"/scenes/FuFDuyHLbxE3t9m/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:06:12
+		/scenes/FuFDuyHLbxE3t9m/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:06:08
+		[{"success":{"/scenes/FuFDuyHLbxE3t9m/lightstates/3/on":true}},{"success":{"/scenes/FuFDuyHLbxE3t9m/lightstates/3/bri":25}}]
+**********	70 scene(s)	**********
+
+2016-04-08	15:06:14
+		/scenes	POST
+		{"name":"Scene70_150614","lights":["1", "2", "3"], "recycle":true}
+	15:06:14
+		[{"success":{"id":"7Wqrc0OiA862oje"}}]
+
+
+2016-04-08	15:06:16
+		/scenes/7Wqrc0OiA862oje/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:06:14
+		[{"success":{"/scenes/7Wqrc0OiA862oje/lightstates/1/on":true}},{"success":{"/scenes/7Wqrc0OiA862oje/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:06:17
+		/scenes/7Wqrc0OiA862oje/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:06:14
+		[{"success":{"/scenes/7Wqrc0OiA862oje/lightstates/2/on":true}},{"success":{"/scenes/7Wqrc0OiA862oje/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:06:18
+		/scenes/7Wqrc0OiA862oje/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:06:14
+		[{"success":{"/scenes/7Wqrc0OiA862oje/lightstates/3/on":true}},{"success":{"/scenes/7Wqrc0OiA862oje/lightstates/3/bri":25}}]
+**********	71 scene(s)	**********
+
+2016-04-08	15:06:20
+		/scenes	POST
+		{"name":"Scene71_150620","lights":["1", "2", "3"], "recycle":true}
+	15:06:20
+		[{"success":{"id":"g4I8iZ5ly9wu7Af"}}]
+
+
+2016-04-08	15:06:22
+		/scenes/g4I8iZ5ly9wu7Af/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:06:20
+		[{"success":{"/scenes/g4I8iZ5ly9wu7Af/lightstates/1/on":true}},{"success":{"/scenes/g4I8iZ5ly9wu7Af/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:06:23
+		/scenes/g4I8iZ5ly9wu7Af/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:06:20
+		[{"success":{"/scenes/g4I8iZ5ly9wu7Af/lightstates/2/on":true}},{"success":{"/scenes/g4I8iZ5ly9wu7Af/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:06:24
+		/scenes/g4I8iZ5ly9wu7Af/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:06:20
+		[{"success":{"/scenes/g4I8iZ5ly9wu7Af/lightstates/3/on":true}},{"success":{"/scenes/g4I8iZ5ly9wu7Af/lightstates/3/bri":25}}]
+**********	72 scene(s)	**********
+
+2016-04-08	15:06:26
+		/scenes	POST
+		{"name":"Scene72_150626","lights":["1", "2", "3"], "recycle":true}
+	15:06:26
+		[{"success":{"id":"MdcPIiQZpPwMo1a"}}]
+
+
+2016-04-08	15:06:28
+		/scenes/MdcPIiQZpPwMo1a/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:06:26
+		[{"success":{"/scenes/MdcPIiQZpPwMo1a/lightstates/1/on":true}},{"success":{"/scenes/MdcPIiQZpPwMo1a/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:06:29
+		/scenes/MdcPIiQZpPwMo1a/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:06:26
+		[{"success":{"/scenes/MdcPIiQZpPwMo1a/lightstates/2/on":true}},{"success":{"/scenes/MdcPIiQZpPwMo1a/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:06:30
+		/scenes/MdcPIiQZpPwMo1a/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:06:26
+		[{"success":{"/scenes/MdcPIiQZpPwMo1a/lightstates/3/on":true}},{"success":{"/scenes/MdcPIiQZpPwMo1a/lightstates/3/bri":25}}]
+**********	73 scene(s)	**********
+
+2016-04-08	15:06:32
+		/scenes	POST
+		{"name":"Scene73_150632","lights":["1", "2", "3"], "recycle":true}
+	15:06:32
+		[{"success":{"id":"7mS8c2Ete2LmU2X"}}]
+
+
+2016-04-08	15:06:34
+		/scenes/7mS8c2Ete2LmU2X/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:06:32
+		[{"success":{"/scenes/7mS8c2Ete2LmU2X/lightstates/1/on":true}},{"success":{"/scenes/7mS8c2Ete2LmU2X/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:06:35
+		/scenes/7mS8c2Ete2LmU2X/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:06:32
+		[{"success":{"/scenes/7mS8c2Ete2LmU2X/lightstates/2/on":true}},{"success":{"/scenes/7mS8c2Ete2LmU2X/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:06:36
+		/scenes/7mS8c2Ete2LmU2X/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:06:32
+		[{"success":{"/scenes/7mS8c2Ete2LmU2X/lightstates/3/on":true}},{"success":{"/scenes/7mS8c2Ete2LmU2X/lightstates/3/bri":25}}]
+**********	74 scene(s)	**********
+
+2016-04-08	15:06:38
+		/scenes	POST
+		{"name":"Scene74_150638","lights":["1", "2", "3"], "recycle":true}
+	15:06:38
+		[{"success":{"id":"oZJvwFvIYdkP1oz"}}]
+
+
+2016-04-08	15:06:40
+		/scenes/oZJvwFvIYdkP1oz/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:06:38
+		[{"success":{"/scenes/oZJvwFvIYdkP1oz/lightstates/1/on":true}},{"success":{"/scenes/oZJvwFvIYdkP1oz/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:06:41
+		/scenes/oZJvwFvIYdkP1oz/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:06:38
+		[{"success":{"/scenes/oZJvwFvIYdkP1oz/lightstates/2/on":true}},{"success":{"/scenes/oZJvwFvIYdkP1oz/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:06:42
+		/scenes/oZJvwFvIYdkP1oz/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:06:38
+		[{"success":{"/scenes/oZJvwFvIYdkP1oz/lightstates/3/on":true}},{"success":{"/scenes/oZJvwFvIYdkP1oz/lightstates/3/bri":25}}]
+**********	75 scene(s)	**********
+
+2016-04-08	15:06:44
+		/scenes	POST
+		{"name":"Scene75_150644","lights":["1", "2", "3"], "recycle":true}
+	15:06:44
+		[{"success":{"id":"yepHx8-LclC5PcI"}}]
+
+
+2016-04-08	15:06:46
+		/scenes/yepHx8-LclC5PcI/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:06:44
+		[{"success":{"/scenes/yepHx8-LclC5PcI/lightstates/1/on":true}},{"success":{"/scenes/yepHx8-LclC5PcI/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:06:47
+		/scenes/yepHx8-LclC5PcI/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:06:44
+		[{"success":{"/scenes/yepHx8-LclC5PcI/lightstates/2/on":true}},{"success":{"/scenes/yepHx8-LclC5PcI/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:06:49
+		/scenes/yepHx8-LclC5PcI/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:06:44
+		[{"success":{"/scenes/yepHx8-LclC5PcI/lightstates/3/on":true}},{"success":{"/scenes/yepHx8-LclC5PcI/lightstates/3/bri":25}}]
+**********	76 scene(s)	**********
+
+2016-04-08	15:06:51
+		/scenes	POST
+		{"name":"Scene76_150651","lights":["1", "2", "3"], "recycle":true}
+	15:06:51
+		[{"success":{"id":"ocGdThI9MdBAZlf"}}]
+
+
+2016-04-08	15:06:53
+		/scenes/ocGdThI9MdBAZlf/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:06:51
+		[{"success":{"/scenes/ocGdThI9MdBAZlf/lightstates/1/on":true}},{"success":{"/scenes/ocGdThI9MdBAZlf/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:06:54
+		/scenes/ocGdThI9MdBAZlf/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:06:51
+		[{"success":{"/scenes/ocGdThI9MdBAZlf/lightstates/2/on":true}},{"success":{"/scenes/ocGdThI9MdBAZlf/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:06:55
+		/scenes/ocGdThI9MdBAZlf/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:06:51
+		[{"success":{"/scenes/ocGdThI9MdBAZlf/lightstates/3/on":true}},{"success":{"/scenes/ocGdThI9MdBAZlf/lightstates/3/bri":25}}]
+**********	77 scene(s)	**********
+
+2016-04-08	15:06:57
+		/scenes	POST
+		{"name":"Scene77_150657","lights":["1", "2", "3"], "recycle":true}
+	15:06:57
+		[{"success":{"id":"oOTJRIF71rSvNuz"}}]
+
+
+2016-04-08	15:06:59
+		/scenes/oOTJRIF71rSvNuz/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:06:57
+		[{"success":{"/scenes/oOTJRIF71rSvNuz/lightstates/1/on":true}},{"success":{"/scenes/oOTJRIF71rSvNuz/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:07:00
+		/scenes/oOTJRIF71rSvNuz/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:06:57
+		[{"success":{"/scenes/oOTJRIF71rSvNuz/lightstates/2/on":true}},{"success":{"/scenes/oOTJRIF71rSvNuz/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:07:01
+		/scenes/oOTJRIF71rSvNuz/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:06:57
+		[{"success":{"/scenes/oOTJRIF71rSvNuz/lightstates/3/on":true}},{"success":{"/scenes/oOTJRIF71rSvNuz/lightstates/3/bri":25}}]
+**********	78 scene(s)	**********
+
+2016-04-08	15:07:03
+		/scenes	POST
+		{"name":"Scene78_150703","lights":["1", "2", "3"], "recycle":true}
+	15:07:03
+		[{"success":{"id":"JgjhlpHmUIlrAH0"}}]
+
+
+2016-04-08	15:07:05
+		/scenes/JgjhlpHmUIlrAH0/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:07:03
+		[{"success":{"/scenes/JgjhlpHmUIlrAH0/lightstates/1/on":true}},{"success":{"/scenes/JgjhlpHmUIlrAH0/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:07:06
+		/scenes/JgjhlpHmUIlrAH0/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:07:03
+		[{"success":{"/scenes/JgjhlpHmUIlrAH0/lightstates/2/on":true}},{"success":{"/scenes/JgjhlpHmUIlrAH0/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:07:07
+		/scenes/JgjhlpHmUIlrAH0/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:07:03
+		[{"success":{"/scenes/JgjhlpHmUIlrAH0/lightstates/3/on":true}},{"success":{"/scenes/JgjhlpHmUIlrAH0/lightstates/3/bri":25}}]
+**********	79 scene(s)	**********
+
+2016-04-08	15:07:09
+		/scenes	POST
+		{"name":"Scene79_150709","lights":["1", "2", "3"], "recycle":true}
+	15:07:09
+		[{"success":{"id":"n1GNxw2pcBWpEMY"}}]
+
+
+2016-04-08	15:07:11
+		/scenes/n1GNxw2pcBWpEMY/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:07:09
+		[{"success":{"/scenes/n1GNxw2pcBWpEMY/lightstates/1/on":true}},{"success":{"/scenes/n1GNxw2pcBWpEMY/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:07:12
+		/scenes/n1GNxw2pcBWpEMY/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:07:09
+		[{"success":{"/scenes/n1GNxw2pcBWpEMY/lightstates/2/on":true}},{"success":{"/scenes/n1GNxw2pcBWpEMY/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:07:13
+		/scenes/n1GNxw2pcBWpEMY/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:07:09
+		[{"success":{"/scenes/n1GNxw2pcBWpEMY/lightstates/3/on":true}},{"success":{"/scenes/n1GNxw2pcBWpEMY/lightstates/3/bri":25}}]
+**********	80 scene(s)	**********
+
+2016-04-08	15:07:15
+		/scenes	POST
+		{"name":"Scene80_150715","lights":["1", "2", "3"], "recycle":true}
+	15:07:15
+		[{"success":{"id":"9tfQrLqnJ12g2vi"}}]
+
+
+2016-04-08	15:07:17
+		/scenes/9tfQrLqnJ12g2vi/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:07:15
+		[{"success":{"/scenes/9tfQrLqnJ12g2vi/lightstates/1/on":true}},{"success":{"/scenes/9tfQrLqnJ12g2vi/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:07:18
+		/scenes/9tfQrLqnJ12g2vi/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:07:15
+		[{"success":{"/scenes/9tfQrLqnJ12g2vi/lightstates/2/on":true}},{"success":{"/scenes/9tfQrLqnJ12g2vi/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:07:19
+		/scenes/9tfQrLqnJ12g2vi/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:07:15
+		[{"success":{"/scenes/9tfQrLqnJ12g2vi/lightstates/3/on":true}},{"success":{"/scenes/9tfQrLqnJ12g2vi/lightstates/3/bri":25}}]
+**********	81 scene(s)	**********
+
+2016-04-08	15:07:21
+		/scenes	POST
+		{"name":"Scene81_150721","lights":["1", "2", "3"], "recycle":true}
+	15:07:21
+		[{"success":{"id":"9VUXFXm1oeHx2Ha"}}]
+
+
+2016-04-08	15:07:23
+		/scenes/9VUXFXm1oeHx2Ha/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:07:21
+		[{"success":{"/scenes/9VUXFXm1oeHx2Ha/lightstates/1/on":true}},{"success":{"/scenes/9VUXFXm1oeHx2Ha/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:07:25
+		/scenes/9VUXFXm1oeHx2Ha/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:07:21
+		[{"success":{"/scenes/9VUXFXm1oeHx2Ha/lightstates/2/on":true}},{"success":{"/scenes/9VUXFXm1oeHx2Ha/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:07:26
+		/scenes/9VUXFXm1oeHx2Ha/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:07:21
+		[{"success":{"/scenes/9VUXFXm1oeHx2Ha/lightstates/3/on":true}},{"success":{"/scenes/9VUXFXm1oeHx2Ha/lightstates/3/bri":25}}]
+**********	82 scene(s)	**********
+
+2016-04-08	15:07:28
+		/scenes	POST
+		{"name":"Scene82_150728","lights":["1", "2", "3"], "recycle":true}
+	15:07:28
+		[{"success":{"id":"OytOf-k0uln9eFm"}}]
+
+
+2016-04-08	15:07:30
+		/scenes/OytOf-k0uln9eFm/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:07:28
+		[{"success":{"/scenes/OytOf-k0uln9eFm/lightstates/1/on":true}},{"success":{"/scenes/OytOf-k0uln9eFm/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:07:31
+		/scenes/OytOf-k0uln9eFm/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:07:28
+		[{"success":{"/scenes/OytOf-k0uln9eFm/lightstates/2/on":true}},{"success":{"/scenes/OytOf-k0uln9eFm/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:07:32
+		/scenes/OytOf-k0uln9eFm/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:07:28
+		[{"success":{"/scenes/OytOf-k0uln9eFm/lightstates/3/on":true}},{"success":{"/scenes/OytOf-k0uln9eFm/lightstates/3/bri":25}}]
+**********	83 scene(s)	**********
+
+2016-04-08	15:07:34
+		/scenes	POST
+		{"name":"Scene83_150734","lights":["1", "2", "3"], "recycle":true}
+	15:07:34
+		[{"success":{"id":"zyRbtRqPDJpDRXw"}}]
+
+
+2016-04-08	15:07:36
+		/scenes/zyRbtRqPDJpDRXw/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:07:34
+		[{"success":{"/scenes/zyRbtRqPDJpDRXw/lightstates/1/on":true}},{"success":{"/scenes/zyRbtRqPDJpDRXw/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:07:37
+		/scenes/zyRbtRqPDJpDRXw/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:07:34
+		[{"success":{"/scenes/zyRbtRqPDJpDRXw/lightstates/2/on":true}},{"success":{"/scenes/zyRbtRqPDJpDRXw/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:07:38
+		/scenes/zyRbtRqPDJpDRXw/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:07:34
+		[{"success":{"/scenes/zyRbtRqPDJpDRXw/lightstates/3/on":true}},{"success":{"/scenes/zyRbtRqPDJpDRXw/lightstates/3/bri":25}}]
+**********	84 scene(s)	**********
+
+2016-04-08	15:07:40
+		/scenes	POST
+		{"name":"Scene84_150740","lights":["1", "2", "3"], "recycle":true}
+	15:07:40
+		[{"success":{"id":"ErSTejPM0mcAH6J"}}]
+
+
+2016-04-08	15:07:42
+		/scenes/ErSTejPM0mcAH6J/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:07:40
+		[{"success":{"/scenes/ErSTejPM0mcAH6J/lightstates/1/on":true}},{"success":{"/scenes/ErSTejPM0mcAH6J/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:07:43
+		/scenes/ErSTejPM0mcAH6J/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:07:40
+		[{"success":{"/scenes/ErSTejPM0mcAH6J/lightstates/2/on":true}},{"success":{"/scenes/ErSTejPM0mcAH6J/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:07:44
+		/scenes/ErSTejPM0mcAH6J/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:07:40
+		[{"success":{"/scenes/ErSTejPM0mcAH6J/lightstates/3/on":true}},{"success":{"/scenes/ErSTejPM0mcAH6J/lightstates/3/bri":25}}]
+**********	85 scene(s)	**********
+
+2016-04-08	15:07:46
+		/scenes	POST
+		{"name":"Scene85_150746","lights":["1", "2", "3"], "recycle":true}
+	15:07:46
+		[{"success":{"id":"IRKlBaFfUwfS3NJ"}}]
+
+
+2016-04-08	15:07:48
+		/scenes/IRKlBaFfUwfS3NJ/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:07:46
+		[{"success":{"/scenes/IRKlBaFfUwfS3NJ/lightstates/1/on":true}},{"success":{"/scenes/IRKlBaFfUwfS3NJ/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:07:49
+		/scenes/IRKlBaFfUwfS3NJ/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:07:46
+		[{"success":{"/scenes/IRKlBaFfUwfS3NJ/lightstates/2/on":true}},{"success":{"/scenes/IRKlBaFfUwfS3NJ/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:07:50
+		/scenes/IRKlBaFfUwfS3NJ/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:07:46
+		[{"success":{"/scenes/IRKlBaFfUwfS3NJ/lightstates/3/on":true}},{"success":{"/scenes/IRKlBaFfUwfS3NJ/lightstates/3/bri":25}}]
+**********	86 scene(s)	**********
+
+2016-04-08	15:07:52
+		/scenes	POST
+		{"name":"Scene86_150752","lights":["1", "2", "3"], "recycle":true}
+	15:07:52
+		[{"success":{"id":"ulMpycsMah67RxO"}}]
+
+
+2016-04-08	15:07:54
+		/scenes/ulMpycsMah67RxO/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:07:52
+		[{"success":{"/scenes/ulMpycsMah67RxO/lightstates/1/on":true}},{"success":{"/scenes/ulMpycsMah67RxO/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:07:55
+		/scenes/ulMpycsMah67RxO/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:07:52
+		[{"success":{"/scenes/ulMpycsMah67RxO/lightstates/2/on":true}},{"success":{"/scenes/ulMpycsMah67RxO/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:07:56
+		/scenes/ulMpycsMah67RxO/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:07:52
+		[{"success":{"/scenes/ulMpycsMah67RxO/lightstates/3/on":true}},{"success":{"/scenes/ulMpycsMah67RxO/lightstates/3/bri":25}}]
+**********	87 scene(s)	**********
+
+2016-04-08	15:07:58
+		/scenes	POST
+		{"name":"Scene87_150758","lights":["1", "2", "3"], "recycle":true}
+	15:07:58
+		[{"success":{"id":"RWW92DC5gt4dWG6"}}]
+
+
+2016-04-08	15:08:00
+		/scenes/RWW92DC5gt4dWG6/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:07:58
+		[{"success":{"/scenes/RWW92DC5gt4dWG6/lightstates/1/on":true}},{"success":{"/scenes/RWW92DC5gt4dWG6/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:08:01
+		/scenes/RWW92DC5gt4dWG6/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:07:58
+		[{"success":{"/scenes/RWW92DC5gt4dWG6/lightstates/2/on":true}},{"success":{"/scenes/RWW92DC5gt4dWG6/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:08:03
+		/scenes/RWW92DC5gt4dWG6/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:07:58
+		[{"success":{"/scenes/RWW92DC5gt4dWG6/lightstates/3/on":true}},{"success":{"/scenes/RWW92DC5gt4dWG6/lightstates/3/bri":25}}]
+**********	88 scene(s)	**********
+
+2016-04-08	15:08:05
+		/scenes	POST
+		{"name":"Scene88_150805","lights":["1", "2", "3"], "recycle":true}
+	15:08:05
+		[{"success":{"id":"uxbZ7iECo904HIa"}}]
+
+
+2016-04-08	15:08:07
+		/scenes/uxbZ7iECo904HIa/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:08:05
+		[{"success":{"/scenes/uxbZ7iECo904HIa/lightstates/1/on":true}},{"success":{"/scenes/uxbZ7iECo904HIa/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:08:08
+		/scenes/uxbZ7iECo904HIa/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:08:05
+		[{"success":{"/scenes/uxbZ7iECo904HIa/lightstates/2/on":true}},{"success":{"/scenes/uxbZ7iECo904HIa/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:08:09
+		/scenes/uxbZ7iECo904HIa/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:08:05
+		[{"success":{"/scenes/uxbZ7iECo904HIa/lightstates/3/on":true}},{"success":{"/scenes/uxbZ7iECo904HIa/lightstates/3/bri":25}}]
+**********	89 scene(s)	**********
+
+2016-04-08	15:08:11
+		/scenes	POST
+		{"name":"Scene89_150811","lights":["1", "2", "3"], "recycle":true}
+	15:08:11
+		[{"success":{"id":"4gLaNO7jSRJX8xz"}}]
+
+
+2016-04-08	15:08:13
+		/scenes/4gLaNO7jSRJX8xz/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:08:11
+		[{"success":{"/scenes/4gLaNO7jSRJX8xz/lightstates/1/on":true}},{"success":{"/scenes/4gLaNO7jSRJX8xz/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:08:14
+		/scenes/4gLaNO7jSRJX8xz/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:08:11
+		[{"success":{"/scenes/4gLaNO7jSRJX8xz/lightstates/2/on":true}},{"success":{"/scenes/4gLaNO7jSRJX8xz/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:08:15
+		/scenes/4gLaNO7jSRJX8xz/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:08:11
+		[{"success":{"/scenes/4gLaNO7jSRJX8xz/lightstates/3/on":true}},{"success":{"/scenes/4gLaNO7jSRJX8xz/lightstates/3/bri":25}}]
+**********	90 scene(s)	**********
+
+2016-04-08	15:08:17
+		/scenes	POST
+		{"name":"Scene90_150817","lights":["1", "2", "3"], "recycle":true}
+	15:08:17
+		[{"success":{"id":"s6IwpYkKWRWsqq1"}}]
+
+
+2016-04-08	15:08:19
+		/scenes/s6IwpYkKWRWsqq1/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:08:17
+		[{"success":{"/scenes/s6IwpYkKWRWsqq1/lightstates/1/on":true}},{"success":{"/scenes/s6IwpYkKWRWsqq1/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:08:20
+		/scenes/s6IwpYkKWRWsqq1/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:08:17
+		[{"success":{"/scenes/s6IwpYkKWRWsqq1/lightstates/2/on":true}},{"success":{"/scenes/s6IwpYkKWRWsqq1/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:08:21
+		/scenes/s6IwpYkKWRWsqq1/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:08:17
+		[{"success":{"/scenes/s6IwpYkKWRWsqq1/lightstates/3/on":true}},{"success":{"/scenes/s6IwpYkKWRWsqq1/lightstates/3/bri":25}}]
+**********	91 scene(s)	**********
+
+2016-04-08	15:08:23
+		/scenes	POST
+		{"name":"Scene91_150823","lights":["1", "2", "3"], "recycle":true}
+	15:08:23
+		[{"success":{"id":"-ULNCqt1M4CQ4LM"}}]
+
+
+2016-04-08	15:08:25
+		/scenes/-ULNCqt1M4CQ4LM/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:08:23
+		[{"success":{"/scenes/-ULNCqt1M4CQ4LM/lightstates/1/on":true}},{"success":{"/scenes/-ULNCqt1M4CQ4LM/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:08:26
+		/scenes/-ULNCqt1M4CQ4LM/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:08:23
+		[{"success":{"/scenes/-ULNCqt1M4CQ4LM/lightstates/2/on":true}},{"success":{"/scenes/-ULNCqt1M4CQ4LM/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:08:27
+		/scenes/-ULNCqt1M4CQ4LM/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:08:23
+		[{"success":{"/scenes/-ULNCqt1M4CQ4LM/lightstates/3/on":true}},{"success":{"/scenes/-ULNCqt1M4CQ4LM/lightstates/3/bri":25}}]
+**********	92 scene(s)	**********
+
+2016-04-08	15:08:29
+		/scenes	POST
+		{"name":"Scene92_150829","lights":["1", "2", "3"], "recycle":true}
+	15:08:29
+		[{"success":{"id":"m2Mm2bFFNK1bHf5"}}]
+
+
+2016-04-08	15:08:31
+		/scenes/m2Mm2bFFNK1bHf5/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:08:29
+		[{"success":{"/scenes/m2Mm2bFFNK1bHf5/lightstates/1/on":true}},{"success":{"/scenes/m2Mm2bFFNK1bHf5/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:08:32
+		/scenes/m2Mm2bFFNK1bHf5/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:08:29
+		[{"success":{"/scenes/m2Mm2bFFNK1bHf5/lightstates/2/on":true}},{"success":{"/scenes/m2Mm2bFFNK1bHf5/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:08:33
+		/scenes/m2Mm2bFFNK1bHf5/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:08:29
+		[{"success":{"/scenes/m2Mm2bFFNK1bHf5/lightstates/3/on":true}},{"success":{"/scenes/m2Mm2bFFNK1bHf5/lightstates/3/bri":25}}]
+**********	93 scene(s)	**********
+
+2016-04-08	15:08:35
+		/scenes	POST
+		{"name":"Scene93_150835","lights":["1", "2", "3"], "recycle":true}
+	15:08:35
+		[{"success":{"id":"Abk2bhCBwVSr5Ba"}}]
+
+
+2016-04-08	15:08:37
+		/scenes/Abk2bhCBwVSr5Ba/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:08:35
+		[{"success":{"/scenes/Abk2bhCBwVSr5Ba/lightstates/1/on":true}},{"success":{"/scenes/Abk2bhCBwVSr5Ba/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:08:39
+		/scenes/Abk2bhCBwVSr5Ba/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:08:35
+		[{"success":{"/scenes/Abk2bhCBwVSr5Ba/lightstates/2/on":true}},{"success":{"/scenes/Abk2bhCBwVSr5Ba/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:08:40
+		/scenes/Abk2bhCBwVSr5Ba/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:08:35
+		[{"success":{"/scenes/Abk2bhCBwVSr5Ba/lightstates/3/on":true}},{"success":{"/scenes/Abk2bhCBwVSr5Ba/lightstates/3/bri":25}}]
+**********	94 scene(s)	**********
+
+2016-04-08	15:08:42
+		/scenes	POST
+		{"name":"Scene94_150842","lights":["1", "2", "3"], "recycle":true}
+	15:08:42
+		[{"success":{"id":"aipvoCwWwR6chlr"}}]
+
+
+2016-04-08	15:08:44
+		/scenes/aipvoCwWwR6chlr/lightstates/1	PUT
+		{"on":true, "bri":25}
+	15:08:42
+		[{"success":{"/scenes/aipvoCwWwR6chlr/lightstates/1/on":true}},{"success":{"/scenes/aipvoCwWwR6chlr/lightstates/1/bri":25}}]
+
+
+2016-04-08	15:08:45
+		/scenes/aipvoCwWwR6chlr/lightstates/2	PUT
+		{"on":true, "bri":25}
+	15:08:42
+		[{"success":{"/scenes/aipvoCwWwR6chlr/lightstates/2/on":true}},{"success":{"/scenes/aipvoCwWwR6chlr/lightstates/2/bri":25}}]
+
+
+2016-04-08	15:08:47
+		/scenes/aipvoCwWwR6chlr/lightstates/3	PUT
+		{"on":true, "bri":25}
+	15:08:42
+		[{"error":{"type":3,"address":"/scenes/aipvoCwWwR6chlr","description":"resource, /scenes/aipvoCwWwR6chlr, not available"}}]
+
+
+Finished Test

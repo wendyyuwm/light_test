@@ -1,0 +1,832 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.9
+			UserName: UX6IPK3RaS1l7lTjJ2lWMb1kHXJb5BNkY1fneGC0
+
+========================================================================================================================
+ IPJ_15525 TC1 
+
+ IPJ_15526 TC2 
+
+ IPJ_15527 TC3 
+
+ IPJ_15537 TC4 
+
+ IPJ_15538 TC5 
+
+ IPJ_15539 TC6 
+
+ IPJ_15540 TC7 
+
+
+2016-04-08	10:14:29
+		/groups/0/action	PUT
+		{"bri":254}
+	10:14:29
+		[{"success":{"/groups/0/action/bri":254}}]
+
+
+2016-04-08	10:14:31
+		/groups/0/action	PUT
+		{"bri":1, "transitiontime":100}
+	10:14:31
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/bri":1}}]
+
+
+2016-04-08	10:14:32
+		/groups/0/action	PUT
+		{"bri_inc": -200}
+	10:14:32
+		[{"success":{"/groups/0/action/bri_inc":-200}}]
+
+
+2016-04-08	10:14:44
+		Light		|		bri
+		    1		|		0
+		    2		|		0
+		    3		|		0
+
+
+2016-04-08	10:15:04
+		/groups/0/action	PUT
+		{"bri":254}
+	10:15:04
+		[{"success":{"/groups/0/action/bri":254}}]
+
+
+2016-04-08	10:15:05
+		/groups/0/action	PUT
+		{"bri":1, "transitiontime":100}
+	10:15:05
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/bri":1}}]
+
+
+2016-04-08	10:15:07
+		/groups/0/action	PUT
+		{"bri_inc": 0}
+	10:15:07
+		[{"success":{"/groups/0/action/bri_inc":0}}]
+
+
+2016-04-08	10:15:19
+		Light		|		bri
+		    1		|		216
+		    2		|		216
+		    3		|		216
+
+
+2016-04-08	10:15:25
+		/groups/0/action	PUT
+		{"bri":254}
+	10:15:25
+		[{"success":{"/groups/0/action/bri":254}}]
+
+
+2016-04-08	10:15:26
+		/groups/0/action	PUT
+		{"bri":1, "transitiontime":100}
+	10:15:26
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/bri":1}}]
+
+
+2016-04-08	10:15:28
+		/groups/0/action	PUT
+		{"bri_inc": -0}
+	10:15:28
+		[{"success":{"/groups/0/action/bri_inc":0}}]
+
+
+2016-04-08	10:15:41
+		Light		|		bri
+		    1		|		215
+		    2		|		1
+		    3		|		1
+
+
+2016-04-08	10:15:52
+		/groups/0/action	PUT
+		{"bri":254}
+	10:15:52
+		[{"success":{"/groups/0/action/bri":254}}]
+
+
+2016-04-08	10:15:54
+		/groups/0/action	PUT
+		{"bri":1, "transitiontime":100}
+	10:15:54
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/bri":1}}]
+
+
+2016-04-08	10:15:56
+		/groups/0/action	PUT
+		{"bri_inc": 200}
+	10:15:56
+		[{"success":{"/groups/0/action/bri_inc":200}}]
+
+
+2016-04-08	10:16:08
+		Light		|		bri
+		    1		|		254
+		    2		|		201
+		    3		|		201
+
+************************************************************************************************************************
+
+ IPJ_15541 TC8 
+
+
+2016-04-08	10:16:58
+		/groups/0/action	PUT
+		{"ct":500}
+	10:16:58
+		[{"success":{"/groups/0/action/ct":500}}]
+
+
+2016-04-08	10:16:59
+		/groups/0/action	PUT
+		{"ct":153, "transitiontime":100}
+	10:16:59
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/ct":153}}]
+
+
+2016-04-08	10:17:06
+		/groups/0/action	PUT
+		{"hue_inc": -10}
+	10:17:06
+		[{"success":{"/groups/0/action/hue_inc":-10}}]
+
+
+2016-04-08	10:17:20
+		Light		|		ct
+
+
+2016-04-08	10:18:22
+		/groups/0/action	PUT
+		{"ct":500}
+	10:18:22
+		[{"success":{"/groups/0/action/ct":500}}]
+
+
+2016-04-08	10:18:24
+		/groups/0/action	PUT
+		{"ct":153, "transitiontime":100}
+	10:18:24
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/ct":153}}]
+
+
+2016-04-08	10:18:25
+		/groups/0/action	PUT
+		{"sat_inc": -10}
+	10:18:25
+		[{"success":{"/groups/0/action/sat_inc":-10}}]
+
+
+2016-04-08	10:18:37
+		Light		|		ct
+
+
+2016-04-08	10:18:39
+		/groups/0/action	PUT
+		{"ct":500}
+	10:18:39
+		[{"success":{"/groups/0/action/ct":500}}]
+
+
+2016-04-08	10:18:41
+		/groups/0/action	PUT
+		{"ct":153, "transitiontime":100}
+	10:18:41
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/ct":153}}]
+
+
+2016-04-08	10:18:43
+		/groups/0/action	PUT
+		{"xy_inc": [0.1, 0.1]}
+	10:18:43
+		[{"success":{"/groups/0/action/xy_inc":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:19:55
+		Light		|		ct
+
+************************************************************************************************************************
+
+ IPJ_15542 TC9 
+
+
+2016-04-08	10:45:47
+		/groups/0/action	PUT
+		{"hue":65534}
+	10:45:47
+		[{"success":{"/groups/0/action/hue":65534}}]
+
+
+2016-04-08	10:45:49
+		/groups/0/action	PUT
+		{"hue":1, "transitiontime":100}
+	10:45:49
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/hue":1}}]
+
+
+2016-04-08	10:45:51
+		/groups/0/action	PUT
+		{"ct_inc": -10}
+	10:45:51
+		[{"success":{"/groups/0/action/ct_inc":-10}}]
+
+
+2016-04-08	10:46:03
+		Light		|		hue
+
+
+2016-04-08	10:46:16
+		/groups/0/action	PUT
+		{"hue":65534}
+	10:46:16
+		[{"success":{"/groups/0/action/hue":65534}}]
+
+
+2016-04-08	10:46:18
+		/groups/0/action	PUT
+		{"hue":1, "transitiontime":100}
+	10:46:18
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/hue":1}}]
+
+
+2016-04-08	10:46:20
+		/groups/0/action	PUT
+		{"xy_inc": [0.1, 0.1]}
+	10:46:20
+		[{"success":{"/groups/0/action/xy_inc":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:46:31
+		Light		|		hue
+
+************************************************************************************************************************
+
+ IPJ_15543 TC10 
+
+
+2016-04-08	10:46:35
+		/groups/0/action	PUT
+		{"sat":254}
+	10:46:35
+		[{"success":{"/groups/0/action/sat":254}}]
+
+
+2016-04-08	10:47:17
+		/groups/0/action	PUT
+		{"sat":1, "transitiontime":100}
+	10:47:17
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/sat":1}}]
+
+
+2016-04-08	10:47:23
+		/groups/0/action	PUT
+		{"ct_inc": -10}
+	10:47:23
+		[{"success":{"/groups/0/action/ct_inc":-10}}]
+
+
+2016-04-08	10:47:35
+		Light		|		sat
+
+
+2016-04-08	10:48:06
+		/groups/0/action	PUT
+		{"sat":254}
+	10:48:06
+		[{"success":{"/groups/0/action/sat":254}}]
+
+
+2016-04-08	10:48:10
+		/groups/0/action	PUT
+		{"sat":1, "transitiontime":100}
+	10:48:10
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/sat":1}}]
+
+
+2016-04-08	10:48:12
+		/groups/0/action	PUT
+		{"xy_inc": [0.1, 0.1]}
+	10:48:12
+		[{"success":{"/groups/0/action/xy_inc":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:48:24
+		Light		|		sat
+
+************************************************************************************************************************
+
+ IPJ_15544 TC11 
+
+
+2016-04-08	10:48:27
+		/groups/0/action	PUT
+		{"xy":[0.1, 0.1]}
+	10:48:27
+		[{"success":{"/groups/0/action/xy":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:48:29
+		/groups/0/action	PUT
+		{"xy":[0.1, 0.1], "transitiontime":100}
+	10:48:29
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/xy":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:48:31
+		/groups/0/action	PUT
+		{"ct_inc": -10}
+	10:48:31
+		[{"success":{"/groups/0/action/ct_inc":-10}}]
+
+
+2016-04-08	10:48:42
+		Light		|		xy
+
+
+2016-04-08	10:48:43
+		/groups/0/action	PUT
+		{"xy":[0.1, 0.1]}
+	10:48:43
+		[{"success":{"/groups/0/action/xy":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:49:22
+		/groups/0/action	PUT
+		{"xy":[0.1, 0.1], "transitiontime":100}
+	10:49:22
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/xy":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:49:24
+		/groups/0/action	PUT
+		{"hue_inc": -10}
+	10:49:24
+		[{"success":{"/groups/0/action/hue_inc":-10}}]
+
+
+2016-04-08	10:49:35
+		Light		|		xy
+
+
+2016-04-08	10:49:38
+		/groups/0/action	PUT
+		{"xy":[0.1, 0.1]}
+	10:49:38
+		[{"success":{"/groups/0/action/xy":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:49:40
+		/groups/0/action	PUT
+		{"xy":[0.1, 0.1], "transitiontime":100}
+	10:49:40
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/xy":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:49:42
+		/groups/0/action	PUT
+		{"xy_inc": [0.1, 0.1]}
+	10:49:42
+		[{"success":{"/groups/0/action/xy_inc":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:49:54
+		Light		|		xy
+
+************************************************************************************************************************
+
+ IPJ_15545 TC12 
+
+
+2016-04-08	10:50:04
+		/groups/0/action	PUT
+		{"ct":200}
+	10:50:04
+		[{"success":{"/groups/0/action/ct":200}}]
+
+
+2016-04-08	10:50:06
+		/groups/0/action	PUT
+		{"hue_inc": 10000}
+	10:50:06
+		[{"success":{"/groups/0/action/hue_inc":10000}}]
+
+
+2016-04-08	10:50:18
+		Light		|		colormode
+
+
+2016-04-08	10:50:29
+		/groups/0/action	PUT
+		{"ct":200}
+	10:50:29
+		[{"success":{"/groups/0/action/ct":200}}]
+
+
+2016-04-08	10:50:31
+		/groups/0/action	PUT
+		{"sat_inc": 50}
+	10:50:31
+		[{"success":{"/groups/0/action/sat_inc":50}}]
+
+
+2016-04-08	10:50:43
+		Light		|		colormode
+
+
+2016-04-08	10:51:05
+		/groups/0/action	PUT
+		{"ct":200}
+	10:51:05
+		[{"success":{"/groups/0/action/ct":200}}]
+
+
+2016-04-08	10:51:07
+		/groups/0/action	PUT
+		{"xy_inc": [0.1, 0.1]}
+	10:51:07
+		[{"success":{"/groups/0/action/xy_inc":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:51:18
+		Light		|		colormode
+
+************************************************************************************************************************
+
+ IPJ_15546 TC13 
+
+
+2016-04-08	10:51:22
+		/groups/0/action	PUT
+		{"hue":40000}
+	10:51:22
+		[{"success":{"/groups/0/action/hue":40000}}]
+
+
+2016-04-08	10:51:24
+		/groups/0/action	PUT
+		{"ct_inc": 100}
+	10:51:24
+		[{"success":{"/groups/0/action/ct_inc":100}}]
+
+
+2016-04-08	10:51:36
+		Light		|		colormode
+
+
+2016-04-08	10:52:14
+		/groups/0/action	PUT
+		{"hue":30000}
+	10:52:14
+		[{"success":{"/groups/0/action/hue":30000}}]
+
+
+2016-04-08	10:52:16
+		/groups/0/action	PUT
+		{"xy_inc": [0.1, 0.1]}
+	10:52:16
+		[{"success":{"/groups/0/action/xy_inc":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:52:28
+		Light		|		colormode
+
+************************************************************************************************************************
+
+ IPJ_15547 TC14 
+
+
+2016-04-08	10:52:30
+		/groups/0/action	PUT
+		{"sat":100}
+	10:52:30
+		[{"success":{"/groups/0/action/sat":100}}]
+
+
+2016-04-08	10:54:32
+		/groups/0/action	PUT
+		{"ct_inc": 100}
+	10:54:32
+		[{"success":{"/groups/0/action/ct_inc":100}}]
+
+
+2016-04-08	10:54:44
+		Light		|		colormode
+
+
+2016-04-08	10:54:46
+		/groups/0/action	PUT
+		{"sat":100}
+	10:54:46
+		[{"success":{"/groups/0/action/sat":100}}]
+
+
+2016-04-08	10:54:48
+		/groups/0/action	PUT
+		{"xy_inc": [0.1, 0.1]}
+	10:54:48
+		[{"success":{"/groups/0/action/xy_inc":[0.1000,0.1000]}}]
+
+
+2016-04-08	10:55:00
+		Light		|		colormode
+
+************************************************************************************************************************
+
+ IPJ_15548 TC15 
+
+
+2016-04-08	10:55:18
+		/groups/0/action	PUT
+		{"xy": [0.5, 0.5]}
+	10:55:18
+		[{"success":{"/groups/0/action/xy":[0.5000,0.5000]}}]
+
+
+2016-04-08	10:56:35
+		/groups/0/action	PUT
+		{"ct_inc": 10}
+	10:56:35
+		[{"success":{"/groups/0/action/ct_inc":10}}]
+
+
+2016-04-08	10:56:48
+		Light		|		colormode
+
+
+2016-04-08	10:56:52
+		/groups/0/action	PUT
+		{"xy": [0.5, 0.5]}
+	10:56:52
+		[{"success":{"/groups/0/action/xy":[0.5000,0.5000]}}]
+
+
+2016-04-08	10:56:55
+		/groups/0/action	PUT
+		{"hue_inc": 10}
+	10:56:55
+		[{"success":{"/groups/0/action/hue_inc":10}}]
+
+
+2016-04-08	10:57:08
+		Light		|		colormode
+
+
+2016-04-08	10:58:51
+		/groups/0/action	PUT
+		{"xy": [0.5, 0.5]}
+	10:58:51
+		[{"success":{"/groups/0/action/xy":[0.5000,0.5000]}}]
+
+
+2016-04-08	10:59:03
+		/groups/0/action	PUT
+		{"sat_inc": 10}
+	10:59:04
+		[{"success":{"/groups/0/action/sat_inc":10}}]
+
+
+2016-04-08	10:59:16
+		Light		|		colormode
+
+************************************************************************************************************************
+
+ IPJ_15549 TC16 
+
+************************************************************************************************************************
+
+ IPJ_15550 TC17 
+
+************************************************************************************************************************
+
+ IPJ_15551 TC18 
+
+************************************************************************************************************************
+
+ IPJ_15552 TC19 
+
+************************************************************************************************************************
+
+ IPJ_15553 TC20 
+
+************************************************************************************************************************
+
+ IPJ_15554 TC21 
+
+
+2016-04-08	11:00:47
+		/groups/0/action	PUT
+		{"bri": 10}
+	11:00:47
+		[{"success":{"/groups/0/action/bri":10}}]
+
+
+2016-04-08	11:00:49
+		/groups/0/action	PUT
+		{"bri_inc": -1000000}
+	11:00:49
+		[{"error":{"type":7,"address":"/groups/0/action/bri_inc","description":"invalid value, -1000000}, for parameter, bri_inc"}}]
+
+************************************************************************************************************************
+
+ IPJ_15555 TC22 
+
+
+2016-04-08	11:00:57
+		/scenes	POST
+		{"name":"att_scene","lights":["1", "2", "3"], "recycle":true}
+	11:00:57
+		[{"success":{"id":"7dM5cnXqONO0Ue1"}}]
+
+
+2016-04-08	11:00:59
+		/scenes/7dM5cnXqONO0Ue1/lightstates/1	PUT
+		{"bri_inc":10}
+	11:00:57
+		[{"error":{"type":6,"address":"/scenes/7dM5cnXqONO0Ue1/lightstates/1/bri_inc","description":"parameter, bri_inc, not available"}}]
+
+
+2016-04-08	11:01:00
+		/scenes/7dM5cnXqONO0Ue1/lightstates/2	PUT
+		{"bri_inc":10}
+	11:00:57
+		[{"error":{"type":6,"address":"/scenes/7dM5cnXqONO0Ue1/lightstates/2/bri_inc","description":"parameter, bri_inc, not available"}}]
+
+
+2016-04-08	11:01:01
+		/scenes/7dM5cnXqONO0Ue1/lightstates/3	PUT
+		{"bri_inc":10}
+	11:00:57
+		[{"error":{"type":6,"address":"/scenes/7dM5cnXqONO0Ue1/lightstates/3/bri_inc","description":"parameter, bri_inc, not available"}}]
+
+
+2016-04-08	11:01:39
+		/scenes	POST
+		{"name":"att_scene","lights":["1", "2", "3"], "recycle":true}
+	11:01:39
+		[{"success":{"id":"-DB4v4oZQ7eIukV"}}]
+
+
+2016-04-08	11:01:41
+		/scenes/-DB4v4oZQ7eIukV/lightstates/1	PUT
+		{"ct_inc":-10}
+	11:01:39
+		[{"error":{"type":6,"address":"/scenes/-DB4v4oZQ7eIukV/lightstates/1/ct_inc","description":"parameter, ct_inc, not available"}}]
+
+
+2016-04-08	11:01:42
+		/scenes/-DB4v4oZQ7eIukV/lightstates/2	PUT
+		{"ct_inc":-10}
+	11:01:39
+		[{"error":{"type":6,"address":"/scenes/-DB4v4oZQ7eIukV/lightstates/2/ct_inc","description":"parameter, ct_inc, not available"}}]
+
+
+2016-04-08	11:01:43
+		/scenes/-DB4v4oZQ7eIukV/lightstates/3	PUT
+		{"ct_inc":-10}
+	11:01:39
+		[{"error":{"type":6,"address":"/scenes/-DB4v4oZQ7eIukV/lightstates/3/ct_inc","description":"parameter, ct_inc, not available"}}]
+
+
+2016-04-08	11:01:46
+		/scenes	POST
+		{"name":"att_scene","lights":["1", "2", "3"], "recycle":true}
+	11:01:46
+		[{"success":{"id":"Le1bw5I0s8N6iW2"}}]
+
+
+2016-04-08	11:01:48
+		/scenes/Le1bw5I0s8N6iW2/lightstates/1	PUT
+		{"hue_inc":10000}
+	11:01:46
+		[{"error":{"type":6,"address":"/scenes/Le1bw5I0s8N6iW2/lightstates/1/hue_inc","description":"parameter, hue_inc, not available"}}]
+
+
+2016-04-08	11:01:49
+		/scenes/Le1bw5I0s8N6iW2/lightstates/2	PUT
+		{"hue_inc":10000}
+	11:01:46
+		[{"error":{"type":6,"address":"/scenes/Le1bw5I0s8N6iW2/lightstates/2/hue_inc","description":"parameter, hue_inc, not available"}}]
+
+
+2016-04-08	11:01:50
+		/scenes/Le1bw5I0s8N6iW2/lightstates/3	PUT
+		{"hue_inc":10000}
+	11:01:46
+		[{"error":{"type":6,"address":"/scenes/Le1bw5I0s8N6iW2/lightstates/3/hue_inc","description":"parameter, hue_inc, not available"}}]
+
+
+2016-04-08	11:01:54
+		/scenes	POST
+		{"name":"att_scene","lights":["1", "2", "3"], "recycle":true}
+	11:01:54
+		[{"success":{"id":"1hR9TFifWg2MuTI"}}]
+
+
+2016-04-08	11:01:56
+		/scenes/1hR9TFifWg2MuTI/lightstates/1	PUT
+		{"sat_inc":25}
+	11:01:54
+		[{"error":{"type":6,"address":"/scenes/1hR9TFifWg2MuTI/lightstates/1/sat_inc","description":"parameter, sat_inc, not available"}}]
+
+
+2016-04-08	11:01:58
+		/scenes/1hR9TFifWg2MuTI/lightstates/2	PUT
+		{"sat_inc":25}
+	11:01:54
+		[{"error":{"type":6,"address":"/scenes/1hR9TFifWg2MuTI/lightstates/2/sat_inc","description":"parameter, sat_inc, not available"}}]
+
+
+2016-04-08	11:01:59
+		/scenes/1hR9TFifWg2MuTI/lightstates/3	PUT
+		{"sat_inc":25}
+	11:01:54
+		[{"error":{"type":6,"address":"/scenes/1hR9TFifWg2MuTI/lightstates/3/sat_inc","description":"parameter, sat_inc, not available"}}]
+
+
+2016-04-08	11:02:05
+		/scenes	POST
+		{"name":"att_scene","lights":["1", "2", "3"], "recycle":true}
+	11:02:05
+		[{"success":{"id":"Nkbou6uymDDpSJS"}}]
+
+
+2016-04-08	11:02:07
+		/scenes/Nkbou6uymDDpSJS/lightstates/1	PUT
+		{"xy_inc":[0.1, 0.1]}
+	11:02:05
+		[{"error":{"type":6,"address":"/scenes/Nkbou6uymDDpSJS/lightstates/1/xy_inc","description":"parameter, xy_inc, not available"}}]
+
+
+2016-04-08	11:02:08
+		/scenes/Nkbou6uymDDpSJS/lightstates/2	PUT
+		{"xy_inc":[0.1, 0.1]}
+	11:02:05
+		[{"error":{"type":6,"address":"/scenes/Nkbou6uymDDpSJS/lightstates/2/xy_inc","description":"parameter, xy_inc, not available"}}]
+
+
+2016-04-08	11:02:09
+		/scenes/Nkbou6uymDDpSJS/lightstates/3	PUT
+		{"xy_inc":[0.1, 0.1]}
+	11:02:05
+		[{"error":{"type":6,"address":"/scenes/Nkbou6uymDDpSJS/lightstates/3/xy_inc","description":"parameter, xy_inc, not available"}}]
+
+************************************************************************************************************************
+
+Added new_case1
+
+
+2016-04-08	11:02:12
+		/groups/0/action	PUT
+		{"hue":65535}
+	11:02:12
+		[{"success":{"/groups/0/action/hue":65535}}]
+
+
+2016-04-08	11:02:16
+		/groups/0/action	PUT
+		{"hue":20000, "transitiontime":200}
+	11:02:16
+		[{"success":{"/groups/0/action/transitiontime":200}},{"success":{"/groups/0/action/hue":20000}}]
+
+
+2016-04-08	11:02:19
+		/groups/0/action	PUT
+		{"sat_inc": -100}
+	11:02:19
+		[{"success":{"/groups/0/action/sat_inc":-100}}]
+
+
+2016-04-08	11:02:33
+		Light		|		hue
+
+
+2016-04-08	11:03:15
+		/groups/0/action	PUT
+		{"sat":254}
+	11:03:15
+		[{"success":{"/groups/0/action/sat":254}}]
+
+
+2016-04-08	11:03:17
+		/groups/0/action	PUT
+		{"sat":1, "transitiontime":200}
+	11:03:17
+		[{"success":{"/groups/0/action/transitiontime":200}},{"success":{"/groups/0/action/sat":1}}]
+
+
+2016-04-08	11:03:19
+		/groups/0/action	PUT
+		{"hue_inc": 10000}
+	11:03:19
+		[{"success":{"/groups/0/action/hue_inc":10000}}]
+
+
+2016-04-08	11:03:31
+		Light		|		sat
+
+
+Finished Test

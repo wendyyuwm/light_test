@@ -1,0 +1,1304 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.9
+			UserName: and4pS7CKAKZJwnBBxkKT-bdxAXY9f-30tpoBC63
+
+========================================================================================================================
+ IPJ_13546 TC1 
+
+ IPJ_13552 TC7 
+
+ IPJ_13547 TC2 
+
+ IPJ_13553 TC8 
+
+ IPJ_13548 TC3 
+
+ IPJ_13554 TC9 
+
+ IPJ_13549 TC4 
+
+ IPJ_13555 TC10 
+
+ IPJ_13550 TC5 
+
+
+2016-04-19	15:15:47
+		/groups	POST
+		{"name":"","lights":["1", "2", "3", "4", "5", "6", "7"]}
+	15:15:47
+		[{"success":{"id":"9"}}]
+
+
+2016-04-19	15:15:47
+		/lights/1/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	15:15:47
+		[{"success":{"/lights/1/state/transitiontime":100}},{"success":{"/lights/1/state/on":true}},{"success":{"/lights/1/state/bri":50}}]
+
+
+2016-04-19	15:15:50
+		/lights/2/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	15:15:50
+		[{"success":{"/lights/2/state/transitiontime":100}},{"success":{"/lights/2/state/on":true}},{"success":{"/lights/2/state/bri":50}}]
+
+
+2016-04-19	15:15:53
+		/lights/3/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	15:15:53
+		[{"success":{"/lights/3/state/transitiontime":100}},{"success":{"/lights/3/state/on":true}},{"success":{"/lights/3/state/bri":50}}]
+
+
+2016-04-19	15:15:56
+		/lights/4/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	15:15:56
+		[{"success":{"/lights/4/state/transitiontime":100}},{"success":{"/lights/4/state/on":true}},{"success":{"/lights/4/state/bri":50}}]
+
+
+2016-04-19	15:15:59
+		/lights/5/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	15:15:59
+		[{"success":{"/lights/5/state/transitiontime":100}},{"success":{"/lights/5/state/on":true}},{"success":{"/lights/5/state/bri":50}}]
+
+
+2016-04-19	15:16:02
+		/lights/6/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	15:16:02
+		[{"success":{"/lights/6/state/transitiontime":100}},{"success":{"/lights/6/state/on":true}},{"success":{"/lights/6/state/bri":50}}]
+
+
+2016-04-19	15:16:05
+		/lights/7/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	15:16:05
+		[{"success":{"/lights/7/state/transitiontime":100}},{"success":{"/lights/7/state/on":true}},{"success":{"/lights/7/state/bri":50}}]
+
+
+2016-04-19	15:16:27
+		/groups/9/action	PUT
+		{"bri": 100, "ct": 454}
+	15:16:27
+		[{"success":{"/groups/9/action/bri":100}},{"success":{"/groups/9/action/ct":454}}]
+
+
+2016-04-19	15:16:30
+		/lights/1/state	PUT
+		{"alert": "select"}
+	15:16:30
+		[{"success":{"/lights/1/state/alert":"select"}}]
+
+
+2016-04-19	15:16:33
+		/lights/2/state	PUT
+		{"alert": "select"}
+	15:16:33
+		[{"success":{"/lights/2/state/alert":"select"}}]
+
+
+2016-04-19	15:16:36
+		/lights/3/state	PUT
+		{"alert": "select"}
+	15:16:36
+		[{"success":{"/lights/3/state/alert":"select"}}]
+
+
+2016-04-19	15:16:39
+		/lights/4/state	PUT
+		{"alert": "select"}
+	15:16:39
+		[{"success":{"/lights/4/state/alert":"select"}}]
+
+
+2016-04-19	15:16:42
+		/lights/5/state	PUT
+		{"alert": "select"}
+	15:16:42
+		[{"success":{"/lights/5/state/alert":"select"}}]
+
+
+2016-04-19	15:16:45
+		/lights/6/state	PUT
+		{"alert": "select"}
+	15:16:45
+		[{"success":{"/lights/6/state/alert":"select"}}]
+
+
+2016-04-19	15:16:48
+		/lights/7/state	PUT
+		{"alert": "select"}
+	15:16:48
+		[{"success":{"/lights/7/state/alert":"select"}}]
+
+
+2016-04-19	15:16:53
+		/groups/9/action	PUT
+		{"alert": "lselect"}
+	15:16:53
+		[{"success":{"/groups/9/action/alert":"lselect"}}]
+
+
+2016-04-19	15:16:56
+		/groups/9/action	PUT
+		{"alert": "none"}
+	15:16:56
+		[{"success":{"/groups/9/action/alert":"none"}}]
+
+
+2016-04-19	15:16:59
+		/scenes	POST
+		{"name":"groupscene","lights":["1", "2", "3", "4", "5", "6", "7"], "recycle":true}
+	15:16:59
+		[{"success":{"id":"3XyltwPQbwyNXSs"}}]
+
+
+2016-04-19	15:17:01
+		/scenes/3XyltwPQbwyNXSs/lightstates/1	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	15:16:59
+		[{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/1/on":true}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/1/bri":200}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/1/ct":250}}]
+
+
+2016-04-19	15:17:02
+		/scenes/3XyltwPQbwyNXSs/lightstates/2	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	15:16:59
+		[{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/2/on":true}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/2/bri":200}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/2/ct":250}}]
+
+
+2016-04-19	15:17:03
+		/scenes/3XyltwPQbwyNXSs/lightstates/3	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	15:16:59
+		[{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/3/on":true}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/3/bri":200}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/3/ct":250}}]
+
+
+2016-04-19	15:17:04
+		/scenes/3XyltwPQbwyNXSs/lightstates/4	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	15:16:59
+		[{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/4/on":true}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/4/bri":200}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/4/ct":250}}]
+
+
+2016-04-19	15:17:05
+		/scenes/3XyltwPQbwyNXSs/lightstates/5	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	15:16:59
+		[{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/5/on":true}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/5/bri":200}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/5/ct":250}}]
+
+
+2016-04-19	15:17:06
+		/scenes/3XyltwPQbwyNXSs/lightstates/6	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	15:16:59
+		[{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/6/on":true}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/6/bri":200}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/6/ct":250}}]
+
+
+2016-04-19	15:17:07
+		/scenes/3XyltwPQbwyNXSs/lightstates/7	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	15:16:59
+		[{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/7/on":true}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/7/bri":200}},{"success":{"/scenes/3XyltwPQbwyNXSs/lightstates/7/ct":250}}]
+
+
+2016-04-19	15:17:13
+		/groups/9/action	PUT
+		{"scene":"3XyltwPQbwyNXSs"}
+	15:17:13
+		[{"success":{"/groups/9/action/scene":"3XyltwPQbwyNXSs"}}]
+
+************************************************************************************************************************
+
+ IPJ_13556 TC11 
+
+
+2016-04-19	16:21:14
+		/groups	POST
+		{"name":"groupTC11","lights":["1", "2", "3", "4", "5", "6", "7"]}
+	16:21:14
+		[{"success":{"id":"10"}}]
+
+
+2016-04-19	16:21:14
+		/lights/1/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:21:14
+		[{"success":{"/lights/1/state/transitiontime":100}},{"success":{"/lights/1/state/on":true}},{"success":{"/lights/1/state/bri":50}}]
+
+
+2016-04-19	16:21:17
+		/lights/2/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:21:17
+		[{"success":{"/lights/2/state/transitiontime":100}},{"success":{"/lights/2/state/on":true}},{"success":{"/lights/2/state/bri":50}}]
+
+
+2016-04-19	16:21:20
+		/lights/3/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:21:20
+		[{"success":{"/lights/3/state/transitiontime":100}},{"success":{"/lights/3/state/on":true}},{"success":{"/lights/3/state/bri":50}}]
+
+
+2016-04-19	16:21:23
+		/lights/4/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:21:23
+		[{"success":{"/lights/4/state/transitiontime":100}},{"success":{"/lights/4/state/on":true}},{"success":{"/lights/4/state/bri":50}}]
+
+
+2016-04-19	16:21:26
+		/lights/5/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:21:26
+		[{"success":{"/lights/5/state/transitiontime":100}},{"success":{"/lights/5/state/on":true}},{"success":{"/lights/5/state/bri":50}}]
+
+
+2016-04-19	16:21:29
+		/lights/6/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:21:29
+		[{"success":{"/lights/6/state/transitiontime":100}},{"success":{"/lights/6/state/on":true}},{"success":{"/lights/6/state/bri":50}}]
+
+
+2016-04-19	16:21:32
+		/lights/7/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:21:32
+		[{"success":{"/lights/7/state/transitiontime":100}},{"success":{"/lights/7/state/on":true}},{"success":{"/lights/7/state/bri":50}}]
+
+
+2016-04-19	16:21:56
+		/groups/10/action	PUT
+		{"bri": 100, "ct": 454}
+	16:21:56
+		[{"success":{"/groups/10/action/bri":100}},{"success":{"/groups/10/action/ct":454}}]
+
+
+2016-04-19	16:21:59
+		/lights/1/state	PUT
+		{"alert": "select"}
+	16:21:59
+		[{"success":{"/lights/1/state/alert":"select"}}]
+
+
+2016-04-19	16:22:02
+		/lights/2/state	PUT
+		{"alert": "select"}
+	16:22:02
+		[{"success":{"/lights/2/state/alert":"select"}}]
+
+
+2016-04-19	16:22:05
+		/lights/3/state	PUT
+		{"alert": "select"}
+	16:22:06
+		[{"success":{"/lights/3/state/alert":"select"}}]
+
+
+2016-04-19	16:22:09
+		/lights/4/state	PUT
+		{"alert": "select"}
+	16:22:09
+		[{"success":{"/lights/4/state/alert":"select"}}]
+
+
+2016-04-19	16:22:12
+		/lights/5/state	PUT
+		{"alert": "select"}
+	16:22:12
+		[{"success":{"/lights/5/state/alert":"select"}}]
+
+
+2016-04-19	16:22:15
+		/lights/6/state	PUT
+		{"alert": "select"}
+	16:22:15
+		[{"success":{"/lights/6/state/alert":"select"}}]
+
+
+2016-04-19	16:22:18
+		/lights/7/state	PUT
+		{"alert": "select"}
+	16:22:18
+		[{"success":{"/lights/7/state/alert":"select"}}]
+
+
+2016-04-19	16:22:23
+		/groups/10/action	PUT
+		{"alert": "lselect"}
+	16:22:23
+		[{"success":{"/groups/10/action/alert":"lselect"}}]
+
+
+2016-04-19	16:22:27
+		/groups/10/action	PUT
+		{"alert": "none"}
+	16:22:27
+		[{"success":{"/groups/10/action/alert":"none"}}]
+
+
+2016-04-19	16:22:32
+		/scenes	POST
+		{"name":"groupscene","lights":["1", "2", "3", "4", "5", "6", "7"], "recycle":true}
+	16:22:32
+		[{"success":{"id":"g7neHoEX5RhL7u4"}}]
+
+
+2016-04-19	16:22:34
+		/scenes/g7neHoEX5RhL7u4/lightstates/1	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:22:32
+		[{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/1/on":true}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/1/bri":200}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/1/ct":250}}]
+
+
+2016-04-19	16:22:35
+		/scenes/g7neHoEX5RhL7u4/lightstates/2	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:22:32
+		[{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/2/on":true}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/2/bri":200}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/2/ct":250}}]
+
+
+2016-04-19	16:22:36
+		/scenes/g7neHoEX5RhL7u4/lightstates/3	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:22:32
+		[{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/3/on":true}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/3/bri":200}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/3/ct":250}}]
+
+
+2016-04-19	16:22:38
+		/scenes/g7neHoEX5RhL7u4/lightstates/4	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:22:32
+		[{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/4/on":true}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/4/bri":200}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/4/ct":250}}]
+
+
+2016-04-19	16:22:39
+		/scenes/g7neHoEX5RhL7u4/lightstates/5	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:22:32
+		[{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/5/on":true}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/5/bri":200}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/5/ct":250}}]
+
+
+2016-04-19	16:22:40
+		/scenes/g7neHoEX5RhL7u4/lightstates/6	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:22:32
+		[{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/6/on":true}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/6/bri":200}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/6/ct":250}}]
+
+
+2016-04-19	16:22:41
+		/scenes/g7neHoEX5RhL7u4/lightstates/7	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:22:32
+		[{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/7/on":true}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/7/bri":200}},{"success":{"/scenes/g7neHoEX5RhL7u4/lightstates/7/ct":250}}]
+
+
+2016-04-19	16:22:52
+		/groups/10/action	PUT
+		{"scene":"g7neHoEX5RhL7u4"}
+	16:22:52
+		[{"success":{"/groups/10/action/scene":"g7neHoEX5RhL7u4"}}]
+
+************************************************************************************************************************
+
+ IPJ_13551 TC6 
+
+
+2016-04-19	16:24:04
+		/groups	POST
+		{"name":"","lights":["3", "4", "5"]}
+	16:24:04
+		[{"success":{"id":"11"}}]
+
+
+2016-04-19	16:24:04
+		/lights/3/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:24:04
+		[{"success":{"/lights/3/state/transitiontime":100}},{"success":{"/lights/3/state/on":true}},{"success":{"/lights/3/state/bri":50}}]
+
+
+2016-04-19	16:24:07
+		/lights/4/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:24:07
+		[{"success":{"/lights/4/state/transitiontime":100}},{"success":{"/lights/4/state/on":true}},{"success":{"/lights/4/state/bri":50}}]
+
+
+2016-04-19	16:24:10
+		/lights/5/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:24:10
+		[{"success":{"/lights/5/state/transitiontime":100}},{"success":{"/lights/5/state/on":true}},{"success":{"/lights/5/state/bri":50}}]
+
+
+2016-04-19	16:24:15
+		/groups/11/action	PUT
+		{"bri": 100, "ct": 454}
+	16:24:15
+		[{"success":{"/groups/11/action/bri":100}},{"success":{"/groups/11/action/ct":454}}]
+
+
+2016-04-19	16:24:17
+		/lights/3/state	PUT
+		{"alert": "select"}
+	16:24:17
+		[{"success":{"/lights/3/state/alert":"select"}}]
+
+
+2016-04-19	16:24:20
+		/lights/4/state	PUT
+		{"alert": "select"}
+	16:24:20
+		[{"success":{"/lights/4/state/alert":"select"}}]
+
+
+2016-04-19	16:24:23
+		/lights/5/state	PUT
+		{"alert": "select"}
+	16:24:23
+		[{"success":{"/lights/5/state/alert":"select"}}]
+
+
+2016-04-19	16:24:28
+		/groups/11/action	PUT
+		{"alert": "lselect"}
+	16:24:28
+		[{"success":{"/groups/11/action/alert":"lselect"}}]
+
+
+2016-04-19	16:24:32
+		/groups/11/action	PUT
+		{"alert": "none"}
+	16:24:32
+		[{"success":{"/groups/11/action/alert":"none"}}]
+
+
+2016-04-19	16:24:34
+		/scenes	POST
+		{"name":"groupscene","lights":["3", "4", "5"], "recycle":true}
+	16:24:34
+		[{"success":{"id":"eslfDw1GR404O2i"}}]
+
+
+2016-04-19	16:24:36
+		/scenes/eslfDw1GR404O2i/lightstates/3	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:24:34
+		[{"success":{"/scenes/eslfDw1GR404O2i/lightstates/3/on":true}},{"success":{"/scenes/eslfDw1GR404O2i/lightstates/3/bri":200}},{"success":{"/scenes/eslfDw1GR404O2i/lightstates/3/ct":250}}]
+
+
+2016-04-19	16:24:37
+		/scenes/eslfDw1GR404O2i/lightstates/4	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:24:34
+		[{"success":{"/scenes/eslfDw1GR404O2i/lightstates/4/on":true}},{"success":{"/scenes/eslfDw1GR404O2i/lightstates/4/bri":200}},{"success":{"/scenes/eslfDw1GR404O2i/lightstates/4/ct":250}}]
+
+
+2016-04-19	16:24:38
+		/scenes/eslfDw1GR404O2i/lightstates/5	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:24:34
+		[{"success":{"/scenes/eslfDw1GR404O2i/lightstates/5/on":true}},{"success":{"/scenes/eslfDw1GR404O2i/lightstates/5/bri":200}},{"success":{"/scenes/eslfDw1GR404O2i/lightstates/5/ct":250}}]
+
+
+2016-04-19	16:24:42
+		/groups/11/action	PUT
+		{"scene":"eslfDw1GR404O2i"}
+	16:24:42
+		[{"success":{"/groups/11/action/scene":"eslfDw1GR404O2i"}}]
+
+************************************************************************************************************************
+
+ IPJ_13557 TC12 
+
+
+2016-04-19	16:25:33
+		/groups	POST
+		{"name":"groupTC12","lights":["3", "4", "5"]}
+	16:25:33
+		[{"success":{"id":"12"}}]
+
+
+2016-04-19	16:25:33
+		/lights/3/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:25:33
+		[{"success":{"/lights/3/state/transitiontime":100}},{"success":{"/lights/3/state/on":true}},{"success":{"/lights/3/state/bri":50}}]
+
+
+2016-04-19	16:25:36
+		/lights/4/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:25:36
+		[{"success":{"/lights/4/state/transitiontime":100}},{"success":{"/lights/4/state/on":true}},{"success":{"/lights/4/state/bri":50}}]
+
+
+2016-04-19	16:25:39
+		/lights/5/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:25:39
+		[{"success":{"/lights/5/state/transitiontime":100}},{"success":{"/lights/5/state/on":true}},{"success":{"/lights/5/state/bri":50}}]
+
+
+2016-04-19	16:25:45
+		/groups/12/action	PUT
+		{"bri": 100, "ct": 454}
+	16:25:45
+		[{"success":{"/groups/12/action/bri":100}},{"success":{"/groups/12/action/ct":454}}]
+
+
+2016-04-19	16:25:47
+		/lights/3/state	PUT
+		{"alert": "select"}
+	16:25:47
+		[{"success":{"/lights/3/state/alert":"select"}}]
+
+
+2016-04-19	16:25:50
+		/lights/4/state	PUT
+		{"alert": "select"}
+	16:25:50
+		[{"success":{"/lights/4/state/alert":"select"}}]
+
+
+2016-04-19	16:25:53
+		/lights/5/state	PUT
+		{"alert": "select"}
+	16:25:53
+		[{"success":{"/lights/5/state/alert":"select"}}]
+
+
+2016-04-19	16:25:58
+		/groups/12/action	PUT
+		{"alert": "lselect"}
+	16:25:58
+		[{"success":{"/groups/12/action/alert":"lselect"}}]
+
+
+2016-04-19	16:26:01
+		/groups/12/action	PUT
+		{"alert": "none"}
+	16:26:01
+		[{"success":{"/groups/12/action/alert":"none"}}]
+
+
+2016-04-19	16:26:04
+		/scenes	POST
+		{"name":"groupscene","lights":["3", "4", "5"], "recycle":true}
+	16:26:04
+		[{"success":{"id":"-HPBqPnz8viiAJe"}}]
+
+
+2016-04-19	16:26:06
+		/scenes/-HPBqPnz8viiAJe/lightstates/3	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:26:04
+		[{"success":{"/scenes/-HPBqPnz8viiAJe/lightstates/3/on":true}},{"success":{"/scenes/-HPBqPnz8viiAJe/lightstates/3/bri":200}},{"success":{"/scenes/-HPBqPnz8viiAJe/lightstates/3/ct":250}}]
+
+
+2016-04-19	16:26:07
+		/scenes/-HPBqPnz8viiAJe/lightstates/4	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:26:04
+		[{"success":{"/scenes/-HPBqPnz8viiAJe/lightstates/4/on":true}},{"success":{"/scenes/-HPBqPnz8viiAJe/lightstates/4/bri":200}},{"success":{"/scenes/-HPBqPnz8viiAJe/lightstates/4/ct":250}}]
+
+
+2016-04-19	16:26:08
+		/scenes/-HPBqPnz8viiAJe/lightstates/5	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:26:04
+		[{"success":{"/scenes/-HPBqPnz8viiAJe/lightstates/5/on":true}},{"success":{"/scenes/-HPBqPnz8viiAJe/lightstates/5/bri":200}},{"success":{"/scenes/-HPBqPnz8viiAJe/lightstates/5/ct":250}}]
+
+
+2016-04-19	16:26:11
+		/groups/12/action	PUT
+		{"scene":"-HPBqPnz8viiAJe"}
+	16:26:11
+		[{"success":{"/groups/12/action/scene":"-HPBqPnz8viiAJe"}}]
+
+************************************************************************************************************************
+
+ IPJ_13558 TC13 
+
+
+2016-04-19	16:28:51
+		/groups/7	PUT
+		{"lights": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]}
+
+
+2016-04-19	16:29:04
+		/lights/1/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:29:04
+		[{"success":{"/lights/1/state/transitiontime":100}},{"success":{"/lights/1/state/on":true}},{"success":{"/lights/1/state/bri":50}}]
+
+
+2016-04-19	16:29:07
+		/lights/2/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:29:07
+		[{"success":{"/lights/2/state/transitiontime":100}},{"success":{"/lights/2/state/on":true}},{"success":{"/lights/2/state/bri":50}}]
+
+
+2016-04-19	16:29:10
+		/lights/3/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:29:10
+		[{"success":{"/lights/3/state/transitiontime":100}},{"success":{"/lights/3/state/on":true}},{"success":{"/lights/3/state/bri":50}}]
+
+
+2016-04-19	16:29:13
+		/lights/4/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:29:13
+		[{"success":{"/lights/4/state/transitiontime":100}},{"success":{"/lights/4/state/on":true}},{"success":{"/lights/4/state/bri":50}}]
+
+
+2016-04-19	16:29:16
+		/lights/5/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:29:16
+		[{"success":{"/lights/5/state/transitiontime":100}},{"success":{"/lights/5/state/on":true}},{"success":{"/lights/5/state/bri":50}}]
+
+
+2016-04-19	16:29:19
+		/lights/6/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:29:19
+		[{"success":{"/lights/6/state/transitiontime":100}},{"success":{"/lights/6/state/on":true}},{"success":{"/lights/6/state/bri":50}}]
+
+
+2016-04-19	16:29:22
+		/lights/7/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:29:22
+		[{"success":{"/lights/7/state/transitiontime":100}},{"success":{"/lights/7/state/on":true}},{"success":{"/lights/7/state/bri":50}}]
+
+
+2016-04-19	16:29:25
+		/lights/8/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:29:25
+		[{"success":{"/lights/8/state/transitiontime":100}},{"success":{"/lights/8/state/on":true}},{"success":{"/lights/8/state/bri":50}}]
+
+
+2016-04-19	16:29:28
+		/lights/9/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:29:28
+		[{"success":{"/lights/9/state/transitiontime":100}},{"success":{"/lights/9/state/on":true}},{"success":{"/lights/9/state/bri":50}}]
+
+
+2016-04-19	16:29:31
+		/lights/10/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:29:31
+		[{"success":{"/lights/10/state/transitiontime":100}},{"success":{"/lights/10/state/on":true}},{"success":{"/lights/10/state/bri":50}}]
+
+
+2016-04-19	16:29:34
+		/lights/11/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:29:34
+		[{"success":{"/lights/11/state/transitiontime":100}},{"success":{"/lights/11/state/on":true}},{"success":{"/lights/11/state/bri":50}}]
+
+
+2016-04-19	16:29:37
+		/lights/12/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:29:37
+		[{"success":{"/lights/12/state/transitiontime":100}},{"success":{"/lights/12/state/on":true}},{"success":{"/lights/12/state/bri":50}}]
+
+
+2016-04-19	16:30:19
+		/groups/7/action	PUT
+		{"bri": 100, "ct": 454}
+	16:30:19
+		[{"success":{"/groups/7/action/bri":100}},{"success":{"/groups/7/action/ct":454}}]
+
+
+2016-04-19	16:30:23
+		/lights/1/state	PUT
+		{"alert": "select"}
+	16:30:23
+		[{"success":{"/lights/1/state/alert":"select"}}]
+
+
+2016-04-19	16:30:26
+		/lights/2/state	PUT
+		{"alert": "select"}
+	16:30:26
+		[{"success":{"/lights/2/state/alert":"select"}}]
+
+
+2016-04-19	16:30:29
+		/lights/3/state	PUT
+		{"alert": "select"}
+	16:30:29
+		[{"success":{"/lights/3/state/alert":"select"}}]
+
+
+2016-04-19	16:30:32
+		/lights/4/state	PUT
+		{"alert": "select"}
+	16:30:32
+		[{"success":{"/lights/4/state/alert":"select"}}]
+
+
+2016-04-19	16:30:35
+		/lights/5/state	PUT
+		{"alert": "select"}
+	16:30:35
+		[{"success":{"/lights/5/state/alert":"select"}}]
+
+
+2016-04-19	16:30:38
+		/lights/6/state	PUT
+		{"alert": "select"}
+	16:30:38
+		[{"success":{"/lights/6/state/alert":"select"}}]
+
+
+2016-04-19	16:30:41
+		/lights/7/state	PUT
+		{"alert": "select"}
+	16:30:41
+		[{"success":{"/lights/7/state/alert":"select"}}]
+
+
+2016-04-19	16:30:44
+		/lights/8/state	PUT
+		{"alert": "select"}
+	16:30:44
+		[{"success":{"/lights/8/state/alert":"select"}}]
+
+
+2016-04-19	16:30:47
+		/lights/9/state	PUT
+		{"alert": "select"}
+	16:30:47
+		[{"success":{"/lights/9/state/alert":"select"}}]
+
+
+2016-04-19	16:30:50
+		/lights/10/state	PUT
+		{"alert": "select"}
+	16:30:50
+		[{"success":{"/lights/10/state/alert":"select"}}]
+
+
+2016-04-19	16:30:53
+		/lights/11/state	PUT
+		{"alert": "select"}
+	16:30:53
+		[{"success":{"/lights/11/state/alert":"select"}}]
+
+
+2016-04-19	16:30:56
+		/lights/12/state	PUT
+		{"alert": "select"}
+	16:30:56
+		[{"success":{"/lights/12/state/alert":"select"}}]
+
+
+2016-04-19	16:31:01
+		/groups/7/action	PUT
+		{"alert": "lselect"}
+	16:31:01
+		[{"success":{"/groups/7/action/alert":"lselect"}}]
+
+
+2016-04-19	16:31:07
+		/groups/7/action	PUT
+		{"alert": "none"}
+	16:31:07
+		[{"success":{"/groups/7/action/alert":"none"}}]
+
+
+2016-04-19	16:31:10
+		/scenes	POST
+		{"name":"groupscene","lights":["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"], "recycle":true}
+	16:31:10
+		[{"success":{"id":"ycc-uYvQtj7RR1Y"}}]
+
+
+2016-04-19	16:31:12
+		/scenes/ycc-uYvQtj7RR1Y/lightstates/1	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:31:10
+		[{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/1/on":true}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/1/bri":200}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/1/ct":250}}]
+
+
+2016-04-19	16:31:13
+		/scenes/ycc-uYvQtj7RR1Y/lightstates/2	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:31:10
+		[{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/2/on":true}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/2/bri":200}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/2/ct":250}}]
+
+
+2016-04-19	16:31:14
+		/scenes/ycc-uYvQtj7RR1Y/lightstates/3	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:31:10
+		[{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/3/on":true}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/3/bri":200}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/3/ct":250}}]
+
+
+2016-04-19	16:31:15
+		/scenes/ycc-uYvQtj7RR1Y/lightstates/4	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:31:10
+		[{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/4/on":true}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/4/bri":200}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/4/ct":250}}]
+
+
+2016-04-19	16:31:16
+		/scenes/ycc-uYvQtj7RR1Y/lightstates/5	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:31:10
+		[{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/5/on":true}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/5/bri":200}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/5/ct":250}}]
+
+
+2016-04-19	16:31:17
+		/scenes/ycc-uYvQtj7RR1Y/lightstates/6	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:31:10
+		[{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/6/on":true}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/6/bri":200}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/6/ct":250}}]
+
+
+2016-04-19	16:31:18
+		/scenes/ycc-uYvQtj7RR1Y/lightstates/7	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:31:10
+		[{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/7/on":true}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/7/bri":200}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/7/ct":250}}]
+
+
+2016-04-19	16:31:19
+		/scenes/ycc-uYvQtj7RR1Y/lightstates/8	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:31:10
+		[{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/8/on":true}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/8/bri":200}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/8/ct":250}}]
+
+
+2016-04-19	16:31:20
+		/scenes/ycc-uYvQtj7RR1Y/lightstates/9	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:31:10
+		[{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/9/on":true}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/9/bri":200}},{"error":{"type":6,"address":"/scenes/ycc-uYvQtj7RR1Y/lightstates/9/ct","description":"parameter, ct, not available"}}]
+
+
+2016-04-19	16:31:21
+		/scenes/ycc-uYvQtj7RR1Y/lightstates/10	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:31:10
+		[{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/10/on":true}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/10/bri":200}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/10/ct":250}}]
+
+
+2016-04-19	16:31:22
+		/scenes/ycc-uYvQtj7RR1Y/lightstates/11	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:31:10
+		[{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/11/on":true}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/11/bri":200}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/11/ct":250}}]
+
+
+2016-04-19	16:31:23
+		/scenes/ycc-uYvQtj7RR1Y/lightstates/12	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:31:10
+		[{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/12/on":true}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/12/bri":200}},{"success":{"/scenes/ycc-uYvQtj7RR1Y/lightstates/12/ct":250}}]
+
+
+2016-04-19	16:31:42
+		/groups/7/action	PUT
+		{"scene":"ycc-uYvQtj7RR1Y"}
+	16:31:42
+		[{"success":{"/groups/7/action/scene":"ycc-uYvQtj7RR1Y"}}]
+
+************************************************************************************************************************
+
+ IPJ_13559 TC14 
+
+
+2016-04-19	16:33:23
+		/groups/3	PUT
+		{"lights": ["1", "2", "3", "4", "5", "6", "7", "9", "11"]}
+
+
+2016-04-19	16:33:27
+		/lights/1/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:33:27
+		[{"success":{"/lights/1/state/transitiontime":100}},{"success":{"/lights/1/state/on":true}},{"success":{"/lights/1/state/bri":50}}]
+
+
+2016-04-19	16:33:30
+		/lights/2/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:33:30
+		[{"success":{"/lights/2/state/transitiontime":100}},{"success":{"/lights/2/state/on":true}},{"success":{"/lights/2/state/bri":50}}]
+
+
+2016-04-19	16:33:33
+		/lights/3/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:33:33
+		[{"success":{"/lights/3/state/transitiontime":100}},{"success":{"/lights/3/state/on":true}},{"success":{"/lights/3/state/bri":50}}]
+
+
+2016-04-19	16:33:36
+		/lights/4/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:33:36
+		[{"success":{"/lights/4/state/transitiontime":100}},{"success":{"/lights/4/state/on":true}},{"success":{"/lights/4/state/bri":50}}]
+
+
+2016-04-19	16:33:39
+		/lights/5/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:33:39
+		[{"success":{"/lights/5/state/transitiontime":100}},{"success":{"/lights/5/state/on":true}},{"success":{"/lights/5/state/bri":50}}]
+
+
+2016-04-19	16:33:42
+		/lights/6/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:33:42
+		[{"success":{"/lights/6/state/transitiontime":100}},{"success":{"/lights/6/state/on":true}},{"success":{"/lights/6/state/bri":50}}]
+
+
+2016-04-19	16:33:45
+		/lights/7/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:33:45
+		[{"success":{"/lights/7/state/transitiontime":100}},{"success":{"/lights/7/state/on":true}},{"success":{"/lights/7/state/bri":50}}]
+
+
+2016-04-19	16:33:48
+		/lights/9/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:33:48
+		[{"success":{"/lights/9/state/transitiontime":100}},{"success":{"/lights/9/state/on":true}},{"success":{"/lights/9/state/bri":50}}]
+
+
+2016-04-19	16:33:51
+		/lights/11/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:33:51
+		[{"success":{"/lights/11/state/transitiontime":100}},{"success":{"/lights/11/state/on":true}},{"success":{"/lights/11/state/bri":50}}]
+
+
+2016-04-19	16:34:24
+		/groups/3/action	PUT
+		{"bri": 100, "ct": 454}
+	16:34:24
+		[{"success":{"/groups/3/action/bri":100}},{"success":{"/groups/3/action/ct":454}}]
+
+
+2016-04-19	16:34:27
+		/lights/1/state	PUT
+		{"alert": "select"}
+	16:34:27
+		[{"success":{"/lights/1/state/alert":"select"}}]
+
+
+2016-04-19	16:34:30
+		/lights/2/state	PUT
+		{"alert": "select"}
+	16:34:30
+		[{"success":{"/lights/2/state/alert":"select"}}]
+
+
+2016-04-19	16:34:33
+		/lights/3/state	PUT
+		{"alert": "select"}
+	16:34:33
+		[{"success":{"/lights/3/state/alert":"select"}}]
+
+
+2016-04-19	16:34:36
+		/lights/4/state	PUT
+		{"alert": "select"}
+	16:34:36
+		[{"success":{"/lights/4/state/alert":"select"}}]
+
+
+2016-04-19	16:34:39
+		/lights/5/state	PUT
+		{"alert": "select"}
+	16:34:39
+		[{"success":{"/lights/5/state/alert":"select"}}]
+
+
+2016-04-19	16:34:42
+		/lights/6/state	PUT
+		{"alert": "select"}
+	16:34:42
+		[{"success":{"/lights/6/state/alert":"select"}}]
+
+
+2016-04-19	16:34:45
+		/lights/7/state	PUT
+		{"alert": "select"}
+	16:34:45
+		[{"success":{"/lights/7/state/alert":"select"}}]
+
+
+2016-04-19	16:34:48
+		/lights/9/state	PUT
+		{"alert": "select"}
+	16:34:48
+		[{"success":{"/lights/9/state/alert":"select"}}]
+
+
+2016-04-19	16:34:51
+		/lights/11/state	PUT
+		{"alert": "select"}
+	16:34:51
+		[{"success":{"/lights/11/state/alert":"select"}}]
+
+
+2016-04-19	16:34:56
+		/groups/3/action	PUT
+		{"alert": "lselect"}
+	16:34:56
+		[{"success":{"/groups/3/action/alert":"lselect"}}]
+
+
+2016-04-19	16:34:59
+		/groups/3/action	PUT
+		{"alert": "none"}
+	16:34:59
+		[{"success":{"/groups/3/action/alert":"none"}}]
+
+
+2016-04-19	16:35:02
+		/scenes	POST
+		{"name":"groupscene","lights":["1", "2", "3", "4", "5", "6", "7", "9", "11"], "recycle":true}
+	16:35:02
+		[{"success":{"id":"yCVUdA3QSClHJjV"}}]
+
+
+2016-04-19	16:35:04
+		/scenes/yCVUdA3QSClHJjV/lightstates/1	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:35:02
+		[{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/1/on":true}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/1/bri":200}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/1/ct":250}}]
+
+
+2016-04-19	16:35:05
+		/scenes/yCVUdA3QSClHJjV/lightstates/2	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:35:02
+		[{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/2/on":true}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/2/bri":200}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/2/ct":250}}]
+
+
+2016-04-19	16:35:06
+		/scenes/yCVUdA3QSClHJjV/lightstates/3	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:35:02
+		[{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/3/on":true}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/3/bri":200}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/3/ct":250}}]
+
+
+2016-04-19	16:35:07
+		/scenes/yCVUdA3QSClHJjV/lightstates/4	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:35:02
+		[{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/4/on":true}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/4/bri":200}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/4/ct":250}}]
+
+
+2016-04-19	16:35:08
+		/scenes/yCVUdA3QSClHJjV/lightstates/5	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:35:02
+		[{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/5/on":true}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/5/bri":200}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/5/ct":250}}]
+
+
+2016-04-19	16:35:09
+		/scenes/yCVUdA3QSClHJjV/lightstates/6	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:35:02
+		[{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/6/on":true}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/6/bri":200}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/6/ct":250}}]
+
+
+2016-04-19	16:35:10
+		/scenes/yCVUdA3QSClHJjV/lightstates/7	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:35:02
+		[{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/7/on":true}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/7/bri":200}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/7/ct":250}}]
+
+
+2016-04-19	16:35:11
+		/scenes/yCVUdA3QSClHJjV/lightstates/9	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:35:02
+		[{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/9/on":true}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/9/bri":200}},{"error":{"type":6,"address":"/scenes/yCVUdA3QSClHJjV/lightstates/9/ct","description":"parameter, ct, not available"}}]
+
+
+2016-04-19	16:35:12
+		/scenes/yCVUdA3QSClHJjV/lightstates/11	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:35:02
+		[{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/11/on":true}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/11/bri":200}},{"success":{"/scenes/yCVUdA3QSClHJjV/lightstates/11/ct":250}}]
+
+
+2016-04-19	16:35:16
+		/groups/3/action	PUT
+		{"scene":"yCVUdA3QSClHJjV"}
+	16:35:17
+		[{"success":{"/groups/3/action/scene":"yCVUdA3QSClHJjV"}}]
+
+************************************************************************************************************************
+
+ IPJ_13560 TC15 
+
+
+2016-04-19	16:36:26
+		/groups/5	PUT
+		{"lights": ["1", "4", "5", "9", "11"]}
+
+
+2016-04-19	16:36:30
+		/lights/1/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:36:30
+		[{"success":{"/lights/1/state/transitiontime":100}},{"success":{"/lights/1/state/on":true}},{"success":{"/lights/1/state/bri":50}}]
+
+
+2016-04-19	16:36:33
+		/lights/4/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:36:33
+		[{"success":{"/lights/4/state/transitiontime":100}},{"success":{"/lights/4/state/on":true}},{"success":{"/lights/4/state/bri":50}}]
+
+
+2016-04-19	16:36:36
+		/lights/5/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:36:36
+		[{"success":{"/lights/5/state/transitiontime":100}},{"success":{"/lights/5/state/on":true}},{"success":{"/lights/5/state/bri":50}}]
+
+
+2016-04-19	16:36:39
+		/lights/9/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:36:39
+		[{"success":{"/lights/9/state/transitiontime":100}},{"success":{"/lights/9/state/on":true}},{"success":{"/lights/9/state/bri":50}}]
+
+
+2016-04-19	16:36:42
+		/lights/11/state	PUT
+		{"on": true, "bri":50, "transitiontime":100}
+	16:36:42
+		[{"success":{"/lights/11/state/transitiontime":100}},{"success":{"/lights/11/state/on":true}},{"success":{"/lights/11/state/bri":50}}]
+
+
+2016-04-19	16:37:53
+		/groups/5/action	PUT
+		{"bri": 100, "ct": 454}
+	16:37:53
+		[{"success":{"/groups/5/action/bri":100}},{"success":{"/groups/5/action/ct":454}}]
+
+
+2016-04-19	16:37:57
+		/lights/1/state	PUT
+		{"alert": "select"}
+	16:37:57
+		[{"success":{"/lights/1/state/alert":"select"}}]
+
+
+2016-04-19	16:38:00
+		/lights/4/state	PUT
+		{"alert": "select"}
+	16:38:00
+		[{"success":{"/lights/4/state/alert":"select"}}]
+
+
+2016-04-19	16:38:03
+		/lights/5/state	PUT
+		{"alert": "select"}
+	16:38:03
+		[{"success":{"/lights/5/state/alert":"select"}}]
+
+
+2016-04-19	16:38:06
+		/lights/9/state	PUT
+		{"alert": "select"}
+	16:38:06
+		[{"success":{"/lights/9/state/alert":"select"}}]
+
+
+2016-04-19	16:38:09
+		/lights/11/state	PUT
+		{"alert": "select"}
+	16:38:09
+		[{"success":{"/lights/11/state/alert":"select"}}]
+
+
+2016-04-19	16:39:20
+		/groups/5/action	PUT
+		{"alert": "lselect"}
+	16:39:20
+		[{"success":{"/groups/5/action/alert":"lselect"}}]
+
+
+2016-04-19	16:39:23
+		/groups/5/action	PUT
+		{"alert": "none"}
+	16:39:23
+		[{"success":{"/groups/5/action/alert":"none"}}]
+
+
+2016-04-19	16:39:25
+		/scenes	POST
+		{"name":"groupscene","lights":["1", "4", "5", "9", "11"], "recycle":true}
+	16:39:25
+		[{"success":{"id":"yP5BNtFNkcDEOj-"}}]
+
+
+2016-04-19	16:39:27
+		/scenes/yP5BNtFNkcDEOj-/lightstates/1	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:39:25
+		[{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/1/on":true}},{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/1/bri":200}},{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/1/ct":250}}]
+
+
+2016-04-19	16:39:28
+		/scenes/yP5BNtFNkcDEOj-/lightstates/4	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:39:25
+		[{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/4/on":true}},{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/4/bri":200}},{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/4/ct":250}}]
+
+
+2016-04-19	16:39:29
+		/scenes/yP5BNtFNkcDEOj-/lightstates/5	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:39:25
+		[{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/5/on":true}},{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/5/bri":200}},{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/5/ct":250}}]
+
+
+2016-04-19	16:39:30
+		/scenes/yP5BNtFNkcDEOj-/lightstates/9	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:39:25
+		[{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/9/on":true}},{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/9/bri":200}},{"error":{"type":6,"address":"/scenes/yP5BNtFNkcDEOj-/lightstates/9/ct","description":"parameter, ct, not available"}}]
+
+
+2016-04-19	16:39:31
+		/scenes/yP5BNtFNkcDEOj-/lightstates/11	PUT
+		{"on": true, "bri": 200, "ct": 250}
+	16:39:25
+		[{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/11/on":true}},{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/11/bri":200}},{"success":{"/scenes/yP5BNtFNkcDEOj-/lightstates/11/ct":250}}]
+
+
+2016-04-19	16:39:35
+		/groups/5/action	PUT
+		{"scene":"yP5BNtFNkcDEOj-"}
+	16:39:35
+		[{"success":{"/groups/5/action/scene":"yP5BNtFNkcDEOj-"}}]
+
+
+Finished Test

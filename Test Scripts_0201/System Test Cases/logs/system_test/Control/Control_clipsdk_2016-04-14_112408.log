@@ -1,0 +1,35 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.9
+			UserName: lxHKnd9gmTgKWrqK4u58ImGU8GYkRMdUF1BY23-o
+
+========================================================================================================================
+ IPJ_8413 TC1 
+
+
+2016-04-14	11:23:00
+		/groups/0/action	PUT
+		{"on": true, "effect": "colorloop"}
+	11:23:01
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/effect":"colorloop"}}]
+
+
+2016-04-14	11:23:37
+		Light		|		effect
+		    1		|		"colorloop"
+		    2		|		"colorloop"
+		    3		|		"colorloop"
+		    4		|		"colorloop"
+		    7		|		"colorloop"
+		    8		|		"colorloop"
+		    9		|		"colorloop"
+
+
+2016-04-14	11:23:40
+		/groups/0/action	PUT
+		{"effect": "none"}
+	11:23:40
+		[{"success":{"/groups/0/action/effect":"none"}}]
+
+
+Finished Test

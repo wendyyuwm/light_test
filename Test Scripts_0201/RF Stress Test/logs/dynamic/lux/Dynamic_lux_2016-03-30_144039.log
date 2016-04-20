@@ -1,0 +1,194 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.3
+			UserName: z7PaQmQ2XBmo2Nde8AfSs-z5zNUQB6FWgWwKelEC
+
+========================================================================================================================
+
+2016-03-30	14:40:36
+		/lights/19/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/19/state/transitiontime":0}},{"success":{"/lights/19/state/on":false}}]
+
+
+2016-03-30	14:40:36
+		/lights/11/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/11/state/transitiontime":0}},{"success":{"/lights/11/state/on":false}}]
+
+
+2016-03-30	14:40:36
+		/lights/7/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/7/state/transitiontime":0}},{"success":{"/lights/7/state/on":false}}]
+
+
+2016-03-30	14:40:36
+		/lights/17/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/17/state/transitiontime":0}},{"success":{"/lights/17/state/on":false}}]
+
+
+2016-03-30	14:40:36
+		/lights/1/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/1/state/transitiontime":0}},{"success":{"/lights/1/state/on":false}}]
+
+
+2016-03-30	14:40:36
+		/lights/16/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/16/state/transitiontime":0}},{"success":{"/lights/16/state/on":false}}]
+
+
+2016-03-30	14:40:36
+		/lights/5/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/5/state/transitiontime":0}},{"success":{"/lights/5/state/on":false}}]
+
+
+2016-03-30	14:40:36
+		/lights/10/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/10/state/transitiontime":0}},{"success":{"/lights/10/state/on":false}}]
+
+
+2016-03-30	14:40:36
+		/lights/2/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/2/state/transitiontime":0}},{"success":{"/lights/2/state/on":false}}]
+
+
+2016-03-30	14:40:36
+		/lights/9/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/9/state/transitiontime":0}},{"success":{"/lights/9/state/on":false}}]
+
+
+2016-03-30	14:40:36
+		/lights/4/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/4/state/transitiontime":0}},{"success":{"/lights/4/state/on":false}}]
+
+
+2016-03-30	14:40:36
+		/lights/12/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/12/state/transitiontime":0}},{"success":{"/lights/12/state/on":false}}]
+
+
+2016-03-30	14:40:36
+		/lights/18/state	PUT
+		{"on":false, "transitiontime":0}
+	14:40:36
+		[{"success":{"/lights/18/state/transitiontime":0}},{"success":{"/lights/18/state/on":false}}]
+
+************************************************************************************************************************
+
+
+2016-03-30	14:40:37
+		/lights/19/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:37
+		[{"success":{"/lights/19/state/transitiontime":0}},{"success":{"/lights/19/state/on":true}},{"success":{"/lights/19/state/bri":100}}]
+
+
+2016-03-30	14:40:37
+		/lights/11/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:37
+		[{"success":{"/lights/11/state/transitiontime":0}},{"success":{"/lights/11/state/on":true}},{"success":{"/lights/11/state/bri":100}}]
+
+
+2016-03-30	14:40:37
+		/lights/7/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:37
+		[{"success":{"/lights/7/state/transitiontime":0}},{"success":{"/lights/7/state/on":true}},{"success":{"/lights/7/state/bri":100}}]
+
+
+2016-03-30	14:40:37
+		/lights/17/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:37
+		[{"success":{"/lights/17/state/transitiontime":0}},{"success":{"/lights/17/state/on":true}},{"success":{"/lights/17/state/bri":100}}]
+
+
+2016-03-30	14:40:37
+		/lights/1/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:38
+		[{"success":{"/lights/1/state/transitiontime":0}},{"success":{"/lights/1/state/on":true}},{"success":{"/lights/1/state/bri":100}}]
+
+
+2016-03-30	14:40:38
+		/lights/16/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:38
+		[{"success":{"/lights/16/state/transitiontime":0}},{"success":{"/lights/16/state/on":true}},{"success":{"/lights/16/state/bri":100}}]
+
+
+2016-03-30	14:40:38
+		/lights/5/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:38
+		[{"success":{"/lights/5/state/transitiontime":0}},{"success":{"/lights/5/state/on":true}},{"success":{"/lights/5/state/bri":100}}]
+
+
+2016-03-30	14:40:38
+		/lights/10/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:38
+		[{"success":{"/lights/10/state/transitiontime":0}},{"success":{"/lights/10/state/on":true}},{"success":{"/lights/10/state/bri":100}}]
+
+
+2016-03-30	14:40:38
+		/lights/2/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:38
+		[{"success":{"/lights/2/state/transitiontime":0}},{"success":{"/lights/2/state/on":true}},{"success":{"/lights/2/state/bri":100}}]
+
+
+2016-03-30	14:40:38
+		/lights/9/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:38
+		[{"success":{"/lights/9/state/transitiontime":0}},{"success":{"/lights/9/state/on":true}},{"success":{"/lights/9/state/bri":100}}]
+
+
+2016-03-30	14:40:38
+		/lights/4/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:38
+		[{"success":{"/lights/4/state/transitiontime":0}},{"success":{"/lights/4/state/on":true}},{"success":{"/lights/4/state/bri":100}}]
+
+
+2016-03-30	14:40:38
+		/lights/12/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:38
+		[{"success":{"/lights/12/state/transitiontime":0}},{"success":{"/lights/12/state/on":true}},{"success":{"/lights/12/state/bri":100}}]
+
+
+2016-03-30	14:40:38
+		/lights/18/state	PUT
+		{"on":true, "bri":100, "transitiontime":0}
+	14:40:38
+		[{"success":{"/lights/18/state/transitiontime":0}},{"success":{"/lights/18/state/on":true}},{"success":{"/lights/18/state/bri":100}}]
+
+************************************************************************************************************************
+
+
+Finished Test

@@ -1,0 +1,26 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.9
+			UserName: VfN85CRUt9NHr3aENeivktuQjmRjm6imbow6kLbM
+
+========================================================================================================================
+ IPJ_16524 TC1 
+
+ IPJ_16530 TC5 
+
+
+2016-04-11	16:35:11
+		/scenes	POST
+		{"name":"1_lamp_scene","lights":["1"], "recycle":true}
+	16:35:11
+		[{"success":{"id":"77zTEnZOaq5Yp-F"}}]
+
+
+2016-04-11	16:35:14
+		/groups/1/action	PUT
+		{"scene":"77zTEnZOaq5Yp-F"}
+	16:35:14
+		[{"success":{"/groups/1/action/scene":"77zTEnZOaq5Yp-F"}}]
+
+
+Finished Test

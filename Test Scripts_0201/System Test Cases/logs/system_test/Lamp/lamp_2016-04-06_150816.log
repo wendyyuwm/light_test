@@ -1,0 +1,488 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.6
+			UserName: UX6IPK3RaS1l7lTjJ2lWMb1kHXJb5BNkY1fneGC0
+
+========================================================================================================================
+ IPJ_8095 TC1 
+
+ IPJ_8096 TC2 
+
+ IPJ_8097 TC3 
+
+ IPJ_8098 TC4 
+
+ IPJ_8099 TC5 
+
+ IPJ_8100 TC6 
+
+
+2016-04-06	14:43:04
+		/groups/0/action	PUT
+		{"on": true, "bri": 150, "ct": 200}
+	14:43:04
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/bri":150}},{"success":{"/groups/0/action/ct":200}}]
+
+
+2016-04-06	14:43:21
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+
+
+2016-04-06	14:43:21
+		Light		|		bri
+		    1		|		150
+		    2		|		150
+		    3		|		150
+
+
+2016-04-06	14:43:21
+		Light		|		ct
+
+
+2016-04-06	14:43:30
+		/scenes	POST
+		{"name":"lampscene","lights":["1", "2", "3"], "recycle":true}
+	14:43:31
+		[{"success":{"id":"SzGflnFfizOepa4"}}]
+
+
+2016-04-06	14:43:33
+		/scenes/SzGflnFfizOepa4/lightstates/1	PUT
+		{"xy": [0.5175, 0.2664]}
+	14:43:30
+		[{"error":{"type":6,"address":"/scenes/SzGflnFfizOepa4/lightstates/1/xy","description":"parameter, xy, not available"}}]
+
+
+2016-04-06	14:43:34
+		/scenes/SzGflnFfizOepa4/lightstates/2	PUT
+		{"xy": [0.5175, 0.2664]}
+	14:43:30
+		[{"error":{"type":6,"address":"/scenes/SzGflnFfizOepa4/lightstates/2/xy","description":"parameter, xy, not available"}}]
+
+
+2016-04-06	14:43:35
+		/scenes/SzGflnFfizOepa4/lightstates/3	PUT
+		{"xy": [0.5175, 0.2664]}
+	14:43:30
+		[{"error":{"type":6,"address":"/scenes/SzGflnFfizOepa4/lightstates/3/xy","description":"parameter, xy, not available"}}]
+
+
+2016-04-06	14:43:39
+		/groups/0/action	PUT
+		{"scene":"SzGflnFfizOepa4"}
+	14:43:39
+		[{"success":{"/groups/0/action/scene":"SzGflnFfizOepa4"}}]
+
+
+2016-04-06	14:44:03
+		Light		|		xy
+
+************************************************************************************************************************
+
+ IPJ_8101 TC7 
+
+
+2016-04-06	14:44:12
+		/groups/0/action	PUT
+		{"on": true, "bri": 150, "xy": [0.5175, 0.2664]}
+	14:44:12
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/bri":150}},{"success":{"/groups/0/action/xy":[0.5175,0.2664]}}]
+
+
+2016-04-06	14:44:26
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+
+
+2016-04-06	14:44:26
+		Light		|		bri
+		    1		|		150
+		    2		|		150
+		    3		|		150
+
+
+2016-04-06	14:44:26
+		Light		|		xy
+
+
+2016-04-06	14:44:29
+		/scenes	POST
+		{"name":"lampscene","lights":["1", "2", "3"], "recycle":true}
+	14:44:29
+		[{"success":{"id":"iJxfj9q558fj3Ua"}}]
+
+
+2016-04-06	14:44:31
+		/scenes/iJxfj9q558fj3Ua/lightstates/1	PUT
+		{"ct": 200}
+	14:44:29
+		[{"error":{"type":6,"address":"/scenes/iJxfj9q558fj3Ua/lightstates/1/ct","description":"parameter, ct, not available"}}]
+
+
+2016-04-06	14:44:32
+		/scenes/iJxfj9q558fj3Ua/lightstates/2	PUT
+		{"ct": 200}
+	14:44:29
+		[{"error":{"type":6,"address":"/scenes/iJxfj9q558fj3Ua/lightstates/2/ct","description":"parameter, ct, not available"}}]
+
+
+2016-04-06	14:44:33
+		/scenes/iJxfj9q558fj3Ua/lightstates/3	PUT
+		{"ct": 200}
+	14:44:29
+		[{"error":{"type":6,"address":"/scenes/iJxfj9q558fj3Ua/lightstates/3/ct","description":"parameter, ct, not available"}}]
+
+
+2016-04-06	14:44:44
+		/groups/0/action	PUT
+		{"scene":"iJxfj9q558fj3Ua"}
+	14:44:44
+		[{"success":{"/groups/0/action/scene":"iJxfj9q558fj3Ua"}}]
+
+
+2016-04-06	14:44:57
+		Light		|		ct
+
+************************************************************************************************************************
+
+ IPJ_8102 TC8 
+
+
+2016-04-06	14:45:53
+		/groups/0/action	PUT
+		{"on": true, "bri": 150, "xy": [0.5175, 0.2664]}
+	14:45:53
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/bri":150}},{"success":{"/groups/0/action/xy":[0.5175,0.2664]}}]
+
+
+2016-04-06	14:46:55
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+
+
+2016-04-06	14:46:55
+		Light		|		bri
+		    1		|		150
+		    2		|		150
+		    3		|		150
+
+
+2016-04-06	14:46:55
+		Light		|		xy
+
+
+2016-04-06	14:46:57
+		/scenes	POST
+		{"name":"lampscene","lights":["1", "2", "3"], "recycle":true}
+	14:46:57
+		[{"success":{"id":"32IEI5UzMAEmRzZ"}}]
+
+
+2016-04-06	14:46:59
+		/scenes/32IEI5UzMAEmRzZ/lightstates/1	PUT
+		{"bri": 254, "hue": 65535, "sat": 254}
+	14:46:57
+		[{"success":{"/scenes/32IEI5UzMAEmRzZ/lightstates/1/bri":254}},{"error":{"type":6,"address":"/scenes/32IEI5UzMAEmRzZ/lightstates/1/hue","description":"parameter, hue, not available"}},{"error":{"type":6,"address":"/scenes/32IEI5UzMAEmRzZ/lightstates/1/sat","description":"parameter, sat, not available"}}]
+
+
+2016-04-06	14:47:00
+		/scenes/32IEI5UzMAEmRzZ/lightstates/2	PUT
+		{"bri": 254, "hue": 65535, "sat": 254}
+	14:46:57
+		[{"success":{"/scenes/32IEI5UzMAEmRzZ/lightstates/2/bri":254}},{"error":{"type":6,"address":"/scenes/32IEI5UzMAEmRzZ/lightstates/2/hue","description":"parameter, hue, not available"}},{"error":{"type":6,"address":"/scenes/32IEI5UzMAEmRzZ/lightstates/2/sat","description":"parameter, sat, not available"}}]
+
+
+2016-04-06	14:47:01
+		/scenes/32IEI5UzMAEmRzZ/lightstates/3	PUT
+		{"bri": 254, "hue": 65535, "sat": 254}
+	14:46:57
+		[{"success":{"/scenes/32IEI5UzMAEmRzZ/lightstates/3/bri":254}},{"error":{"type":6,"address":"/scenes/32IEI5UzMAEmRzZ/lightstates/3/hue","description":"parameter, hue, not available"}},{"error":{"type":6,"address":"/scenes/32IEI5UzMAEmRzZ/lightstates/3/sat","description":"parameter, sat, not available"}}]
+
+
+2016-04-06	14:48:15
+		/groups/0/action	PUT
+		{"scene":"32IEI5UzMAEmRzZ"}
+	14:48:15
+		[{"success":{"/groups/0/action/scene":"32IEI5UzMAEmRzZ"}}]
+
+
+2016-04-06	14:48:52
+		Light		|		bri
+		    1		|		254
+		    2		|		254
+		    3		|		254
+
+
+2016-04-06	14:48:52
+		Light		|		hue
+
+
+2016-04-06	14:48:52
+		Light		|		sat
+
+
+2016-04-06	14:48:52
+		Light		|		colormode
+
+************************************************************************************************************************
+
+ IPJ_8103 TC9 
+
+
+2016-04-06	14:48:55
+		/groups/0/action	PUT
+		{"on": true, "bri": 150, "xy": [0.5175, 0.2664]}
+	14:48:55
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/bri":150}},{"success":{"/groups/0/action/xy":[0.5175,0.2664]}}]
+
+
+2016-04-06	14:49:10
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+
+
+2016-04-06	14:49:10
+		Light		|		bri
+		    1		|		150
+		    2		|		150
+		    3		|		150
+
+
+2016-04-06	14:49:10
+		Light		|		xy
+
+
+2016-04-06	14:49:28
+		/groups/0/action	PUT
+		{"alert": "select"}
+	14:49:28
+		[{"success":{"/groups/0/action/alert":"select"}}]
+
+
+2016-04-06	14:49:45
+		Light		|		alert
+		    1		|		"select"
+		    2		|		"select"
+		    3		|		"select"
+
+************************************************************************************************************************
+
+ IPJ_8104 TC10 
+
+
+2016-04-06	14:50:11
+		/groups/0/action	PUT
+		{"on": true, "bri": 150, "xy": [0.5175, 0.2664]}
+	14:50:11
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/bri":150}},{"success":{"/groups/0/action/xy":[0.5175,0.2664]}}]
+
+
+2016-04-06	14:50:24
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+
+
+2016-04-06	14:50:24
+		Light		|		bri
+		    1		|		150
+		    2		|		150
+		    3		|		150
+
+
+2016-04-06	14:50:24
+		Light		|		xy
+
+
+2016-04-06	14:50:31
+		/groups/0/action	PUT
+		{"alert": "lselect"}
+	14:50:31
+		[{"success":{"/groups/0/action/alert":"lselect"}}]
+
+
+2016-04-06	14:51:20
+		Light		|		alert
+		    1		|		"lselect"
+		    2		|		"lselect"
+		    3		|		"lselect"
+
+************************************************************************************************************************
+
+ IPJ_8105 TC11 
+
+
+2016-04-06	14:51:23
+		/groups/0/action	PUT
+		{"on": true, "bri": 150, "xy": [0.5175, 0.2664]}
+	14:51:23
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/bri":150}},{"success":{"/groups/0/action/xy":[0.5175,0.2664]}}]
+
+
+2016-04-06	14:51:37
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+
+
+2016-04-06	14:51:37
+		Light		|		bri
+		    1		|		150
+		    2		|		150
+		    3		|		150
+
+
+2016-04-06	14:51:37
+		Light		|		xy
+
+
+2016-04-06	14:51:48
+		/scenes	POST
+		{"name":"lampscene","lights":["1", "2", "3"], "recycle":true}
+	14:51:48
+		[{"success":{"id":"rRmRThcEL6dS0PT"}}]
+
+
+2016-04-06	14:51:50
+		/scenes/rRmRThcEL6dS0PT/lightstates/1	PUT
+		{"on": false, "transitiontime": 100}
+	14:51:48
+		[{"success":{"/scenes/rRmRThcEL6dS0PT/lightstates/1/on":false}},{"success":{"/scenes/rRmRThcEL6dS0PT/lightstates/1/transitiontime":100}}]
+
+
+2016-04-06	14:51:51
+		/scenes/rRmRThcEL6dS0PT/lightstates/2	PUT
+		{"on": false, "transitiontime": 100}
+	14:51:48
+		[{"success":{"/scenes/rRmRThcEL6dS0PT/lightstates/2/on":false}},{"success":{"/scenes/rRmRThcEL6dS0PT/lightstates/2/transitiontime":100}}]
+
+
+2016-04-06	14:51:52
+		/scenes/rRmRThcEL6dS0PT/lightstates/3	PUT
+		{"on": false, "transitiontime": 100}
+	14:51:48
+		[{"success":{"/scenes/rRmRThcEL6dS0PT/lightstates/3/on":false}},{"success":{"/scenes/rRmRThcEL6dS0PT/lightstates/3/transitiontime":100}}]
+
+
+2016-04-06	14:51:54
+		/groups/0/action	PUT
+		{"scene":"rRmRThcEL6dS0PT"}
+	14:51:54
+		[{"success":{"/groups/0/action/scene":"rRmRThcEL6dS0PT"}}]
+
+
+2016-04-06	15:00:36
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+
+************************************************************************************************************************
+
+ IPJ_8106 TC12 
+
+
+2016-04-06	15:00:50
+		/groups/0/action	PUT
+		{"on": false}
+	15:00:50
+		[{"success":{"/groups/0/action/on":false}}]
+
+
+2016-04-06	15:01:03
+		Light		|		on
+		    1		|		false
+		    2		|		false
+		    3		|		false
+
+
+2016-04-06	15:01:15
+		/scenes	POST
+		{"name":"lampscene","lights":["1", "2", "3"], "recycle":true}
+	15:01:15
+		[{"success":{"id":"yxEMM5ggimuBoqp"}}]
+
+
+2016-04-06	15:01:17
+		/scenes/yxEMM5ggimuBoqp/lightstates/1	PUT
+		{"on": true}
+	15:01:15
+		[{"success":{"/scenes/yxEMM5ggimuBoqp/lightstates/1/on":true}}]
+
+
+2016-04-06	15:01:18
+		/scenes/yxEMM5ggimuBoqp/lightstates/2	PUT
+		{"on": true}
+	15:01:15
+		[{"success":{"/scenes/yxEMM5ggimuBoqp/lightstates/2/on":true}}]
+
+
+2016-04-06	15:01:19
+		/scenes/yxEMM5ggimuBoqp/lightstates/3	PUT
+		{"on": true}
+	15:01:15
+		[{"success":{"/scenes/yxEMM5ggimuBoqp/lightstates/3/on":true}}]
+
+
+2016-04-06	15:01:21
+		/groups/0/action	PUT
+		{"scene":"yxEMM5ggimuBoqp"}
+	15:01:21
+		[{"success":{"/groups/0/action/scene":"yxEMM5ggimuBoqp"}}]
+
+
+2016-04-06	15:05:53
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+
+************************************************************************************************************************
+
+ New_Case TC13 
+
+
+2016-04-06	15:05:57
+		/groups/0/action	PUT
+		{"hue": 65535, "sat":254, "bri":254}
+	15:05:57
+		[{"success":{"/groups/0/action/bri":254}},{"success":{"/groups/0/action/hue":65535}},{"success":{"/groups/0/action/sat":254}}]
+
+
+2016-04-06	15:06:30
+		Light		|		hue
+
+
+2016-04-06	15:06:30
+		Light		|		sat
+
+
+2016-04-06	15:06:56
+		/groups/0/action	PUT
+		{"hue": 65535, "sat":0, "transitiontime":100}
+	15:06:56
+		[{"success":{"/groups/0/action/transitiontime":100}},{"success":{"/groups/0/action/hue":65535}},{"success":{"/groups/0/action/sat":0}}]
+
+
+2016-04-06	15:07:19
+		Light		|		hue
+
+
+2016-04-06	15:07:19
+		Light		|		sat
+
+************************************************************************************************************************
+
+
+Finished Test

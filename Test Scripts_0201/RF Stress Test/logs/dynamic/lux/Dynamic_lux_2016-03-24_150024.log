@@ -1,0 +1,54 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.9
+			UserName: kHZcZJVpSJpUv2ery1CUCumdMLUEtV6Byc6t6dCa
+
+========================================================================================================================
+
+2016-03-24	15:00:22
+		/lights/1/state	PUT
+		{"on":true, "bri":1, "transitiontime":0}
+	15:00:22
+		[{"success":{"/lights/1/state/transitiontime":0}},{"success":{"/lights/1/state/on":true}},{"success":{"/lights/1/state/bri":1}}]
+
+
+2016-03-24	15:00:22
+		/lights/3/state	PUT
+		{"on":true, "bri":1, "transitiontime":0}
+	15:00:22
+		[{"success":{"/lights/3/state/transitiontime":0}},{"success":{"/lights/3/state/on":true}},{"success":{"/lights/3/state/bri":1}}]
+
+
+2016-03-24	15:00:22
+		/lights/4/state	PUT
+		{"on":true, "bri":1, "transitiontime":0}
+	15:00:22
+		[{"success":{"/lights/4/state/transitiontime":0}},{"success":{"/lights/4/state/on":true}},{"success":{"/lights/4/state/bri":1}}]
+
+************************************************************************************************************************
+
+
+2016-03-24	15:00:23
+		/lights/1/state	PUT
+		{"bri":100, "transitiontime":0}
+	15:00:23
+		[{"success":{"/lights/1/state/transitiontime":0}},{"success":{"/lights/1/state/bri":100}}]
+
+
+2016-03-24	15:00:23
+		/lights/3/state	PUT
+		{"bri":100, "transitiontime":0}
+	15:00:23
+		[{"success":{"/lights/3/state/transitiontime":0}},{"success":{"/lights/3/state/bri":100}}]
+
+
+2016-03-24	15:00:23
+		/lights/4/state	PUT
+		{"bri":100, "transitiontime":0}
+	15:00:23
+		[{"success":{"/lights/4/state/transitiontime":0}},{"success":{"/lights/4/state/bri":100}}]
+
+************************************************************************************************************************
+
+
+Finished Test

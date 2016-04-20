@@ -1,0 +1,42 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.6
+			UserName: UX6IPK3RaS1l7lTjJ2lWMb1kHXJb5BNkY1fneGC0
+
+========================================================================================================================
+ IPJ_8095 TC1 
+
+ IPJ_8096 TC2 
+
+ IPJ_8097 TC3 
+
+
+2016-04-06	14:33:45
+		/groups/0/action	PUT
+		{"alert": "lselect"}
+	14:33:45
+		[{"success":{"/groups/0/action/alert":"lselect"}}]
+
+
+2016-04-06	14:33:49
+		/lights/1/state	PUT
+		{"alert": "none"}
+	14:33:49
+		[{"success":{"/lights/1/state/alert":"none"}}]
+
+
+2016-04-06	14:33:50
+		/lights/2/state	PUT
+		{"alert": "none"}
+	14:33:50
+		[{"success":{"/lights/2/state/alert":"none"}}]
+
+
+2016-04-06	14:33:51
+		/lights/3/state	PUT
+		{"alert": "none"}
+	14:33:51
+		[{"success":{"/lights/3/state/alert":"none"}}]
+
+
+Finished Test

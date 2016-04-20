@@ -1,0 +1,128 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.6
+			UserName: UX6IPK3RaS1l7lTjJ2lWMb1kHXJb5BNkY1fneGC0
+
+========================================================================================================================
+ IPJ_8095 TC1 
+
+
+2016-04-06	14:26:13
+		/groups/0/action	PUT
+		{"effect": "colorloop"}
+	14:26:13
+		[{"success":{"/groups/0/action/effect":"colorloop"}}]
+
+
+2016-04-06	14:26:43
+		Light		|		effect
+
+
+2016-04-06	14:27:29
+		/scenes	POST
+		{"name":"lampscene","lights":["1", "2", "3"], "recycle":true}
+	14:27:29
+		[{"success":{"id":"3XtpAzS2-QI8eii"}}]
+
+
+2016-04-06	14:27:31
+		/scenes/3XtpAzS2-QI8eii/lightstates/1	PUT
+		{"effect": "none"}
+	14:27:29
+		[{"error":{"type":6,"address":"/scenes/3XtpAzS2-QI8eii/lightstates/1/effect","description":"parameter, effect, not available"}}]
+
+
+2016-04-06	14:27:32
+		/scenes/3XtpAzS2-QI8eii/lightstates/2	PUT
+		{"effect": "none"}
+	14:27:29
+		[{"error":{"type":6,"address":"/scenes/3XtpAzS2-QI8eii/lightstates/2/effect","description":"parameter, effect, not available"}}]
+
+
+2016-04-06	14:27:33
+		/scenes/3XtpAzS2-QI8eii/lightstates/3	PUT
+		{"effect": "none"}
+	14:27:29
+		[{"error":{"type":6,"address":"/scenes/3XtpAzS2-QI8eii/lightstates/3/effect","description":"parameter, effect, not available"}}]
+
+
+2016-04-06	14:27:36
+		/groups/0/action	PUT
+		{"scene":"3XtpAzS2-QI8eii"}
+	14:27:36
+		[{"success":{"/groups/0/action/scene":"3XtpAzS2-QI8eii"}}]
+
+
+2016-04-06	14:27:48
+		Light		|		effect
+
+************************************************************************************************************************
+
+ IPJ_8096 TC2 
+
+
+2016-04-06	14:28:12
+		/groups/0/action	PUT
+		{"on": false}
+	14:28:12
+		[{"success":{"/groups/0/action/on":false}}]
+
+
+2016-04-06	14:28:26
+		Light		|		on
+		    1		|		false
+		    2		|		false
+		    3		|		false
+
+
+2016-04-06	14:29:26
+		/groups/0/action	PUT
+		{"on": true, "effect": "colorloop"}
+	14:29:26
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/effect":"colorloop"}}]
+
+
+2016-04-06	14:31:32
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+
+
+2016-04-06	14:31:32
+		Light		|		effect
+
+************************************************************************************************************************
+
+ IPJ_8097 TC3 
+
+
+2016-04-06	14:31:38
+		/groups/0/action	PUT
+		{"alert": "lselect"}
+	14:31:38
+		[{"success":{"/groups/0/action/alert":"lselect"}}]
+
+
+2016-04-06	14:31:48
+		/lights/1/state	PUT
+		{"alert": "none"}
+	14:31:48
+		[{"success":{"/lights/1/state/alert":"none"}}]
+
+
+2016-04-06	14:31:49
+		/lights/2/state	PUT
+		{"alert": "none"}
+	14:31:49
+		[{"success":{"/lights/2/state/alert":"none"}}]
+
+
+2016-04-06	14:31:50
+		/lights/3/state	PUT
+		{"alert": "none"}
+	14:31:50
+		[{"success":{"/lights/3/state/alert":"none"}}]
+
+
+Finished Test

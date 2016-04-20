@@ -1,0 +1,99 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.9
+			UserName: lxHKnd9gmTgKWrqK4u58ImGU8GYkRMdUF1BY23-o
+
+========================================================================================================================
+ IPJ_8095 TC1 
+
+
+2016-04-13	16:00:55
+		/groups/1/action	PUT
+		{"effect": "colorloop"}
+	16:00:55
+		[{"success":{"/groups/1/action/effect":"colorloop"}}]
+
+
+2016-04-13	16:02:16
+		Light		|		effect
+		    1		|		"colorloop"
+		    2		|		"colorloop"
+		    3		|		"colorloop"
+		    4		|		"colorloop"
+		    5		|		"colorloop"
+		    7		|		"colorloop"
+		    8		|		"colorloop"
+		    9		|		"colorloop"
+
+
+2016-04-13	16:02:27
+		/scenes	POST
+		{"name":"lampscene","lights":["1", "2", "3", "4", "5", "7", "8", "9"], "recycle":true}
+	16:02:28
+		[{"success":{"id":"Y1xUcBalyPcDvUu"}}]
+
+
+2016-04-13	16:02:30
+		/scenes/Y1xUcBalyPcDvUu/lightstates/1	PUT
+		{"effect": "none"}
+	16:02:27
+		[{"success":{"/scenes/Y1xUcBalyPcDvUu/lightstates/1/effect":"none"}}]
+
+
+2016-04-13	16:02:31
+		/scenes/Y1xUcBalyPcDvUu/lightstates/2	PUT
+		{"effect": "none"}
+	16:02:27
+		[{"success":{"/scenes/Y1xUcBalyPcDvUu/lightstates/2/effect":"none"}}]
+
+
+2016-04-13	16:02:32
+		/scenes/Y1xUcBalyPcDvUu/lightstates/3	PUT
+		{"effect": "none"}
+	16:02:27
+		[{"success":{"/scenes/Y1xUcBalyPcDvUu/lightstates/3/effect":"none"}}]
+
+
+2016-04-13	16:02:33
+		/scenes/Y1xUcBalyPcDvUu/lightstates/4	PUT
+		{"effect": "none"}
+	16:02:27
+		[{"success":{"/scenes/Y1xUcBalyPcDvUu/lightstates/4/effect":"none"}}]
+
+
+2016-04-13	16:02:34
+		/scenes/Y1xUcBalyPcDvUu/lightstates/5	PUT
+		{"effect": "none"}
+	16:02:27
+		[{"success":{"/scenes/Y1xUcBalyPcDvUu/lightstates/5/effect":"none"}}]
+
+
+2016-04-13	16:02:35
+		/scenes/Y1xUcBalyPcDvUu/lightstates/7	PUT
+		{"effect": "none"}
+	16:02:27
+		[{"success":{"/scenes/Y1xUcBalyPcDvUu/lightstates/7/effect":"none"}}]
+
+
+2016-04-13	16:02:36
+		/scenes/Y1xUcBalyPcDvUu/lightstates/8	PUT
+		{"effect": "none"}
+	16:02:27
+		[{"success":{"/scenes/Y1xUcBalyPcDvUu/lightstates/8/effect":"none"}}]
+
+
+2016-04-13	16:02:37
+		/scenes/Y1xUcBalyPcDvUu/lightstates/9	PUT
+		{"effect": "none"}
+	16:02:27
+		[{"success":{"/scenes/Y1xUcBalyPcDvUu/lightstates/9/effect":"none"}}]
+
+
+2016-04-13	16:02:43
+		/groups/1/action	PUT
+		{"scene":"Y1xUcBalyPcDvUu"}
+	16:02:43
+		[{"success":{"/groups/1/action/scene":"Y1xUcBalyPcDvUu"}}]
+
+
+Finished Test

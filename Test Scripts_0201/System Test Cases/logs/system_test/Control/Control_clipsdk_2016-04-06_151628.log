@@ -1,0 +1,299 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.6
+			UserName: UX6IPK3RaS1l7lTjJ2lWMb1kHXJb5BNkY1fneGC0
+
+========================================================================================================================
+ IPJ_8413 TC1 
+
+
+2016-04-06	15:08:41
+		/groups/0/action	PUT
+		{"on": true, "effect": "colorloop"}
+	15:08:41
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/effect":"colorloop"}}]
+
+
+2016-04-06	15:08:56
+		Light		|		effect
+
+
+2016-04-06	15:09:04
+		/groups/0/action	PUT
+		{"effect": "none"}
+	15:09:04
+		[{"success":{"/groups/0/action/effect":"none"}}]
+
+
+2016-04-06	15:09:17
+		Light		|		effect
+
+************************************************************************************************************************
+
+ IPJ_8393 TC2 
+
+
+2016-04-06	15:09:54
+		/scenes	POST
+		{"name":"controlscene","lights":["1", "2", "3"], "recycle":true}
+	15:09:54
+		[{"success":{"id":"qYmD9rnr-giyf9T"}}]
+
+
+2016-04-06	15:09:56
+		/scenes/qYmD9rnr-giyf9T/lightstates/1	PUT
+		{"on": true, "effect": "colorloop"}
+	15:09:54
+		[{"success":{"/scenes/qYmD9rnr-giyf9T/lightstates/1/on":true}},{"error":{"type":6,"address":"/scenes/qYmD9rnr-giyf9T/lightstates/1/effect","description":"parameter, effect, not available"}}]
+
+
+2016-04-06	15:09:58
+		/scenes/qYmD9rnr-giyf9T/lightstates/2	PUT
+		{"on": true, "effect": "colorloop"}
+	15:09:54
+		[{"success":{"/scenes/qYmD9rnr-giyf9T/lightstates/2/on":true}},{"error":{"type":6,"address":"/scenes/qYmD9rnr-giyf9T/lightstates/2/effect","description":"parameter, effect, not available"}}]
+
+
+2016-04-06	15:09:59
+		/scenes/qYmD9rnr-giyf9T/lightstates/3	PUT
+		{"on": true, "effect": "colorloop"}
+	15:09:54
+		[{"success":{"/scenes/qYmD9rnr-giyf9T/lightstates/3/on":true}},{"error":{"type":6,"address":"/scenes/qYmD9rnr-giyf9T/lightstates/3/effect","description":"parameter, effect, not available"}}]
+
+
+2016-04-06	15:10:07
+		/groups/0/action	PUT
+		{"scene":"qYmD9rnr-giyf9T"}
+	15:10:07
+		[{"success":{"/groups/0/action/scene":"qYmD9rnr-giyf9T"}}]
+
+
+2016-04-06	15:10:20
+		Light		|		effect
+
+
+2016-04-06	15:10:25
+		/scenes/qYmD9rnr-giyf9T	GET
+		{"name":"controlscene","lights":["1","2","3"],"owner":"UX6IPK3RaS1l7lTjJ2lWMb1kHXJb5BNkY1fneGC0","recycle":true,"locked":false,"appdata":{},"picture":"","lastupdated":"1970-01-01T04:32:02","version":2,"lightstates":{"1":{"on":true},"2":{"on":true},"3":{"on":true}}}
+
+************************************************************************************************************************
+
+ IPJ_8392 TC3 
+
+
+2016-04-06	15:10:50
+		/groups/0/action	PUT
+		{"alert": "lselect"}
+	15:10:50
+		[{"success":{"/groups/0/action/alert":"lselect"}}]
+
+
+2016-04-06	15:10:55
+		/groups/0/action	PUT
+		{"alert": "none"}
+	15:10:55
+		[{"success":{"/groups/0/action/alert":"none"}}]
+
+
+2016-04-06	15:11:33
+		Light		|		alert
+		    1		|		"none"
+		    2		|		"none"
+		    3		|		"none"
+
+************************************************************************************************************************
+
+ IPJ_15487 TC4 
+
+
+2016-04-06	15:11:37
+		/groups/0/action	PUT
+		{"on": true, "ct": 209}
+	15:11:37
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/ct":209}}]
+
+
+2016-04-06	15:11:51
+		Light		|		ct
+
+
+2016-04-06	15:11:52
+		Light		|		colormode
+
+
+2016-04-06	15:11:55
+		/groups/0/action	PUT
+		{"hue": 47014, "sat": 172}
+	15:11:55
+		[{"success":{"/groups/0/action/hue":47014}},{"success":{"/groups/0/action/sat":172}}]
+
+
+2016-04-06	15:12:20
+		Light		|		hue
+
+
+2016-04-06	15:12:20
+		Light		|		sat
+
+
+2016-04-06	15:12:20
+		Light		|		colormode
+
+************************************************************************************************************************
+
+ IPJ_15488 TC5 
+
+
+2016-04-06	15:12:37
+		/groups/0/action	PUT
+		{"on": true, "ct": 439}
+	15:12:37
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/ct":439}}]
+
+
+2016-04-06	15:12:50
+		Light		|		ct
+
+
+2016-04-06	15:12:50
+		Light		|		colormode
+
+
+2016-04-06	15:12:53
+		/scenes	POST
+		{"name":"controlscene","lights":["1", "2", "3"], "recycle":true}
+	15:12:53
+		[{"success":{"id":"3iBE00o8Z-qTHAN"}}]
+
+
+2016-04-06	15:12:55
+		/scenes/3iBE00o8Z-qTHAN/lightstates/1	PUT
+		{"xy": [0.67725, 0.32008]}
+	15:12:53
+		[{"error":{"type":6,"address":"/scenes/3iBE00o8Z-qTHAN/lightstates/1/xy","description":"parameter, xy, not available"}}]
+
+
+2016-04-06	15:12:56
+		/scenes/3iBE00o8Z-qTHAN/lightstates/2	PUT
+		{"xy": [0.67725, 0.32008]}
+	15:12:53
+		[{"error":{"type":6,"address":"/scenes/3iBE00o8Z-qTHAN/lightstates/2/xy","description":"parameter, xy, not available"}}]
+
+
+2016-04-06	15:12:57
+		/scenes/3iBE00o8Z-qTHAN/lightstates/3	PUT
+		{"xy": [0.67725, 0.32008]}
+	15:12:53
+		[{"error":{"type":6,"address":"/scenes/3iBE00o8Z-qTHAN/lightstates/3/xy","description":"parameter, xy, not available"}}]
+
+
+2016-04-06	15:13:01
+		/groups/0/action	PUT
+		{"scene":"3iBE00o8Z-qTHAN"}
+	15:13:01
+		[{"success":{"/groups/0/action/scene":"3iBE00o8Z-qTHAN"}}]
+
+
+2016-04-06	15:13:12
+		Light		|		xy
+
+
+2016-04-06	15:13:12
+		Light		|		colormode
+
+************************************************************************************************************************
+
+ IPJ_15489 TC6 
+
+
+2016-04-06	15:13:16
+		/lights/1/state	PUT
+		{"on": true, "xy": [0.5175, 0.2664]}
+	15:13:16
+		[{"success":{"/lights/1/state/on":true}},{"error":{"type":6,"address":"/lights/1/state/xy","description":"parameter, xy, not available"}}]
+
+
+2016-04-06	15:13:18
+		/lights/2/state	PUT
+		{"on": true, "xy": [0.5175, 0.2664]}
+	15:13:18
+		[{"success":{"/lights/2/state/on":true}},{"error":{"type":6,"address":"/lights/2/state/xy","description":"parameter, xy, not available"}}]
+
+
+2016-04-06	15:13:20
+		/lights/3/state	PUT
+		{"on": true, "xy": [0.5175, 0.2664]}
+	15:13:20
+		[{"success":{"/lights/3/state/on":true}},{"error":{"type":6,"address":"/lights/3/state/xy","description":"parameter, xy, not available"}}]
+
+
+2016-04-06	15:13:38
+		Light		|		xy
+
+
+2016-04-06	15:13:38
+		Light		|		colormode
+
+
+2016-04-06	15:13:41
+		/lights/1/state	PUT
+		{"ct": 390}
+	15:13:41
+		[{"error":{"type":6,"address":"/lights/1/state/ct","description":"parameter, ct, not available"}}]
+
+
+2016-04-06	15:13:43
+		/lights/2/state	PUT
+		{"ct": 390}
+	15:13:43
+		[{"error":{"type":6,"address":"/lights/2/state/ct","description":"parameter, ct, not available"}}]
+
+
+2016-04-06	15:13:45
+		/lights/3/state	PUT
+		{"ct": 390}
+	15:13:45
+		[{"error":{"type":6,"address":"/lights/3/state/ct","description":"parameter, ct, not available"}}]
+
+
+2016-04-06	15:14:18
+		Light		|		ct
+
+
+2016-04-06	15:14:18
+		Light		|		colormode
+
+************************************************************************************************************************
+
+ IPJ_15490 TC7 
+
+
+2016-04-06	15:14:21
+		/groups/0/action	PUT
+		{"on": false}
+	15:14:21
+		[{"success":{"/groups/0/action/on":false}}]
+
+
+2016-04-06	15:14:34
+		Light		|		on
+		    1		|		false
+		    2		|		false
+		    3		|		false
+
+
+2016-04-06	15:14:36
+		/groups/0/action	PUT
+		{"on": true}
+	15:14:36
+		[{"success":{"/groups/0/action/on":true}}]
+
+
+2016-04-06	15:15:32
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+
+
+Finished Test

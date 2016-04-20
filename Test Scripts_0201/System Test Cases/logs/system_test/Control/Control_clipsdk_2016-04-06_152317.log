@@ -1,0 +1,259 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.6
+			UserName: UX6IPK3RaS1l7lTjJ2lWMb1kHXJb5BNkY1fneGC0
+
+========================================================================================================================
+ IPJ_8413 TC1 
+
+ IPJ_8393 TC2 
+
+ IPJ_8392 TC3 
+
+ IPJ_15487 TC4 
+
+ IPJ_15488 TC5 
+
+ IPJ_15489 TC6 
+
+ IPJ_15490 TC7 
+
+
+2016-04-06	15:16:39
+		/groups/0/action	PUT
+		{"on": false}
+	15:16:39
+		[{"success":{"/groups/0/action/on":false}}]
+
+
+2016-04-06	15:16:52
+		Light		|		on
+		    1		|		false
+		    2		|		false
+		    3		|		false
+
+
+2016-04-06	15:16:56
+		/groups/0/action	PUT
+		{"on": true}
+	15:16:56
+		[{"success":{"/groups/0/action/on":true}}]
+
+
+2016-04-06	15:17:49
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+
+************************************************************************************************************************
+
+ IPJ_15491 TC8 
+
+
+2016-04-06	15:17:52
+		/groups/0/action	PUT
+		{"on": true}
+	15:17:52
+		[{"success":{"/groups/0/action/on":true}}]
+
+
+2016-04-06	15:18:04
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+
+
+2016-04-06	15:18:08
+		/scenes	POST
+		{"name":"controlscene","lights":["1", "2", "3"], "recycle":true}
+	15:18:08
+		[{"success":{"id":"7cW0h-i3ht1H9Ly"}}]
+
+
+2016-04-06	15:18:10
+		/scenes/7cW0h-i3ht1H9Ly/lightstates/1	PUT
+		{"on": false}
+	15:18:08
+		[{"success":{"/scenes/7cW0h-i3ht1H9Ly/lightstates/1/on":false}}]
+
+
+2016-04-06	15:18:11
+		/scenes/7cW0h-i3ht1H9Ly/lightstates/2	PUT
+		{"on": false}
+	15:18:08
+		[{"success":{"/scenes/7cW0h-i3ht1H9Ly/lightstates/2/on":false}}]
+
+
+2016-04-06	15:18:12
+		/scenes/7cW0h-i3ht1H9Ly/lightstates/3	PUT
+		{"on": false}
+	15:18:08
+		[{"success":{"/scenes/7cW0h-i3ht1H9Ly/lightstates/3/on":false}}]
+
+
+2016-04-06	15:18:14
+		/groups/0/action	PUT
+		{"scene":"7cW0h-i3ht1H9Ly"}
+	15:18:14
+		[{"success":{"/groups/0/action/scene":"7cW0h-i3ht1H9Ly"}}]
+
+
+2016-04-06	15:18:28
+		Light		|		on
+		    1		|		false
+		    2		|		false
+		    3		|		false
+
+************************************************************************************************************************
+
+ IPJ_15491 TC9 
+
+************************************************************************************************************************
+
+ IPJ_15493 TC10 
+
+
+2016-04-06	15:20:29
+		/groups/0/action	PUT
+		{"on": true, "bri": 39}
+	15:20:29
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/bri":39}}]
+
+
+2016-04-06	15:20:44
+		Light		|		bri
+		    1		|		39
+		    2		|		39
+		    3		|		39
+
+
+2016-04-06	15:20:47
+		/groups/0/action	PUT
+		{"bri": 206}
+	15:20:47
+		[{"success":{"/groups/0/action/bri":206}}]
+
+
+2016-04-06	15:21:02
+		Light		|		bri
+		    1		|		206
+		    2		|		206
+		    3		|		206
+
+************************************************************************************************************************
+
+ IPJ_15494 TC11 
+
+
+2016-04-06	15:21:39
+		/groups/0/action	PUT
+		{"on": true, "bri": 255, "xy": [0.16011, 0.0358]}
+	15:21:39
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/bri":254}},{"success":{"/groups/0/action/xy":[0.1601,0.0358]}}]
+
+
+2016-04-06	15:22:02
+		Light		|		bri
+		    1		|		254
+		    2		|		254
+		    3		|		254
+
+
+2016-04-06	15:22:02
+		Light		|		xy
+
+
+2016-04-06	15:22:12
+		/scenes	POST
+		{"name":"controlscene","lights":["1", "2", "3"], "recycle":true}
+	15:22:12
+		[{"success":{"id":"wZt0bH69cgrEaUx"}}]
+
+
+2016-04-06	15:22:14
+		/scenes/wZt0bH69cgrEaUx/lightstates/1	PUT
+		{"xy": [0.68093, 0.32429],"transitiontime":100}
+	15:22:12
+		[{"error":{"type":6,"address":"/scenes/wZt0bH69cgrEaUx/lightstates/1/xy","description":"parameter, xy, not available"}},{"success":{"/scenes/wZt0bH69cgrEaUx/lightstates/1/transitiontime":100}}]
+
+
+2016-04-06	15:22:15
+		/scenes/wZt0bH69cgrEaUx/lightstates/2	PUT
+		{"xy": [0.68093, 0.32429],"transitiontime":100}
+	15:22:12
+		[{"error":{"type":6,"address":"/scenes/wZt0bH69cgrEaUx/lightstates/2/xy","description":"parameter, xy, not available"}},{"success":{"/scenes/wZt0bH69cgrEaUx/lightstates/2/transitiontime":100}}]
+
+
+2016-04-06	15:22:16
+		/scenes/wZt0bH69cgrEaUx/lightstates/3	PUT
+		{"xy": [0.68093, 0.32429],"transitiontime":100}
+	15:22:12
+		[{"error":{"type":6,"address":"/scenes/wZt0bH69cgrEaUx/lightstates/3/xy","description":"parameter, xy, not available"}},{"success":{"/scenes/wZt0bH69cgrEaUx/lightstates/3/transitiontime":100}}]
+
+
+2016-04-06	15:22:19
+		/groups/0/action	PUT
+		{"scene":"wZt0bH69cgrEaUx"}
+	15:22:19
+		[{"success":{"/groups/0/action/scene":"wZt0bH69cgrEaUx"}}]
+
+
+2016-04-06	15:22:32
+		Light		|		xy
+
+************************************************************************************************************************
+
+ IPJ_15495 TC12 
+
+
+2016-04-06	15:22:38
+		/groups/0/action	PUT
+		{"on": true, "alert": "lselect"}
+	15:22:38
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/alert":"lselect"}}]
+
+
+2016-04-06	15:22:52
+		Light		|		alert
+		    1		|		"lselect"
+		    2		|		"lselect"
+		    3		|		"lselect"
+
+************************************************************************************************************************
+
+ IPJ_15496 TC13 
+
+
+2016-04-06	15:22:56
+		/lights/1/state	PUT
+		{"on": true, "alert": "select"}
+	15:22:56
+		[{"success":{"/lights/1/state/on":true}},{"success":{"/lights/1/state/alert":"select"}}]
+
+
+2016-04-06	15:22:58
+		/lights/2/state	PUT
+		{"on": true, "alert": "select"}
+	15:22:58
+		[{"success":{"/lights/2/state/on":true}},{"success":{"/lights/2/state/alert":"select"}}]
+
+
+2016-04-06	15:23:00
+		/lights/3/state	PUT
+		{"on": true, "alert": "select"}
+	15:23:00
+		[{"success":{"/lights/3/state/on":true}},{"success":{"/lights/3/state/alert":"select"}}]
+
+
+2016-04-06	15:23:14
+		Light		|		alert
+		    1		|		"select"
+		    2		|		"select"
+		    3		|		"select"
+
+************************************************************************************************************************
+
+
+Finished Test

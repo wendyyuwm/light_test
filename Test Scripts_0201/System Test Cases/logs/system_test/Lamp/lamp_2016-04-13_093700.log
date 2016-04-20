@@ -1,0 +1,172 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.9
+			UserName: lxHKnd9gmTgKWrqK4u58ImGU8GYkRMdUF1BY23-o
+
+========================================================================================================================
+ IPJ_8095 TC1 
+
+ IPJ_8096 TC2 
+
+ IPJ_8097 TC3 
+
+ IPJ_8098 TC4 
+
+ IPJ_8099 TC5 
+
+ IPJ_8100 TC6 
+
+ IPJ_8101 TC7 
+
+ IPJ_8102 TC8 
+
+ IPJ_8103 TC9 
+
+ IPJ_8104 TC10 
+
+ IPJ_8105 TC11 
+
+
+2016-04-13	09:32:06
+		/groups/0/action	PUT
+		{"on": true, "bri": 150, "xy": [0.5175, 0.2664]}
+	09:32:06
+		[{"success":{"/groups/0/action/on":true}},{"success":{"/groups/0/action/bri":150}},{"success":{"/groups/0/action/xy":[0.5175,0.2664]}}]
+
+
+2016-04-13	09:32:11
+		Light		|		on
+		    1		|		true
+		    2		|		true
+		    3		|		true
+		    4		|		true
+
+
+2016-04-13	09:32:11
+		Light		|		bri
+		    1		|		150
+		    2		|		150
+		    3		|		150
+		    4		|		150
+
+
+2016-04-13	09:32:11
+		Light		|		xy
+		    1		|		[0.5175, 0.2664]
+		    2		|		[0.5175, 0.2664]
+		    3		|		[0.5176, 0.2663]
+		    4		|		[0.5176, 0.2663]
+
+
+2016-04-13	09:32:30
+		/scenes	POST
+		{"name":"lampscene","lights":["1", "2", "3", "4"], "recycle":true}
+	09:32:30
+		[{"success":{"id":"DjJmcu4Fy3vy5hy"}}]
+
+
+2016-04-13	09:32:32
+		/scenes/DjJmcu4Fy3vy5hy/lightstates/1	PUT
+		{"on": false, "transitiontime": 100}
+	09:32:30
+		[{"success":{"/scenes/DjJmcu4Fy3vy5hy/lightstates/1/on":false}},{"success":{"/scenes/DjJmcu4Fy3vy5hy/lightstates/1/transitiontime":100}}]
+
+
+2016-04-13	09:32:33
+		/scenes/DjJmcu4Fy3vy5hy/lightstates/2	PUT
+		{"on": false, "transitiontime": 100}
+	09:32:30
+		[{"success":{"/scenes/DjJmcu4Fy3vy5hy/lightstates/2/on":false}},{"success":{"/scenes/DjJmcu4Fy3vy5hy/lightstates/2/transitiontime":100}}]
+
+
+2016-04-13	09:32:34
+		/scenes/DjJmcu4Fy3vy5hy/lightstates/3	PUT
+		{"on": false, "transitiontime": 100}
+	09:32:30
+		[{"success":{"/scenes/DjJmcu4Fy3vy5hy/lightstates/3/on":false}},{"success":{"/scenes/DjJmcu4Fy3vy5hy/lightstates/3/transitiontime":100}}]
+
+
+2016-04-13	09:32:35
+		/scenes/DjJmcu4Fy3vy5hy/lightstates/4	PUT
+		{"on": false, "transitiontime": 100}
+	09:32:30
+		[{"success":{"/scenes/DjJmcu4Fy3vy5hy/lightstates/4/on":false}},{"success":{"/scenes/DjJmcu4Fy3vy5hy/lightstates/4/transitiontime":100}}]
+
+
+2016-04-13	09:32:52
+		/groups/0/action	PUT
+		{"scene":"DjJmcu4Fy3vy5hy"}
+	09:32:52
+		[{"success":{"/groups/0/action/scene":"DjJmcu4Fy3vy5hy"}}]
+
+
+2016-04-13	09:36:10
+		Light		|		on
+		    1		|		false
+		    2		|		false
+		    3		|		false
+		    4		|		false
+
+************************************************************************************************************************
+
+ IPJ_8106 TC12 
+
+
+2016-04-13	09:36:13
+		/groups/0/action	PUT
+		{"on": false}
+	09:36:13
+		[{"success":{"/groups/0/action/on":false}}]
+
+
+2016-04-13	09:36:22
+		Light		|		on
+		    1		|		false
+		    2		|		false
+		    3		|		false
+		    4		|		false
+
+
+2016-04-13	09:36:25
+		/scenes	POST
+		{"name":"lampscene","lights":["1", "2", "3", "4"], "recycle":true}
+	09:36:25
+		[{"success":{"id":"6NhGGmH-u6bbDWT"}}]
+
+
+2016-04-13	09:36:27
+		/scenes/6NhGGmH-u6bbDWT/lightstates/1	PUT
+		{"on": true}
+	09:36:25
+		[{"success":{"/scenes/6NhGGmH-u6bbDWT/lightstates/1/on":true}}]
+
+
+2016-04-13	09:36:28
+		/scenes/6NhGGmH-u6bbDWT/lightstates/2	PUT
+		{"on": true}
+	09:36:25
+		[{"success":{"/scenes/6NhGGmH-u6bbDWT/lightstates/2/on":true}}]
+
+
+2016-04-13	09:36:29
+		/scenes/6NhGGmH-u6bbDWT/lightstates/3	PUT
+		{"on": true}
+	09:36:25
+		[{"success":{"/scenes/6NhGGmH-u6bbDWT/lightstates/3/on":true}}]
+
+
+2016-04-13	09:36:30
+		/scenes/6NhGGmH-u6bbDWT/lightstates/4	PUT
+		{"on": true}
+	09:36:25
+		[{"success":{"/scenes/6NhGGmH-u6bbDWT/lightstates/4/on":true}}]
+
+
+2016-04-13	09:36:55
+		/groups/0/action	PUT
+		{"scene":"6NhGGmH-u6bbDWT"}
+	09:36:55
+		[{"success":{"/groups/0/action/scene":"6NhGGmH-u6bbDWT"}}]
+
+
+Finished Test

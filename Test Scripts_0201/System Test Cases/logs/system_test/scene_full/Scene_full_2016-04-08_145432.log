@@ -1,0 +1,36 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.9
+			UserName: UX6IPK3RaS1l7lTjJ2lWMb1kHXJb5BNkY1fneGC0
+
+========================================================================================================================**********	1 scene(s)	**********
+
+2016-04-08	14:54:23
+		/scenes	POST
+		{"name":"Scene1_145423","lights":["1", "2", "3"], "recycle":true}
+	14:54:23
+		[{"success":{"id":"cFIAtto2NoVcLGn"}}]
+
+
+2016-04-08	14:54:25
+		/scenes/cFIAtto2NoVcLGn/lightstates/1	PUT
+		"on":true,"bri":25
+	14:54:23
+		[{"error":{"type":2,"address":"/scenes/cFIAtto2NoVcLGn/lightstates/1","description":"body contains invalid json"}}]
+
+
+2016-04-08	14:54:26
+		/scenes/cFIAtto2NoVcLGn/lightstates/2	PUT
+		"on":true,"bri":25
+	14:54:23
+		[{"error":{"type":2,"address":"/scenes/cFIAtto2NoVcLGn/lightstates/2","description":"body contains invalid json"}}]
+
+
+2016-04-08	14:54:27
+		/scenes/cFIAtto2NoVcLGn/lightstates/3	PUT
+		"on":true,"bri":25
+	14:54:23
+		[{"error":{"type":2,"address":"/scenes/cFIAtto2NoVcLGn/lightstates/3","description":"body contains invalid json"}}]
+
+
+Finished Test

@@ -1,0 +1,24 @@
+========================================================================================================================
+
+			BridgeIp: 192.168.1.6
+			UserName: UX6IPK3RaS1l7lTjJ2lWMb1kHXJb5BNkY1fneGC0
+
+========================================================================================================================
+ IPJ_16524 TC1 
+
+
+2016-04-07	13:59:46
+		/scenes	POST
+		{"name":"1_lamp_scene","lights":["1"], "recycle":true}
+	13:59:46
+		[{"success":{"id":"ilHSiPUhvkRMylX"}}]
+
+
+2016-04-07	13:59:48
+		/scenes/ilHSiPUhvkRMylX/lightstates/1	PUT
+		{"on": true, "ct": 153}
+	13:59:46
+		[{"success":{"/scenes/ilHSiPUhvkRMylX/lightstates/1/on":true}},{"error":{"type":6,"address":"/scenes/ilHSiPUhvkRMylX/lightstates/1/ct","description":"parameter, ct, not available"}}]
+
+
+Finished Test
